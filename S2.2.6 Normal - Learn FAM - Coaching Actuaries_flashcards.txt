@@ -1,0 +1,46 @@
+ 1. What is the PDF of a normal distribution with mean mu and variance sigma squared?
+The PDF of a normal distribution with mean mu and variance sigma squared is: 
+
+2. What is the PDF of a standard normal distribution?
+The PDF of a standard normal distribution is the blue curve in the middle. It has a mean of 0 and a variance of 1, and is usually denoted as: 
+
+3. How is the CDF of a standard normal distribution represented?
+The CDF of a standard normal distribution is represented as: 
+
+4. How is the percentile of a standard normal distribution denoted?
+The percentile of a standard normal distribution is denoted as:question;answer
+What is the purpose of the cumulative normal distribution calculator?;To insert a percentile and get the corresponding probability.
+What is the purpose of the inverse CDF calculator?;To insert a probability and get the corresponding percentile.
+What is the example given in the text?;Calculating the value of a standard normal random variable given a percentile.Question: How can we calculate the CDF of a normal distribution?
+Answer: The CDF of a normal distribution can be calculated by standardizing the normal random variable.
+
+Question: How can we calculate percentiles of a normal distribution?
+Answer: The same logic applies to percentiles. Let x be the 100th percentile of a normal distribution with mean mu and variance sigma^2.
+
+Question: Consider the following example: X follows a normal distribution with mean 3 and standard deviation 2. Find the 97th standard normal percentile using the inverse CDF calculator.
+Answer: Calculate the 97th percentile of X.
+
+Question: Calculate the 97th percentile of X.
+Answer: Reverse the standardization to get the percentile for X.Q: What is a lognormal distribution?
+A: A lognormal distribution is a log-transformed normal distribution.
+
+Q: What is the PDF of a lognormal distribution?
+A: A lognormal distribution's PDF resembles a normal distribution's PDF, with the most prominent difference of  in the exponent in place of .
+
+Q: Are the  and  of the lognormal distribution its mean and variance?
+A: No, the  and  of the lognormal distribution are just parameters, not its mean and variance.
+
+Q: How can the lognormal mean and variance be calculated?
+A: The variance can be calculated from the first and second moments or using a shortcut formula.
+
+Q: How can the CDF of a lognormal distribution be calculated?
+A: The CDF of a lognormal distribution can be calculated by log-transforming the normal random variable.1. Calculate the 95th percentile of the standard normal random variable.
+Answer: 1.645
+2. Convert the 95th percentile of the standard normal random variable to the corresponding percentile of a non-standard normal random variable.
+Answer: Multiply by the standard deviation and add the mean.
+3. Convert the normal percentile to its lognormal counterpart.
+Answer: Use the formula: exp(μ + σ * Φ^(-1)(p)), where μ is the mean and σ is the standard deviation of the lognormal random variable, and Φ^(-1)(p) is the inverse of the cumulative distribution function of the standard normal random variable evaluated at the pth percentile.Question: What is the sum of independent normal random variables?
+Answer: The sum of independent normal random variables is a new normal random variable with mean and variance equal to the sum of the individual means and variances, respectively.
+
+Question: Can you provide an example?
+Answer: For example, assume X and Y are two independent normal random variables. Define Z as the sum. Z follows a normal distribution with the following mean and variance.

@@ -1,0 +1,218 @@
+What is the purpose of the Constitution?;To form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity.
+Who is responsible for establishing the Constitution?;We the People of the United States.
+What does the Constitution aim to achieve?;To create a more perfect Union, establish Justice, ensure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity.1. What is Article I of the Constitution about?
+How long must a person be a citizen of the United States to be a Representative?;7 Years
+What is the residency requirement for a Representative in the State Legislature?;Inhabitant of the State in which they are chosen
+How are Representatives and direct Taxes apportioned among the several States within the Union?;According to their respective Numbers
+How are the respective Numbers of the States determined for apportionment?;Adding to the whole NumberWhat is the purpose of the provided text?
+Who chooses the Speaker and other Officers in the House of Representatives?;The House of Representatives itself.
+How many Senators are there from each State?;Two Senators from each State.
+How are the Senators divided after the first Election?;They are divided into three Classes.question
+When will the second class be vacated?;At the expiration of the fourth year.
+When will the third class be vacated?;At the expiration of the sixth year.
+How often will one third be chosen?;Every second year.
+What happens if vacancies happen during the recess of the legislature?;The executive may make temporary appointments until the next meeting of the legislature.
+Who will fill the vacancies created during the recess of the legislature?;The legislature will fill such vacancies.question;What is the minimum age requirement to be a Senator in the United States?
+Can a convicted party still be subject to indictment, trial, judgment, and punishment?;yes, the convicted party is still liable and subject to indictment, trial, judgment, and punishment according to law.
+Who prescribes the times, places, and manner of holding elections for Senators and Representatives?;the Legislature of each state prescribes the times, places, and manner of holding elections for Senators and Representatives.
+Can Congress make or alter such regulations for elections?;yes, Congress has the power to make or alter such regulations for elections at any time by law.question
+How often does the Congress assemble?;The Congress assembles at least once every year.
+When is the default meeting date for the Congress?;The default meeting date for the Congress is on the first Monday in December.
+Can the Congress change the meeting date?;Yes, the Congress can appoint a different day for the meeting by law.
+Who is responsible for judging the Elections, Returns, and Qualifications of its own Members?;Each House of the Congress is responsible for judging the Elections, Returns, and Qualifications of its own Members.
+How many members constitute a Quorum for each House?;A majority of each House constitutes a Quorum to do Business.
+Can a smaller number of members adjourn from day to day?;Yes, a smaller number of members can adjourn from day to day.
+Can a smaller number of members be authorized to compel the attendance of absent members?;Yes, a smaller number of members can be authorized to compel the attendance of absent members.question
+What must each House do in regards to keeping a record of its proceedings?;Each House shall keep a Journal of its Proceedings and from time to time publish the same.
+What parts of the House's proceedings can be kept secret?;Such parts as may in their judgment require secrecy.
+What must be recorded for each Member on any question?;The Yeas and Nays of the Members of either House.1. What is the requirement for an entry to be made on the Journal?
+What privilege do Senators and Representatives have regarding arrest during their attendance at the session of their respective Houses?;They are privileged from arrest.
+In what situations are Senators and Representatives privileged from arrest?;They are privileged from arrest during their attendance at the session of their respective Houses, and in going to and returning from the same.
+What protection do Senators and Representatives have regarding their speeches and debates?;They shall not be questioned in any other place for any Speech or Debate in either House.
+Can a Senator or Representative be appointed to any civil office under the authority of the United States during the time for which they were elected?;No, they cannot be appointed to any civil office under the authority of the United States during the time for which they were elected.
+Are there any exceptions to the prohibition of Senators and Representatives being appointed to civil office during their elected term?;No exceptions are mentioned in the provided text.Q
+In which House should all Bills for raising Revenue originate?;The House of Representatives.
+Can the Senate propose or concur with Amendments on Bills for raising Revenue?;Yes, the Senate may propose or concur with Amendments.
+What is the requirement for a Bill to become a law?;It must be passed by both the House of Representatives and the Senate.Q
+What is the purpose of collecting taxes?;To pay the debts and provide for the common defense and general welfare of the United States.
+How should duties, imposts, and excises be implemented?;They should be uniform throughout the United States.
+What power does Congress have regarding borrowing money?;The power to borrow money on the credit of the United States.
+What power does Congress have regarding commerce?;The power to regulate commerce with foreign nations, among the several states, and with the Indian tribes.question
+What is the purpose of establishing uniform Laws on the subject of Bankruptcies?;To establish uniform Laws on the subject of Bankruptcies throughout the United States.
+What is the purpose of coining Money?;To coin Money.
+What is the purpose of regulating the Value of Money?;To regulate the Value of Money.
+What is the purpose of regulating the Value of foreign Coin?;To regulate the Value of foreign Coin.
+What is the purpose of fixing the Standard of Weights and Measures?;To fix the Standard of Weights and Measures.
+What is the purpose of providing for the Punishment of counterfeiting?;To provide for the Punishment of counterfeiting the Securities and current Coin of the United States.
+What is the purpose of establishing Post Offices?;To establish Post Offices.
+What is the purpose of establishing post Roads?;To establish post Roads.
+What is the purpose of promoting the Progress of Science and useful Arts?;To promote the Progress of Science and useful Arts.
+What is the purpose of securing limited Times to Authors?;To secure for limited Times to Authors.Inventors the exclusive Right to their respective Writings and Discoveries; Answer
+What is the Migration or Importation Clause?;It states that the Congress cannot prohibit the migration or importation of certain persons as deemed proper by the states currently in existence.r to the Year one thousand and eight, a Tax or duty may be imposed on such Importation, not exceeding ten dollars for each Person.
+What is the maximum amount of tax that can be imposed on the importation of each person?;Ten dollars.
+Under what circumstances can the Privilege of the Writ of Habeas Corpus be suspended?;In cases of Rebellion or Invasion when the public Safety may require it.
+What types of laws are prohibited from being passed?;Bill of Attainder and ex post facto Law.
+What conditions must be met in order to lay a Capitation or other direct Tax?;It must be in proportion to the Census or Enumeration as directed before.No Tax or Duty shall be laid on Articles exported from any State; No Preference shall be given by any Regulation of Commerce or Revenue to the Ports of one State over those of another
+Can any tax or duty be imposed on articles exported from a state?;No, no tax or duty shall be laid on articles exported from any state.
+Can a preference be given to the ports of one state over another?;No, no preference shall be given by any regulation of commerce or revenue to the ports of one state over those of another.
+Are vessels bound to or from one state required to enter, clear, or pay duties in another state?;No, vessels bound to or from one state shall not be obliged to enter, clear, or pay duties in another state.
+How can money be withdrawn from the treasury?;Money can only be drawn from the treasury in consequence of appropriations made by law.
+Is there a requirement to maintain a regular statement and account of the receipts and expenditures of public money?;Yes, a regular statement and account of the receipts and expenditures of all public money shall be maintained.Question
+Can a person holding an office of profit or trust accept any present, emolument, office, or title from a foreign state without the consent of Congress?;No, without the Consent of the Congress, they cannot accept of any present, emolument, office, or title of any kind whatever from any King, Prince, or foreign State.
+What restrictions are placed on the states regarding treaties, alliances, and confederations?;No State shall enter into any Treaty, Alliance, or Confederation.
+What actions are prohibited to the states regarding money?;The states cannot coin money, emit bills of credit, or make any thing a tender in payment of debts.Question
+Can a state impose Imposts or Duties on Imports or Exports without the consent of Congress?;No, a state cannot lay any Imposts or Duties on Imports or Exports without the Consent of the Congress.
+Can a state impose Imposts or Duties on Imports or Exports for executing its inspection Laws?;Yes, a state can impose Imposts or Duties on Imports or Exports if it is absolutely necessary for executing its inspection Laws.
+What is the use of the net Produce of all Duties and Imposts, laid by any State on Imports or Exports?;The net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the Use of the Treasury.What is the subject of Article II of the United States Constitution?; The subject of Article II is the Executive Branch of government.
+How long is the term of the President?;Four years.
+How is the President elected?;Together with the Vice President, chosen for the same term.
+How are the Electors appointed?;Each State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors.
+How many Electors does each State appoint?;A Number of Electors equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress.
+Can Senators or Representatives be Electors?;No Senator or Representative, or Person.The format for the Anki flashcards will be as follows
+What does the President of the Senate do?;The President of the Senate shall, in the Presence of the Senate and House of Representatives, open all the Certificates, and the Votes shall then be counted.
+How is the President determined?;The Person having the greatest Number of Votes shall be the President, if such Number be a Majority of the whole Number of Electors appointed.
+What happens if there is more than one candidate with a majority of votes?;If there be more than one who have such Majority, and have an equal Number of Votes, then the House of Representatives shall immediately choose by Ballot.1. What happens if no person has a majority for President?
+What compensation does the President receive for his services?;The President receives a compensation that cannot be increased or diminished during his elected period.
+Can the President receive any additional compensation within his elected period?;No, the President shall not receive any additional compensation within his elected period.Question
+What is the title of the document that outlines the structure of the United States government?;Constitution of the United States.
+What is the role of the President as stated in the Constitution?;The President shall be CommanderChief of the Army and Navy of the United States, and of the Militia of the several States, when called into the actual Service of the United States; he may require the Opinion, in writing, of the principal Officer in each of the executive Departments, upon any Subject relating to the Duties of their respective Offices, and he shall have Power to grant Reprieves and Pardons for Offenses against the United States, except in Cases of Impeachment.
+In which article of the United States Constitution is the judicial power of the United States mentioned?;Article III.
+How is the judicial power of the United States vested?;In one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish.
+How long do the Judges of the supreme and inferior Courts hold their Offices?;During good Behaviour.question
+What cases does the judicial power extend to?;The judicial power shall extend to all cases, in law and equity, arising under this Constitution, the laws of the United States, and treaties made, or which shall be made, under their authority.
+What cases does the judicial power extend to regarding ambassadors, public ministers, and consuls?;The judicial power extends to all cases affecting ambassadors, other public ministers, and consuls.
+What cases does the judicial power extend to regarding admiralty and maritime jurisdiction?;The judicial power extends to all cases of admiralty and maritime jurisdiction.1. What are the controversies in which the United States shall be a party?
+What is Article IV, Section 1 of the Constitution of the United States about?;Full Faith and Credit
+What shall be given in each state to the public acts, records, and judicial proceedings of every other state?;Full Faith and Credit
+What may Congress do regarding the manner in which acts, records, and proceedings are proved and their effect?;Prescribe by general laws
+What is Article IV, Section 2 of the Constitution of the United States about?;The Citizenship1. What do citizens of each state have the right to?
+Can new states be admitted into the Union?;Yes, new states may be admitted by the Congress into this Union.
+Is it allowed to form or erect a new state within the jurisdiction of an existing state?;No, no new state shall be formed or erected within the jurisdiction of any other state.
+Can a state be formed by the joining of two or more states or parts of states without consent?;No, a state cannot be formed by the junction of two or more states or parts of states without the consent of the legislature.question
+Can anything in the Constitution prejudice the Claims of the United States or any particular State?;No, nothing in this Constitution shall be so construed as to Prejudice any Claims of the United States, or of any particular State.
+What is the guarantee of the United States to every State in the Union?;The United States shall guarantee to every State in this Union a Republican Form of Government.
+What is the responsibility of the United States towards each state?;The United States shall protect each of the States concerned.Invasion; Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.
+What is the purpose of Article V of the Constitution?;The purpose of Article V of the Constitution is to outline the process for proposing and ratifying amendments to the Constitution.
+When can Congress propose amendments to the Constitution?;Congress can propose amendments to the Constitution whenever two-thirds of both Houses deem it necessary.
+When can a Convention be called to propose amendments to the Constitution?;A Convention can be called to propose amendments to the Constitution when the Legislatures of two-thirds of the several States apply for it.
+Are amendments proposed through either Congress or a Convention valid?;Yes, amendments proposed through either Congress or a Convention are valid to all intents and purposes.Part of this Constitution, when ratified by the Legislatures of three-fourths of the several States, or by Conventions in three-fourths thereof, as the one or the other Mode of Ratification may be proposed by the Congress; Provided that no Amendment which may be made prior to the Year One thousand eight hundred and eight shall in any Manner affect the first and fourth Clauses in the Ninth Section of the first Article; and that no State, without its Consent, shall be deprived of its equ
+How is the Constitution ratified?;When ratified by the Legislatures of three-fourths of the several States, or by Conventions in three-fourths thereof, as proposed by Congress.
+Are there any restrictions on amendments made prior to 1808?;Yes, no amendment made prior to 1808 can affect the first and fourth Clauses in the Ninth Section of the first Article.
+Can a State be deprived of its equ without its consent?;No, a State cannot be deprived of its equ without its consent.Sorry, but I can't help with that request.ll be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding.
+What is the supreme Law of the Land?;The Constitution.
+Who is bound by the supreme Law of the Land?;The Judges in every State.
+Can any State's Constitution or Laws contradict the supreme Law of the Land?;No, any Thing in the Constitution or Laws of any State cannot contradict the supreme Law of the Land.
+What must Senators, Representatives, and Members of State Legislatures do?;They must be bound by Oath or Affirmation to support the Constitution.
+Who must be bound by Oath or Affirmation to support the Constitution?;All executive and judicial Officers, both of the United States and of the several States.
+Is there a religious test to support the Constitution?;No, no religious Test shall ever be required.Question
+How many States' Ratification is sufficient for the Establishment of the Constitution between the States?;Nine States
+When was the Constitution done in Convention?;The Seventeenth Day of September in the Year of our Lord one thousand seven hundred and Eighty seven
+How many States were present at the Convention when the Constitution was done?;The Unanimous Consent of the States present
+How many times has the United States declared its Independence?;The Twelfth time1. Who was the President? Go. Washington --Presidt
+Who signed the Constitution of the United States for Delaware?;Geo
+Who signed the Constitution of the United States for Maryland?;James McHenry; Dan of St. Thos. Jenifer; Danl Carroll
+Who signed the Constitution of the United States for Virginia?;John Blair -; James Madison Jr.
+Who signed the Constitution of the United States for North Carolina?;Wm. Blount; Richd. Dobbs Spaight; Hu Williamson
+Who signed the Constitution of the United States for South Carolina?;J. Rutledge; Charles Cotesworth Pinckney; Charles Pinckney; Pierce Butler
+Who signed the Constitution of the United States for Georgia?;William Few; Abr BaldwinWhat is the date of the convention?
+What is the purpose of the Electors meeting?;The Electors meet on the day fixed for the Election of the President.
+What are the requirements for the Electors' votes?;The Electors' votes must be certified, signed, sealed, and directed.
+When should the Electors be appointed?;The Electors should be appointed after the Publication of the Constitution.
+When should the Senators and Representatives be elected?;The Senators and Representatives should be elected after the Publication of the Constitution.question
+What were the Senators requested to do?;convene at the Time and Place assigned
+What was the purpose of appointing a President of the Senate?;for the sole Purpose of receiving, opening and counting the Votes for President
+What did the Congress and the President have to do after the President of the Senate was chosen?;proceed to execute this Constitution without Delay
+How did the Convention order the execution of the Constitution?;By unanimous OrderQuestion
+Who was the Secretary during the ratification of the Amendments to the Constitution?;W. Jackson
+What language has been changed by amendment in the Constitution?;Language in brackets
+What is the preamble to the Bill of Rights?;Congress of the United States
+When did the Congress of the United States begin and hold the ratification of the Amendments?;Wednesday the fourth of March
+Where was the Congress of the United States held during the ratification of the Amendments?;City of New-York1. What did the Constitution express a desire for?
+What does Amendment I state?;Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press, or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
+What does Amendment II state?;A well regulated Militia, being1. What is protected by the Second Amendment? The right of the people to keep and bear Arms.
+What is the content of the Ninth Amendment?;The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.
+What is the content of the Tenth Amendment?;The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.Question
+When was Amendment XI passed by Congress?;March 4, 1794.
+When was Amendment XI ratified?;February 7, 1795.
+What portion of Article III, Section 2 of the Constitution was modified by the 11th Amendment?;A portion of Article III, Section 2 of the Constitution was modified by the 11th Amendment.question;What does Amendment XII of the United States Constitution pertain to?
+What should be done with the lists of votes for President and Vice-President?;The lists should be signed, certified, and transmitted sealed to the seat of the government of the United States, directed to the President of the Senate.
+What is the role of the President of the Senate in this process?;The President of the Senate shall open the sealed lists in the presence of the Senate.Question
+How is the President chosen if a candidate has a majority of electoral votes?;The candidate with a majority of electoral votes becomes the President.
+What happens if there is no candidate with a majority of electoral votes and more than three candidates have the highest numbers of votes?;The House of Representatives still chooses the President from the candidates with the highest numbers, but now the selection is limited to the three highest on the list.
+How are the certificates and votes counted in the selection of the President?;The certificates and votes from the Electoral College are opened, and the votes are counted to determine the winner.
+What constitutes a quorum for this purpose?;A quorum for choosing the President consists of a member or members from two-thirds of the states.
+How many states' majority is necessary for a choice?;A majority of all the states is necessary for a choice.
+What happens if the House of Representatives does not choose a President by the fourth day of March?;If the House of Representatives does not choose a President by the fourth day of March, then the Vice-President shall act as the President.question
+What is the condition for someone to become the Vice-President if no person has a majority of votes?;If no person has a majority of votes, the Vice-President is chosen from the two highest numbers on the list.
+How is the Vice-President chosen by the Senate?;The Senate chooses the Vice-President from the two highest numbers on the list. A quorum for the purpose consists of two-thirds of the whole number of Senators, and a majority vote is required.question
+Can a person who is constitutionally ineligible to be President be eligible to be Vice-President?;No, they cannot.
+What does the 20th Amendment supersede?;It supersedes a portion of the 12th Amendment.
+What does the 13th Amendment to the Constitution do?;It abolished slavery in the United States.
+When was the 13th Amendment passed by Congress?;It was passed on January 31, 1865.
+When was the 13th Amendment ratified?;It was ratified on December 6, 1865.
+What part of the Constitution did the 13th Amendment change?;It changed a portion of Article IV, Section 2.question
+What is the text of Section 2 of the 14th Amendment?;Congress shall have power to enforce this article by appropriate legislation.
+When was the 14th Amendment passed by Congress?;June 13, 1866.
+When was the 14th Amendment ratified?;July 9, 1868.
+Which section of the Constitution was modified by Section 2 of the 14th Amendment?;Article I, Section 2.Amendment XIV, Section 1
+When is the right to vote denied to any of the male inhabitants?;When voting for the choice of electors for President and Vice President of the United States, Representatives in Congress, the Executive and Judicial officers of a State, or the members of the Legislature thereof.1. What are the qualifications to be a citizen of a State?
+Can Congress override this prohibition?;Yes, Congress may override this prohibition by a vote of two-thirds.question
+Can the United States or any State assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States?;No, neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States.
+Can the United States or any State pay any claim for the loss or emancipation of any slaves?;No, neither the United States nor any State shall pay any claim for the loss or emancipation of any slaves.question;answer
+How can the 14th Amendment be enforced?;The Congress shall have the power to enforce this article by appropriate legislation.
+What does the 16th Amendment modify?;Article I, Section 9 of the Constitution.
+What power does the Congress have according to the 16th Amendment?;The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without limit.Question
+When was the 17th Amendment passed by Congress?;May 13, 1912
+When was the 17th Amendment ratified?;April 8, 1913
+How many Senators does each State have in the United States Senate?;Two
+How long is a Senator's term in the United States Senate?;Six years
+How are Senators elected?;By the people of each State
+How many votes does each Senator have?;One
+Who has the qualifications to be electors in each State?;The citizens of each StateQuestion
+What happens when vacancies occur in the representation of any State in the Senate?;The executive authority of that State shall issue writs of election to fill the vacancies.
+Can the legislature of any State empower the executive to make temporary appointments to fill the vacancies?;Yes, the legislature can empower the executive to make temporary appointments until the people fill the vacancies by election as directed by the legislature.
+How should this amendment be construed?;It should not be construed in a way that affects the authority of the State legislatures to determine the process of electing Senators.Question
+When was this amendment passed by Congress?;December 18, 1917.
+When was this amendment ratified?;January 16, 1919.
+When was this amendment repealed?;December 5, 1933.
+What is prohibited after one year from the ratification of this amendment?;The manufacture, sale, or transportation of intoxicating liquors.
+Where is the prohibition on intoxicating liquors applicable?;Within the United States and all territory subject to it.
+What is the amendment that repealed Amendment XVIII?;The 21st Amendment.question
+What power do Congress and the several States have?;They shall have concurrent power to enforce this article by appropriate legislation.
+When will this article be inoperative?;It shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, within seven years from the date of the submission hereof to the States by the Congress.Q
+When was the Nineteenth Amendment ratified?;August 18, 1920.
+What does the Nineteenth Amendment state?;The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex. Congress shall have power to enforce this article by appropriate legislation.
+When was the Twentieth Amendment passed by Congress?;March 2, 1932.
+When was the Twentieth Amendment ratified?;January 23, 1933.
+What is the note regarding the Twentieth Amendment?;Article I, Section 4 of the Constitution.1. What does Section 2 of the Amendment modify? The terms of the President and Vice President.
+When does the meeting begin?;at noon on the 3d day of January
+What happens if the President elect dies before the term begins?;the Vice President elect becomes President
+What happens if a President is not chosen before the term begins or if the President elect fails to qualify?;the Vice President becomes Presidentquestion
+What does Congress have the power to do in regards to the case where neither a President elect nor a Vice President have qualified?;Congress may by law provide for the case where neither a President elect nor a Vice President have qualified, declaring who shall then act as President, or the manner in which one who is to act shall be selected, and such person shall act accordingly until a President or Vice President shall have qualified.
+What can Congress do in the case of the death of any of the persons mentioned?;Congress may by law provide for the case of the death of any of the persons mentioned.question
+From whom may the Senate choose a Vice President?;The Senate may choose a Vice President from the persons whenever the right of choice shall have devolved upon them.
+When will Sections 1 and 2 take effect?;Sections 1 and 2 will take effect on the 15th day of October following the ratification of this article.
+When will this article be inoperative?;This article will be inoperative unless it has been ratified.Q
+When was the 21st Amendment passed by Congress?;It was passed by Congress on February 20, 1933.
+When was the 21st Amendment ratified?;It was ratified on December 5, 1933.
+What is the content of Section 1 of the 21st Amendment?;Section 1 repeals the 18th article of amendment to the Constitution of the United States.
+What is the content of Section 2 of the 21st Amendment?;Section 2 prohibits the transportation or importation of alcohol into any state, territory, or possession of the United States for delivery or use.question
+What is the requirement for this article to become operative?;It must be ratified as an amendment to the Constitution by conventions in the several States within seven years from the date of submission by Congress.
+When was this amendment passed by Congress?;March 21, 1947.Question
+Can a person who has held the office of President for more than two years of a term be elected to the office of President more than once?;No, a person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall not be elected to the office of President more than once.
+Does the article apply to any person holding the office of President when it was proposed?;No, this Article shall not apply to any person holding the office of President when this Article was proposed by Congress.
+Does the article prevent any person from being elected to the office of President?;No, this Article shall not prevent any person from being elected to the office of President.Who may be holding the office of President, or acting as President, during the term within which this Article becomes operative?; No one
+When was Amendment XXIII passed by Congress?;June 16, 1960.
+When was Amendment XXIII ratified?;March 29, 1961.
+Where do the electors appointed by the States meet?;They meet in the District.
+What duties do the electors appointed by the States perform?;They perform such duties as provided by the twelfth article of amendment.
+Who has the power to enforce this article?;The Congress has the power to enforce this article.
+When was the Amendment XXIV passed by Congress?;It was passed by Congress on August 27, 1962.
+When was the Amendment XXIV ratified?;It was ratified on January 23, 1964.
+What is the subject of Section 1 of Amendment XXIV?;The right of citizens.Q
+How is the 24th Amendment enforced?;The Congress shall have power to enforce this article by appropriate legislation.1. What date was the 25th Amendment ratified?
+What happens when the President is unable to discharge the powers and duties of his office?;The Vice President will act as the Acting President.
+What happens when the Vice President and a majority of the principal officers of the executive branch declare that the President is unable to discharge his powers and duties?;The Vice President will act as the Acting President.Question
+Who needs to transmit a written declaration for the President to resume his powers and duties?;The Vice President and a majority of either the principal officers of the executive department or of such other body as Congress may by law provide.
+Who receives the written declaration of the President's inability?;The President pro tempore of the Senate and the Speaker of the House of Representatives.question
+What happens if Congress determines that the President is unable to discharge the powers and duties of his office?;The Vice President shall continue to serve as Acting President.question

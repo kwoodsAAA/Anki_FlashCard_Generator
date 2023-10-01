@@ -1,0 +1,101 @@
+ Q: What is a discrete mixture?
+A: A discrete mixture is a combination of several basic distributions used to model an event.
+
+Q: How is a discrete mixture expressed mathematically?
+A: A discrete mixture can be expressed as a weighted average of the probability functions of the individual random variables.
+
+Q: What are the weights in a discrete mixture?
+A: The weights in a discrete mixture represent the probabilities of the individual random variables.Question: What are mixture distributions?
+Answer: Mixture distributions are a combination of discrete and continuous distributions.
+
+Question: What does the term "discrete" refer to in "discrete mixtures"?
+Answer: The term "discrete" refers to combining a finite number of distributions.
+
+Question: What is the difference between a mixture and a linear combination of random variables?
+Answer: A mixture follows the distribution of one variable for a certain percentage of the time and follows the distribution of another variable for the remaining percentage of the time. A linear combination of random variables does not follow the distribution of either variable and its value depends on the values of both variables.
+
+Question: Do the weights in mixtures have to add up to 1?
+Answer: No, the weights in mixtures do not have to add up to 1. They can be any real number.question: Is the scenario a mixture or a linear combination?
+answer: It is a mixture.
+
+question: How many boys and girls are in the class?
+answer: 17 boys and 13 girls.
+
+question: What is the probability of a boy being late for class?
+answer: 0.2.
+
+question: What is the probability of a girl being late for class?
+answer: 0.15.
+
+question: What is the probability that a randomly chosen student is late for class?
+answer: It is a mixture. The probability that the student is a boy is 17/30, and the probability that the student is a girl is 13/30.
+
+question: Is this a linear combination scenario?
+answer: No, it is not a linear combination because it is not true that the selected student is "17 parts boy and 13 parts girl".
+
+question: Are the probabilities 0.2 and 0.15 conditional probabilities?
+answer: Yes, they are conditional probabilities.question: What is the concept that allows us to apply the three important theorems?
+answer: Conditional distributions
+question: What should we think in terms of when dealing with mixtures?
+answer: Conditional distributions
+question: What are the three types of risks for the automobile insurance coverage?
+answer: Low, medium, and high
+question: What is the average loss per year for the low risk class?
+answer: 300
+question: What is the average loss per year for the medium risk class?
+answer: 540
+question: What is the average loss per year for the high risk class?
+answer: 800
+question: What percentage of insureds are low risk?
+answer: 40%
+question: What percentage of insureds are high risk?
+answer: 35%
+question: What is the annual loss size denoted by?
+answer: Let  be the annual loss size
+question: What distributions is the annual loss size a mixture of?
+answer: 3 exponential distributions, one for each risk class1. What is the probability that the annual loss is less than 500?
+Answer: Solution to (2)
+2. What is the expected annual loss?
+Answer: Solution to (3)
+3. What is the standard deviation of the annual loss?
+Answer: To calculate the standard deviation of annual loss, the Law of Total Variance can be used. However, since  has already been calculated above, it is more efficient to calculate the second moment of  and compute . Both methods should produce the same answer. Refer to the exam tables for the second moment of the exponential distribution. Coach's Remarks: In the calculation of  above, notice the importance of using the correct formulas and tables.question: What is the variance of Fred's travel time to his office on a particular day?
+answer: The variance of Fred's travel time to his office on a particular day is calculated using the Law of Total Variance.
+question: What is the Law of Total Variance?
+answer: The Law of Total Variance states that the variance of a random variable can be calculated by taking the weighted average of the variances of the conditional random variables, plus the variance of their means.
+question: How does Fred decide which car to drive to work?
+answer: Fred flips a fair coin every morning to decide which car to drive to work.
+question: What is the time to travel to his office with his new car?
+answer: The time to travel to his office with his new car is uniformly distributed on the interval [20, 30] minutes.
+question: What is the time to travel to his office with his old car?
+answer: The time to travel to his office with his old car is uniformly distributed on the interval [35, 50] minutes.
+question: How do we calculate the variance of Fred's travel time to his office using the Law of Total Variance?
+answer: We calculate the variance of Fred's travel time to his office by calculating the weighted average of the variances of the travel times with his new car and his old car, plus the variance of their means.question;answer
+What is the Bernoulli shortcut?;The Bernoulli shortcut is a technique to quickly calculate the variance of a random variable that has only two possible values.
+How is the variance of a random variable calculated using the Bernoulli shortcut?;The variance of a random variable can be calculated using the Bernoulli shortcut without calculating the first and second moments.
+What is the advantage of using the Bernoulli shortcut?;The advantage of using the Bernoulli shortcut is that it allows for the determination of variance without having to calculate the first and second moments.Question: How is the density function of  expressed?
+Answer: As a weighted average of the density functions of  and .
+
+Question: What does it imply when the density function of a random variable is expressed as a weighted average?
+Answer: It implies that the random variable is a mixture.
+
+Question: What is the Law of Total Variance used for?
+Answer: To calculate the variance of a mixture random variable.
+
+Question: How can the variances of  be calculated?
+Answer: Using the Pareto variance formula or by calculating the first and second moments.
+
+Question: What formula is included in the exam tables to calculate the Pareto variance?
+Answer: The moments formula.
+
+Question: How can the variance of  be calculated?
+Answer: By applying the Law of Total Variance.
+
+Question: What is the condition for calculating the variance of , such that ?
+Answer: 1.
+
+Question: What is the condition for calculating the variance of , such that ?
+Answer: 2.Question: How do you calculate  using the Bernoulli shortcut?
+Answer: To calculate the variance of , notice that it is a linear combination of  and .
+
+Question: Are  and  independent?
+Answer: Yes,  and  are independent.

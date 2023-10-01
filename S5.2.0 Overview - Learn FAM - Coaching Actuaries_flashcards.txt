@@ -1,0 +1,32 @@
+ question: What is ratemaking?
+answer: Ratemaking is the determination of rates or premiums to be charged for insurance.
+
+question: Why is it difficult to determine the cost of an insurance policy?
+answer: The cost of an insurance policy is not known at the time the policy is sold.
+
+question: What is the purpose of ratemaking?
+answer: Actuaries ensure that the premium charged is enough to cover future losses and expenses and to generate profit.
+
+question: What is the fundamental insurance equation?
+answer: The fundamental insurance equation states that premiums = expected losses + expenses + profit.
+
+question: Why is ratemaking important?
+answer: Ratemaking is important to insurance companies and society as it ensures coverage for unexpected events and encourages loss control.What types of discounts do insurance policyholders receive for loss prevention?; Policyholders receive different types of discounts for loss prevention.
+What is the purpose of ratemaking in insurance?; Ratemaking ensures that rates are adequate, affordable, and not unfairly discriminating.
+What is the role of ratemaking actuaries?; Ratemaking actuaries select an appropriate exposure base and determine rates per unit of exposure.
+What is the exposure base in the given example?; The exposure base in the example is "home value."
+What is the unit of exposure in the given example?; The unit of exposure in the example is "$1,000 of home value."
+What is the premium charged to the policyholder for $250,000 of insurance in the given example?; The premium charged to the policyholder for $250,000 of insurance is determined by the rate of $4.80 per $1,000 of home value.Question: What are the criteria for a good exposure base?
+Answer: Accurately measure the quantitative exposure to loss; Be easy to determine when premiums are calculated; Not be easily manipulated by the insured; Be simple to record and administer; Be easily understood by the policyholder; Ideally, automatically adjust to inflation.
+
+Question: What is an example of a good exposure base for homeowner's insurance?
+Answer: Home value.
+
+Question: What is an example of a bad exposure base for homeowner's insurance?
+Answer: Cubic millimeters of available closet space.
+
+Question: Is the provided introduction to ratemaking comprehensive?
+Answer: No, it only provides an introduction and insurance companies have more complex approaches. 
+
+Question: What will be covered in the section on ratemaking?
+Answer: Preparing data to perform ratemaking.

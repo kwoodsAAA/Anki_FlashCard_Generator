@@ -1,0 +1,58 @@
+ Question: What does this chart summarize?
+Answer: The relationships between the various functions of a continuous random variable.
+
+Question: What is the percentile of a random variable?
+Answer: The 100th percentile is any value that satisfies the condition.
+
+Question: What is the mode of a random variable?
+Answer: The value that produces the largest PMF or PDF.
+
+Question: What is the raw moment of a random variable?
+Answer: It is defined as the mean, usually denoted by E(X).
+
+Question: What is the central moment of a random variable?
+Answer: It is defined as the variance, usually denoted by Var(X) or σ^2.Question: What is the standard deviation?
+Answer: The standard deviation is the square root of the variance.
+
+Question: What is the coefficient of variation?
+Answer: The coefficient of variation is the ratio of the standard deviation to the mean.
+
+Question: What is skewness?
+Answer: Skewness is a measure of the asymmetry of a distribution.
+
+Question: What is kurtosis?
+Answer: Kurtosis is a measure of the tailedness of a distribution.
+
+Question: What is Bayes' Theorem?
+Answer: Bayes' Theorem is a formula that calculates the probability of an event based on prior knowledge.
+
+Question: What is the Law of Total Probability?
+Answer: The Law of Total Probability states that the probability of an event can be calculated by considering all possible outcomes.
+
+Question: What is the Law of Total Expectation?
+Answer: The Law of Total Expectation states that the expected value of a random variable can be calculated by considering all possible outcomes.
+
+Question: What is the Law of Total Variance?
+Answer: The Law of Total Variance states that the variance of a random variable can be calculated by considering all possible outcomes.
+
+Question: When are events A and B independent?
+Answer: Events A and B are independent if and only if the probability of their intersection is equal to the product of their individual probabilities.
+
+Question: What happens if random variables X and Y are independent?
+Answer: If random variables X and Y are independent, then the joint probability distribution of X and Y is equal to the product of their individual probability distributions.
+
+Question: What is an empirical distribution?
+Answer: An empirical distribution is a discrete distribution based on a sample of data that assigns probabilities to each data point.
+
+Question: What is an empirical distribution function?
+Answer: An empirical distribution function is a step function that assigns a probability to each data point based on the empirical distribution.1. What does the term "percentile" refer to? 
+100
+
+2. Define the concept of sample mean.
+Sample mean is the average value calculated from a set of measurements or observations.
+
+3. What is meant by "biased sample variance"?
+Biased sample variance refers to the measure of variability in a sample that is affected by systematic errors or biases.
+
+4. Explain the concept of "unbiased sample variance".
+Unbiased sample variance is a measure of variability in a sample that corrects for any systematic errors or biases, providing a more accurate estimate of the population variance.

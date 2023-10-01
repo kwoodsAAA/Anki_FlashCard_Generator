@@ -1,0 +1,10 @@
+ question;answer
+Poisson random variables;The sum of independent Poisson random variables follows a Poisson distribution with mean equal to the sum of all means.
+Bernoulli and Binomial;The Bernoulli distribution is a special case of a binomial distribution with . The sum of i.i.d. Bernoulli random variables follows a binomial distribution with parameters and .
+Geometric and Negative Binomial;The geometric distribution is a special case of a negative binomial distribution with . The sum of i.i.d. geometric random variables follows a negative binomial distribution with parameters and . The geometric distribution is memoryless.
+Poisson-Gamma Mixture;If follows a Poisson distribution where its mean follows a gamma distribution, then the resulting distribution is called a Poisson-Gamma mixture.question;answer
+What is the distribution mean vs. variance slope for the Poisson distribution?;0
+What is the distribution mean vs. variance slope for the Binomial distribution?;-
+What is the distribution mean vs. variance slope for the Negative binomial distribution?;+
+What is the distribution mean vs. variance slope for the Zero-Truncated distribution?;Not provided
+What is the distribution mean vs. variance slope for the Zero-Modified distribution?;Not provided

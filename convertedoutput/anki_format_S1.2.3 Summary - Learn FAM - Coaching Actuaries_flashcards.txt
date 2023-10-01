@@ -1,0 +1,9 @@
+What is a deductible?;A deductible is the amount of each claim that the policyholder is responsible for paying before the insurer will pay a claim.
+What is a fixed dollar deductible?;A fixed dollar deductible has a fixed dollar amount, regardless of the loss size. It is also known as an ordinary deductible or a deductible.
+What is a fixed percentage deductible?;A fixed percentage deductible can be a percentage of the loss or the policy limit. It is usually paired with a minimum dollar deductible so that the insurer does not need to handle small claims.
+What are disappearing deductibles?;Disappearing deductibles decrease linearly within a specific loss range.
+What are franchise deductibles?;Franchise deductibles are also known as a cl.question;answer
+What is the definition of treaty reinsurance?;Treaty reinsurance is used for ceding all risks in a specific line or class of business.
+What is quota share reinsurance?;Quota share reinsurance involves both parties sharing a percentage of the total risk.
+What is surplus share reinsurance?;Surplus share reinsurance involves both parties sharing a percentage of the total risk above the retention limit.
+What is excess of loss reinsurance?;Excess of loss reinsurance means that the reinsurer is responsible for claim amounts exceeding the retention limit.

@@ -1,0 +1,215 @@
+ Question: How do you calculate the indicated overall average rate or rate change?
+Answer: Let's go back to the fundamental insurance equation and solve for the indicated premium.
+
+Question: What does the indicated premium include?
+Answer: The indicated premium includes both losses and loss adjustment expenses (LAE).
+
+Question: How do you solve the equation for the indicated premium?
+Answer: You can solve the equation by dividing the indicated premium by the permissible loss ratio.
+
+Question: What are the two ways to proceed from this point depending on the available data?
+Answer: The two ways to proceed are the loss ratio method 1 and the loss ratio method 2.Question: What is the formula used under the loss ratio method? 
+Answer: Let  be the premium at the current rate level. If we divide  by , we will have:
+
+Question: Why is it called the loss ratio method? 
+Answer: This formula uses , or the loss ratio, which is why this is called the loss ratio method.
+
+Question: What is the formula used for the pure premium method? 
+Answer: Let  be the number of exposures. If we divide  by , we will have:
+
+Question: Why is it called the pure premium method? 
+Answer: This method is called the pure premium method because  is the pure premium, or loss per exposure.Question: What is the formula to calculate the indicated average rate change?
+Answer: Multiply the current average rate by 1 + the indicated average rate change.
+
+Question: Is the indicated average rate change associated with a specific rating variable?
+Answer: No, it is the overall average rate change across all rating variables.
+
+Question: What are the given values for the calculation?
+Answer: Premium at current rate level = 120,000; Projected loss and loss adjustment expenses = 74,000; Projected number of exposures = 1,000; Variable expense ratio = 20%; Fixed expenses per exposure unit = 25; Target profit and contingencies = 5%; Current average rate = 120.
+
+Question: What is the indicated average rate change under the loss ratio method?
+Answer: 9/30/23, 6:09 PM S5.3.1 Overall Average Rate Change - Learn F A
+
+Question: What is the indicated average rate under the pure premium method?
+Answer: The indicated average rate is not provided in the given information.question;Apply under the pure premium method. The indicated average rate is:
+answer;10%
+question;If we were to use the indicated average rate change of 10% to calculate the indicated average rate under the loss ratio method, we would get:
+answer;10%
+question;Note that in the example above, both methods resulted in the same indicated average rate. This will not be the case in general. For example, if the premium at the current rate level is calculated using the parallelogram method, there will be discrepancies between the two approaches. The equivalence of these methods depends on using consistent data and assumptions for both approaches.
+answer;The equivalence of these methods depends on using consistent data and assumptions for both approaches.
+question;When given multiple years of experience data, use the following procedure to calculate for :
+answer;For each year, determine  and  using methods presented in Section S5.2.
+question;For each year, calculate the loss ratio as .
+answer;Calculate the weighted average of the loss ratios from each year; weights will be sp1. What is Paige asked to calculate?
+She is asked to calculate a rate change for annual policies effective October 1, 2018.
+
+2. How long are the new rates assumed to be effective for?
+The new rates are assumed to be effective for one year.
+
+3. How are policies assumed to be written throughout the year?
+Policies are assumed to be written uniformly throughout the year.
+
+4. What ultimate losses does Paige use to project future loss experience?
+She uses the following ultimate losses:
+- 2015: 970 (in thousands)
+- 2016: 967 (in thousands)
+- 2017: 956 (in thousands)
+
+5. What annual effective rate does Paige select as the loss trend?
+She selects an annual effective rate of 3% as the loss trend.
+
+6. What earned premiums does Paige use to match the loss experience?
+She uses the following earned premiums:
+- 2015: 1,122 (in thousands)
+- 2016: 1,155 (in thousands)
+- 2017: 1,281 (in thousands)1. What are the two rate changes in the last three years?
++3% on July 1, 2015
++5% on January 1, 2017
+
+2. How does Paige calculate the earned premiums at the current rate level?
+Using the parallelogram method
+
+3. How does Paige calculate the loss ratio for each year?
+By dividing losses by earned premiums
+
+4. What does Paige select as the projected loss ratio for the forecast period?
+The average of the calculated loss ratios
+
+5. Are all expenses variable?
+Yes
+
+6. What is the permissible loss ratio?
+80%
+
+7. How do we calculate the indicated average rate change using the loss ratio method?
+By solving the equation: (1 + rate change) = (projected loss ratio / permissible loss ratio)question;answer
+Recall that we learned how to trend losses in Section S5.2.3.;We learned how to trend losses in Section S5.2.3.
+First, calculate the average loss occurrence date for every experience period and the forecast period.;We need to calculate the average loss occurrence date for every experience period and the forecast period.
+Then, calculate the trend period and trend the ultimate losses for each accident year.;We need to calculate the trend period and trend the ultimate losses for each accident year.
+Note that the annual trend factor is 1.03.;The annual trend factor is 1.03.
+Accident Year: 2015;2015
+Trend From Date: 7/1/2015;7/1/2015
+Trend To Date: 10/1/2019;10/1/2019
+Trend Period: 4.25;4.25
+Trended Ultimate Losses: 1,10;1,10
+Accident Year: 2016;2016
+Trend From Date: 7/1/2016;7/1/2016
+Trend To Date: 10/1/2019;10/1/2019
+Trend Period: 3.25;3.25
+Trended Ultimate Losses: 1,06;1,06
+Accident Year: 2017;2017
+Trend From Date: 7/1/2017;7/1/2017
+Trend To Date: 10/1/2019;10/1/2019
+Trend Period: 2.25;2.25
+Trended Ultimate Losses: 1,02;1,02
+Step 2: Calculate the earned premiums at the current rate level using the parallelogram method, as shown in Section S5.2.7.;We need to calculate the earned premiums at the current rate level using the parallelogram method, as shown in Section S5.2.7.
+Draw this diagram and calculate the cumulative rate level index for each rate group.;We need to draw a diagram and calculate the cumulative rate level index for each rate group.
+Rate Group: A;A
+Effective Date: Initial;Initial
+Cumulative Rate Level Index: 1.0000;1.0000
+Rate Group: B;B
+Effective Date: 7/1/2015;7/1/2015
+Cumulative Rate Level Index: 1.0300;1.0300
+Rate Group: C;C
+Effective Date: 1/1/2017;1/1/2017
+Cumulative Rate Level Index: 1.0815;1.0815
+Compute the portion of the premium;We need to compute the portion of the premium.Q: What are the average cumulative rate level indexes for each calendar year?
+A: 2015 - 1.00375; 2016 - 1.02625; 2017 - 1.05575
+
+Q: What are the on-level factors for each calendar year?
+A: 2015 - 1.0775; 2016 - 1.0538; 2017 - 1.0244
+
+Q: What are the earned premiums at the current rate level for each calendar year?
+A: 2015 - $1,209; 2016 - $1,217; 2017 - $1,312
+
+Q: What are the loss ratios for each calendar year?
+A: 2015 - 0.9098; 2016 - 0.8746; 2017 - 0.7786
+
+Q: What is the projected loss ratio for the forecast period?
+A: Average of the loss ratios: 0.85431. What is Cheap Insurance Corporation's plan to expand its business?
+- Breaking into an existing market with a new insurance product.
+
+2. When is the expected launch date for the new insurance product?
+- April 1, 2019.
+
+3. How are the annual policies expected to be written?
+- Uniformly during the year.
+
+4. Who is instructed to estimate the premium rate for the product?
+- Caeden, an actuary in the company.
+
+5. What data does Caeden plan to use to predict future losses?
+- Industry-wide loss data.
+
+6. What loss trend is selected by Caeden?
+- 1.5% per year compounded continuously.
+
+7. What are the ultimate losses for the year 2016?
+- 5,160,000.
+
+8. What is the earned exposure weight for the year 2016?
+- 12,760.
+
+9. What is the ultimate loss for the year 2017?
+- 4,110,000.
+
+10. What is the earned exposure weight for the year 2017?
+- 12,800.
+
+11. What is the overall average rate change?
+- Not provided in the given text.
+
+12. What variable expense provision is Caeden instructed to include?
+- 33%.
+
+13. What target profit provision is Caeden instructed to include?
+- 5%.
+
+14. What is the expected fixed underwriting cost?
+- 25.Question: How do you calculate the average rate charged for the new product using the pure premium method?
+Answer: The average rate charged for the new product can be calculated using the pure premium method.
+
+Question: What is the equation used to calculate the average rate using the pure premium method?
+Answer: The equation used to calculate the average rate is given by: 
+
+Question: What is the first step in calculating the projected pure premium?
+Answer: The first step is to calculate the average loss occurrence date for every experience period and the forecast period.
+
+Question: What is the average loss occurrence date for AY2016?
+Answer: The average loss occurrence date for AY2016 is July 1, 2016.
+
+Question: What is the average loss occurrence date for AY2017?
+Answer: The average loss occurrence date for AY2017 is July 1, 2017.
+
+Question: What is the average loss occurrence date for the forecast period?
+Answer: The average loss occurrence date for the forecast period is April 1, 2020.
+
+Question: How do you calculate the trended ultimate losses?
+Answer: The trended ultimate losses can be calculated by multiplying the ultimate losses by the trend factor.
+
+Question: What is the trend factor for AY2016?
+Answer: The trend factor for AY2016 is 
+
+Question: What is the trend factor for AY2017?
+Answer: The trend factor for AY2017 is 
+
+(Note: The answer for trended ultimate losses for AY2016 and AY2017 can be calculated using the trend factor and the given ultimate losses, but the information is not provided in the text)Question: What is Step 3 in the process?
+Answer: Next, calculate the pure premium for each year as the trended ultimate losses divided by the earned exposures.
+
+Question: What is the trended pure premium for AY2016?
+Answer: For AY2016, the trended pure premium is 427.79.
+
+Question: What is the trended pure premium for AY2017?
+Answer: For AY2017, the trended pure premium is [answer not provided].
+
+Question: What is Step 4 in the process?
+Answer: Then, the projected pure premium is the weighted average of the trended pure premiums.
+
+Question: What is Step 5 in the process?
+Answer: Finally, the indicated premium per exposure is [answer not provided].
+
+Question: How can we calculate the trended pure premiums?
+Answer: Instead of trending the ultimate losses and then calculating the pure premiums, we can also calculate and then trend the pure premiums. Divide the ultimate losses by the earned exposures to calculate the pure premium. Then, calculate the trended pure premium by applying the trend factor. The results will be identical.
+
+Question: What is the pure premium for AY2016?
+Answer: For AY2016, the pure premium is 404.39.

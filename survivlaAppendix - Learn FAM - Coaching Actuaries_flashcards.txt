@@ -1,0 +1,26 @@
+ Question: What is the expected value formula using the survival function method?
+Answer: The expected value of a function can be rewritten as follows using integration by parts.
+
+Question: What are the requirements for simplifying the expected value formula?
+Answer: The two requirements that need to be fulfilled are:
+1. The upper bound of the integral needs to be the upper bound of the function.
+2. The function evaluated at the lower bound needs to be 0.
+
+Question: What is the formula for the central moment?
+Answer: The formula for the central moment is  .
+
+Question: What is the formula for the 4th central moment?
+Answer: The formula for the 4th central moment is .Question: What is the Law of Total Variance?
+Answer: The Law of Total Variance states that the variance of a random variable can be decomposed into the sum of the conditional variance and the variance of the conditional mean.
+
+Question: How do we apply the Law of Total Expectation?
+Answer: We apply the Law of Total Expectation by taking the expectation of the conditional variance and adding it to the variance of the conditional mean.
+
+Question: What is the equation for the Law of Total Variance?
+Answer: The equation for the Law of Total Variance is Var(X) = E[Var(X|Y)] + Var(E[X|Y]).
+
+Question: How can we translate the second half of the equation for the Law of Total Variance?
+Answer: The second half of the equation for the Law of Total Variance can be translated to Var(E[X|Y]) = E[Var(X|Y)] + Var(E[X]).
+
+Question: What are the two forms of the Biased Sample Variance?
+Answer: The two forms of the Biased Sample Variance are the sample variance formula using the sum of squared deviations and the sample variance formula using the sum of squared observations.

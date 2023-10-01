@@ -1,0 +1,64 @@
+ 1) What are the two main principles that enable the insurance mechanism?
+- The law of large numbers and the decreasing marginal utility of money.
+
+2) What does the law of large numbers state?
+- As the number of observations increases, the average of the results should converge to the expected value.
+
+3) Why is insuring a large number of risks important for the insurer?
+- Insuring a large number of risks makes predicting claims much easier for the insurer.
+
+4) In order for insurance to be viable, what must each individual policyholder do?
+- Each individual policyholder must pay more than their expected loss.
+
+5) What is the principle of decreasing marginal utility of money?
+- As extra units of wealth or income are added, the utility or satisfaction derived from such units decrease.
+
+6) Who does the principle of decreasing marginal utility of money apply to?
+- It applies to anyone who is risk averse.
+
+7) What are risk avoiders willing to do?
+- Risk avoiders are willing to pay more than their expected loss in order to be insured.- What is the relationship between utility and insurance premium?
+- Paying more than the expected loss in insurance premium happens when?
+- How many criteria make a risk insurable?
+- What is the first criterion for a risk to be insurable?
+- What does economically feasible mean in the context of insurance?
+- What is the second criterion for a risk to be insurable?
+- What does it mean for the economic value of insurance to be calculable?
+- What is the third criterion for a risk to be insurable?
+- What is the purpose of the definite loss criterion?- What are the criteria for a risk to be insurable? 
+- The risk must be definite and measurable.
+- The risk must be economically feasible to insure.
+- The loss must be accidental and not intentional.
+- The loss must be beyond the control of the policyholder.
+
+- Are risks that do not fully satisfy the criteria uninsurable? 
+- No, with special care or risk-sharing measures, insurance can still be possible.
+
+- How can insurance products be categorized? 
+- Insurance products can be categorized as short-term or long-term depending on the nature of the product.
+
+- What are short-term insurance products? 
+- Short-term insurance products have a short life cycle, are usually renewed every six or twelve months, and claims from these products are settled regularly.1. Q: What are examples of short-term insurance products?
+   A: Automobile and homeowners insurance.
+
+2. Q: How long is the life cycle of long-term insurance products?
+   A: It may take a few years or even decades for a claim to arise or be settled.
+
+3. Q: What is the requirement for units in a rate class in terms of loss expectation?
+   A: All units in a class must have the same loss expectation.
+
+4. Q: What is anti-selection?
+   A: Anti-selection is when policyholders gain an unfair advantage via information not available to the insurer.
+
+5. Q: What is the criterion for exposure units in terms of spatial and temporal independence?
+   A: Exposure units should be spatially and temporally independent.question: Why is it important to insure all the houses in a neighborhood?
+answer: One natural disaster can result in a huge loss.
+
+question: What is the date and time of the document?
+answer: 9/30/23, 7:27 PM
+
+question: What is the title of the document?
+answer: S1.1.0 Overview - Learn F AM - Coaching Actuaries
+
+question: What is the URL of the document?
+answer: https://account.coachingactuaries.com/fam/learn/491 1/4912/34782 3/3

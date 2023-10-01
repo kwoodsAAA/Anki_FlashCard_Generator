@@ -1,0 +1,36 @@
+What is the topic of this section?;Inflation
+How is inflation often paired in exam questions?;With coverage modifications
+What is the scenario described in Example S2.3.4.1?;Losses follow a single-parameter Pareto distribution and increase by 10% each year due to inflation.
+What is the policy limit in the given scenario?;220
+What is the goal in this scenario?;To calculate the expected insurance payment next year.
+What formula can be used to calculate the limited expected value?;Look up the limited expected value formula from the exam table.
+What concept can be applied to solve the problem?;ScalingQuestion
+What distribution do next year's losses follow?;A single-parameter Pareto distribution.
+What is the limited expected value?;9/30/23, 7
+What is the conclusion from the example above?;The conclusion is that  is the inflation rate.
+What is the formula for loss elimination ratio with an ordinary deductible?;Recall the loss elimination ratio formula for an ordinary deductible.
+What is the loss elimination ratio formula for an ordinary deductible?;The loss elimination ratio formula for an ordinary deductible is 9/30/23, 7
+What is the loss in 2016 represented by?;The loss in 2016 is represented by .
+What is the difference between the loss elimination ratios in 2016 and 2017?;Calculate the difference between the loss elimination ratios in 2016 and 2017.question
+What is the loss elimination ratio in 2016?;The loss elimination ratio in 2016 is not provided in the given text.
+What are the losses in 2017 represented by?;The losses in 2017 are represented by an unknown value as it is not provided in the given text.
+What is the loss elimination ratio in 2017?;The loss elimination ratio in 2017 is not provided in the given text.
+What is the formula to calculate the mean and limited expected value of losses in 2017?;The formula to calculate the mean and limited expected value of losses in 2017 is not provided in the given text.
+How can we add the effects of inflation to the loss variable?;The text does not provide the specific method of adding the effects of inflation to the loss variable.Q
+When does the alternative method only work?;When the distribution of  has a scale parameter.
+What are the two cases where the ultimate formula is not commonly seen?;1) Franchise deductible, where the maximum covered loss is less than it would be for an ordinary deductible.
+What is the deductible for the policy mentioned in the text?;The deductible is 600.
+How much higher are the losses assumed to be next year?;The losses are assumed to be 20% higher next year.
+What are the options the insurer is considering adding to the policy starting next year?;The options are a policy limit of 3,000 or a coinsurance.
+What is the formula for calculating expected payments under the policy limit option?;Expected payment = [CDF value at policy limit] * [policy limit]
+What is the formula for calculating expected payments under the coinsurance option?;Expected payment = [CDF value at deductible] * [deductible] / [coinsurance factor]
+What is the equation used to solve for the coinsurance factor?;Equate the two expected payments and solve for the coinsurance factor.Question
+What does Example S2.3.4.4 illustrate?;Example S2.3.4.4 illustrates a distribution with a special property.
+What is the deductible and maximum covered loss in the given insurance policy?;The deductible is 20 and the maximum covered loss is 100.
+What type of distribution do the losses follow in the given insurance policy?;The losses follow a uniform distribution on the interval 0 to 200.
+What does a policy limit of 100 indicate?;A policy limit of 100 indicates a maximum covered loss of 80.Question
+How can you calculate the moments of a variable?;A simpler way to calculate 's moments is by calculating 's moments, and then converting them.
+What is the payment per loss variable?;The insurer pays nothing for losses below the deductible; the amount in excess of the deductible for losses between the deductible and the maximum covered loss; the policy limit for losses greater than the maximum covered loss. The payment per loss variable is .
+How can you calculate the first and second moments using first principles?;Calculate the first and second moments using first principles.
+How can you convert 's moments to 's moments?;Using , convert 's moments to 's moments
+How can you calculate the variance?;Finally, calculate the variance.

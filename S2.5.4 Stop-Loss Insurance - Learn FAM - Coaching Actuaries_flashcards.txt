@@ -1,0 +1,45 @@
+ 1. What is stop-loss insurance?; Stop-loss insurance is an insurance policy that imposes an aggregate deductible instead of a per-claim deductible.
+2. What is the net stop-loss premium?; The net stop-loss premium is the expected cost of stop-loss insurance to the insurer.
+3. How is the aggregate payment variable with an aggregate deductible expressed?; The aggregate payment variable with an aggregate deductible can be expressed as the sum of individual payments.
+4. Is there a consistent formula to calculate the net stop-loss premium or aggregate payment variable?; No, there is not a consistent formula to calculate the net stop-loss premium or aggregate payment variable.
+5. What is the rule of thumb when calculating the net stop-loss premium or aggregate payment variable?; The rule of thumb is to identify patterns and apply basic probability principles.
+6. Is the distribution of aggregate payment variable usually discrete on the exam?; Yes, the distribution of the aggregate payment variable is usually discrete for this type of questions on the exam.Question: What is the net stop-loss premium?
+Answer: The net stop-loss premium is the expected aggregate loss minus the deductible.
+Question: How do you calculate the expected aggregate loss?
+Answer: The expected aggregate loss is calculated by multiplying the loss amounts by their respective probabilities and summing them up.
+Question: How do you calculate the aggregate loss limited expected value?
+Answer: The aggregate loss limited expected value is calculated by multiplying the aggregate loss amounts by their respective probabilities and summing them up.
+Question: How do you calculate the net stop-loss premium?
+Answer: The net stop-loss premium is calculated by subtracting the deductible from the expected aggregate loss.Question: Another way to calculate is to start with and make adjustments where differs from . Construct the following table:
+Answer: 0 0 -2; 1 0 -1; 2 0 0; 3 1 1; 4 2 2; 5 3 3
+
+Question: Example S2.5.4.2 The number of claims follows a logarithmic distribution with the following probability function:
+Answer: The amount of each claim is 80. Reinsurance covers 80% of the aggregate claims in excess of 200. Calculate the reinsurance net premium.
+
+Question: Solution The reinsurance net premium is
+Answer: 9/30/23, 7:19 PM
+
+Question: Look up the logarithmic PMF in the exam tables, and compare it to the PMF provided by the question. The parameter has a value of 9. Therefore,
+Answer: The claim amount is a constant of 80 per claim. Multiply them together to get the aggregate mean.
+
+Question: Construct the following table t
+Answer: (no answer provided)Question: How are the probabilities calculated?
+Answer: The probabilities are calculated as 9/30/23.
+
+Question: What is the time stamp of the calculation?
+Answer: The time stamp of the calculation is 7:19 PM S2.5.4.
+
+Question: What is the topic of the resource?
+Answer: The topic of the resource is Stop-Loss Insurance.
+
+Question: What is the source of the resource?
+Answer: The source of the resource is Coaching Actuaries.
+
+Question: What is the URL of the resource?
+Answer: The URL of the resource is https://account.coachingactuaries.com/fam/learn/4915/4918/36154.
+
+Question: What is the formula for calculating the aggregate limited expected value?
+Answer: The aggregate limited expected value is calculated as follows.
+
+Question: What is the next step after calculating the aggregate limited expected value?
+Answer: Finally, the reinsurance net premium is calculated.

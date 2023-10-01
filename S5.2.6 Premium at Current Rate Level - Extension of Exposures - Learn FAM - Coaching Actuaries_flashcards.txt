@@ -1,0 +1,46 @@
+ 1. What is the purpose of bringing historical premiums to the current rate level in the ratemaking process?
+- They must be brought to the current rate level for them to be useful in the ratemaking process.
+
+2. What are the two approaches to adjust premiums to the current rate level?
+- The extension of exposures method and the parallelogram method.
+
+3. What is an exposure in the context of adjusting premiums?
+- An exposure is the basic unit used to determine premium.
+
+4. How does the unit of exposure vary depending on the product and line of business?
+- The unit of exposure varies depending on the product and line of business.
+
+5. Can you give an example of how exposures are measured in the auto insurance industry?
+- Auto insurers typically measure exposures on a "per car, per year" basis.Question: How can exposures be defined in the insurance industry?
+Answer: Similar to premiums, exposures can be defined in three ways: written, earned, and unearned.
+
+Question: What is the purpose of using earned exposures in ratemaking?
+Answer: In ratemaking, earned exposures are used to match premiums and loss experience.
+
+Question: How does the extension of exposures method work in ratemaking?
+Answer: The extension of exposures method involves recalculating the premiums of historical policies under the current rate level.
+
+Question: What is the advantage of using the extension of exposures method?
+Answer: The extension of exposures method is considered the most accurate current rate level method.
+
+Question: Why do companies often not have all the necessary historical rating information for the extension of exposures method?
+Answer: Companies often do not have all the necessary historical rating information to apply the extension of exposures method.
+
+Question: What is the general process for pricing an insurance product?
+Answer: Before an insurance policy is written, the underlying risk is evaluated and classified with different rating variables.
+
+Question: What are some examples of rating variables used in insurance pricing?
+Answer: Rating variables can be based on a person's attributes, such as age, gender, or occupation.What is the base cell for the gender rating variable?
+Male;1.00
+Female;0.80
+Over 65;1.15What is the premium charged for a policy written on 1/1/2015 with class factor Y and territory factor C?;330What is the calculation for the on-level premium for a policy?
+The calculation for the on-level premium for a policy involves using the most recent base rate and relativities to compute the premium value. 
+
+How are the on-level premiums used in the ratemaking process?
+The on-level premiums, which are calculated for all policies in the historical period and aggregated by calendar/policy year, are used in the ratemaking process. 
+
+What is the on-level premium for a specific policy?
+The on-level premium for a specific policy is the value of the premium after it has been brought to the current rate level. 
+
+How is the premium charged for a policy calculated?
+The premium charged for a policy is calculated by multiplying the base rate by the relativities for the specific risk factors, and then summing them up.

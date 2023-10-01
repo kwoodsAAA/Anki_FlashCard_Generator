@@ -1,0 +1,46 @@
+ Mean and Variance of Aggregate Loss:
+- What is the compound mean and variance of the aggregate loss in a collective risk model where the frequency is independent of the severity and all severities are i.i.d.?
+- The compound mean and variance of the aggregate loss are derived formulas included at the end of this section.
+- What notation is often used to represent the frequency, severity, and aggregate loss variables in the formulas?
+- The subscripts indicate the frequency, severity, and aggregate loss variables.
+Compound Variance in Compound Poisson Distribution:
+- In a compound Poisson distribution, what can the compound variance be simplified to?
+- The compound variance can be simplified to... (answer not provided in the text)
+Example S2.5.2.1 - City Insurance Claims:
+- What type of distribution does the number of claims reported per month at City Insurance follow?
+- The number of claims reported per month at City Insurance follows a negative binomial distribution.Question: What is the distribution of claim amounts and their probabilities?
+Answer: Claim amount Probability
+10 0.3
+30 0.4
+50 0.2
+100 0.1
+
+Question: Are the number of claims and individual claim amounts independent?
+Answer: Yes.
+
+Question: What is the formula to calculate the standard deviation of the aggregate loss?
+Answer: The standard deviation of the aggregate loss is 
+
+Question: What is the distribution of dental expenses for each family member in the example?
+Answer: The distribution is not provided in the text.Question: What is the variance of the payment per year for this family?
+Answer: The variance of the payment per year for this family is calculated by finding the variance of the expenses for each family member and summing them up.
+Question: What are the possible values of the total dental expenses for each family member?
+Answer: The possible values are 0 (when there are no visits), 25 (when there is a visit with payment 25), 150 (when there is a visit with payment 150), 100 (when there are two visits with payment 50 per visit), 250 (when there are two visits with payments 50 and 200), and 400 (when there are two visits with payment 200 per visit).
+Question: What are the probabilities associated with each possible value of the total dental expenses?
+Answer: The probabilities are as follows:
+0: 0.3
+25: 0.2
+150: 0.2
+100: 0.1
+250: 0.1
+400: 0.1Question: Why can't we use the payment per visit in this scenario?
+Answer: Because claim sizes are not independent of the number of claims.
+
+Question: What does the distribution of payment per visit depend on?
+Answer: The number of visits.
+
+Question: What is the purpose of using a mean and variance in this context?
+Answer: To analyze the distribution of claim sizes.
+
+Question: Where can I find more information about this topic?
+Answer: Visit https://account.coachingactuaries.com/fam/learn/4915/4918/34822.

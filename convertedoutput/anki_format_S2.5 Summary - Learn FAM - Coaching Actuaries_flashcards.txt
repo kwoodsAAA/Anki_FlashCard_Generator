@@ -1,0 +1,7 @@
+How is an aggregate deductible applied?;It is applied to the aggregate loss.
+How is an ordinary deductible applied?;It is applied to individual claims.
+What is the net stop-loss premium?;The net stop-loss premium is the number of losses (N) multiplied by the payment per loss (P).
+What does aggregate payments refer to?;Aggregate payments are the sum of all individual payments.
+What is important to ensure when considering the frequency and severity of losses or payments?;It is important to ensure that both frequency and severity are in terms of either losses or payments.
+What does "n" represent in the context of aggregate payments?;"n" represents the number of payments.
+What does "P" represent in the context of aggregate payments?;"P" represents the payment per payment.

@@ -1,0 +1,16 @@
+What does this chart summarize?;The relationships between the various functions of a continuous random variable.
+What is the percentile of a random variable?;The 100th percentile is any value that satisfies the condition.
+What is the mode of a random variable?;The value that produces the largest PMF or PDF.
+What is the raw moment of a random variable?;It is defined as the mean, usually denoted by E(X).
+What is the central moment of a random variable?;It is defined as the variance, usually denoted by Var(X) or σ^2.Question
+What is the coefficient of variation?;The coefficient of variation is the ratio of the standard deviation to the mean.
+What is skewness?;Skewness is a measure of the asymmetry of a distribution.
+What is kurtosis?;Kurtosis is a measure of the tailedness of a distribution.
+What is Bayes' Theorem?;Bayes' Theorem is a formula that calculates the probability of an event based on prior knowledge.
+What is the Law of Total Probability?;The Law of Total Probability states that the probability of an event can be calculated by considering all possible outcomes.
+What is the Law of Total Expectation?;The Law of Total Expectation states that the expected value of a random variable can be calculated by considering all possible outcomes.
+What is the Law of Total Variance?;The Law of Total Variance states that the variance of a random variable can be calculated by considering all possible outcomes.
+When are events A and B independent?;Events A and B are independent if and only if the probability of their intersection is equal to the product of their individual probabilities.
+What happens if random variables X and Y are independent?;If random variables X and Y are independent, then the joint probability distribution of X and Y is equal to the product of their individual probability distributions.
+What is an empirical distribution?;An empirical distribution is a discrete distribution based on a sample of data that assigns probabilities to each data point.
+What is an empirical distribution function?;An empirical distribution function is a step function that assigns a probability to each data point based on the empirical distribution.1. What does the term "percentile" refer to?

@@ -1,0 +1,44 @@
+ 1. What is the PDF of a beta distribution?
+Answer: A beta distribution's PDF is recognizable from its finite support and its purely polynomial terms, i.e. no negative powers of x, and no exponential or logarithmic terms.
+
+2. What do many students forget about the PDF of a beta distribution?
+Answer: Many students forget the term at the end even though the PDF is available on the exam table.
+
+3. What are the mean and variance of a beta distribution?
+Answer: The mean and variance of a beta distribution depend on the parameters α and β.
+
+4. What simplification can be made to the PDF of a beta distribution when α = β?
+Answer: When α = β, the PDF simplifies to which makes it easier to integrate and recognize as beta.
+
+5. What is the second moment of a random variable with a given PDF?
+Answer: The second moment of a random variable can be determined by integrating x^2 times the PDF over its support.Question: What is the support of a beta distribution?
+Answer: The support is from 0 to 1.
+
+Question: What is the PDF of a beta distribution?
+Answer: The PDF of a beta distribution with [parameter] is in the form of [PDF formula].
+
+Question: How can we deduce the parameters of a beta distribution?
+Answer: Compare the given PDF to the PDF formula to deduce the parameters.
+
+Question: What is the moment formula for a beta distribution?
+Answer: Look up beta's moment formula in the exam table.
+
+Question: What is the second moment of a beta distribution?
+Answer: The second moment of a beta distribution can be calculated using the moment formula.
+
+Question: What is a uniform distribution?
+Answer: A uniform distribution has a constant density.
+
+Question: What is the PDF of a uniform distribution?
+Answer: The PDF of a uniform distribution on the interval [a, b] is [PDF formula].
+
+Question: What is the mean of a uniform distribution?
+Answer: The mean is the midpoint of the interval.
+
+Question: What is the variance of a uniform distribution?
+Answer: The variance of a uniform distribution is [(b-a)^2]/12.
+
+Question: How can the second raw moment of a uniform distribution be calculated?
+Answer: The second raw moment can be calculated by adding the variance to the square of the mean.question;A uniform distribution on the interval [a, b] is equivalent to a beta distribution with parameters α=1 and β=1.
+question;Assume X is uniformly distributed on the interval [a, b]. Then, given it is greater than c, where c is a value between a and b, X will be uniformly distributed on the interval [c, b].
+question;Shifting X leftwards by k will shift the endpoints of the interval [a, b] by the same amount k.

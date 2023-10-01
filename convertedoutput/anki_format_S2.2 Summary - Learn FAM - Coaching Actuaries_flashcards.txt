@@ -1,0 +1,10 @@
+How do you scale a normal distribution?;Multiply the mean and the standard deviation by the scaling factor.
+How do you scale a lognormal distribution?;Add the natural log of the scaling factor to the parameter .
+How do you scale all other distributions?;Use the transformation technique discussed at the beginning of this section.
+What is a discrete mixture?;A random variable  is a discrete mixture of the random variables , , ...,  if its PDF is given by.
+Is a mixture the same as a linear combination of random variables?;No, a mixture is different from a linear combination of random variables.
+What is the abbreviation for Bernoulli distribution?;The abbreviation is "BERNOULLI".Question
+How many values can a random variable take on in this case?;In this case, the random variable can only take on two values.
+What are the two values that the random variable can take on?;The two values that the random variable can take on are [value 1] and [value 2].
+What is the probability of the random variable taking on the first value?;The probability of the random variable taking on the first value is [probability 1].
+What is the probability of the random variable taking on the second value?;The probability of the random variable taking on the second value is [probability 2].

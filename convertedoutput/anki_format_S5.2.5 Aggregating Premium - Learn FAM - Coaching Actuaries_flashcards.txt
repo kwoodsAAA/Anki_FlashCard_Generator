@@ -1,0 +1,34 @@
+What is premium?;Premium is the amount paid for an insurance policy.
+How is premium data aggregated?;Premium data can be aggregated using two common methods
+What is calendar year aggregation?;Calendar year aggregation considers the premiums of all active policies in a twelve-month calendar year from January 1 to December 31.
+What is policy year aggregation?;Policy year aggregation considers the premiums of all policies that are issued during a twelve-month period.
+Does premium trending need to be discussed for this exam?;No, premium trending is not tested on this exam.Q
+What is written premium?;The total amount of premium for all policies issued in a specified period of time.
+What is earned premium?;The portion of premium that corresponds to the expired portion of policies at a given point in time.
+What is unearned premium?;The portion of premium that corresponds to the unexpired portion of policies at a given point in time.
+What is the difference between written premium and earned premium?;The unearned premium.question
+What is the CY2015 earned premium?;The CY2015 earned premium is 100.
+What is the CY2015 unearned premium?;The CY2015 unearned premium is 300.
+What is the policy year 2015 written premium as of June 30, 2016?;The policy year 2015 written premium as of June 30, 2016 is 400.
+What is the policy year 2015 earned premium as of June 30, 2016?;The policy year 2015 earned premium as of June 30, 2016 is 100.
+What is the policy year 2015 unearned premium as of June 30, 2016?;The policy year 2015 unearned premium as of June 30, 2016 is 300.1. What is the written premium for policy year 2015? The written premium for policy year 2015 is the same as it was for calendar year 2015.
+What are the calendar year earned premiums for the policies?;A
+What is the unearned premium for calendar year 2016?;A
+What is the CY2016 earned premium for policy A?;225
+What is the CY2015 earned premium for policy B?;-
+What is the CY2016 earned premium for policy B?;400
+What is the CY2015 earned premium for policy C?;-
+What is the CY2016 earned premium for policy C?;270
+What is the CY2017 earned premium for policy C?;90
+What is the CY2015 earned premium for policy D?;-
+What is the CY2016 earned premium for policy D?;190
+What is the CY2017 earned premium for policy D?;190
+What is the total CY2015 earned premium?;1,440
+What is the total CY2016 earned premium?;75
+What is the total CY2017 earned premium?;1,085
+What is the unearned premium on policy C at the end of 2016?;One-fourth of policy C's written premiumQuestion
+How many months until policy D expires as of 12/31/2016?;6
+What fraction of policy D's written premium has yet to be earned?;one-half
+What is the unearned portion for policy D in 2016?;190
+What is the CY2016 unearned premium?;190
+What is the unearned premium as of the end of CY2015?;225

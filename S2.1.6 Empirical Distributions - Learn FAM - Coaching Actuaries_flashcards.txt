@@ -1,0 +1,77 @@
+ question: What is the empirical distribution?
+answer: The empirical distribution is a discrete distribution based on a sample of size that assigns probability to each data point.
+
+question: How is the empirical distribution function calculated?
+answer: The empirical distribution function is calculated as the proportion of observations no more than x out of total observations, where x is a data point.
+
+question: What is the empirical distribution function?
+answer: The empirical distribution function is the cumulative distribution function (CDF) of the empirical distribution.
+
+question: What is the shape of the empirical distribution function?
+answer: The empirical distribution function is a step function.
+
+question: How do we calculate the empirical 100th percentile?
+answer: The empirical 100th percentile is calculated as the order statistic of the sample, where all observations are equally likely.Question: What is the order statistic?
+Answer: The order statistic is the smallest observation in a sample.
+
+Question: Give an example of order statistics.
+Answer: Given a sample {5, 0, 3, 2, 5}, the order statistics are 0, 2, 3, 5, 5.
+
+Question: How can the empirical expected value be calculated?
+Answer: The empirical expected value can be calculated using the sample mean.
+
+Question: What is the sample mean denoted as?
+Answer: The sample mean is denoted as the empirical 1st raw moment.
+
+Question: What is the biased sample variance?
+Answer: The biased sample variance is the empirical 2nd central moment.
+
+Question: What is the unbiased sample variance denoted as?
+Answer: The unbiased sample variance is denoted as the biased sample variance divided by (n-1), where n is the sample size.
+
+Question: What is the equivalence of the two forms of variance?
+Answer: The equivalence of the two forms of variance is provided in the appendix at the end of this section.
+
+Question: When should the biased sample variance be used?
+Answer: The biased sample variance should be used when calculating the variance of the empirical distribution.1. What is the recommended estimation method for population variance?
+Answer: Use the unbiased sample variance.
+
+2. When should the unbiased sample variance be used?
+Answer: When the estimation method is left unspecified.
+
+3. What does the symbol "S" typically represent?
+Answer: The population variance.
+
+4. How is the empirical distribution different from the population distribution?
+Answer: The empirical distribution treats the sample data as though it is the entire population.
+
+5. What is the formula for the variance of the empirical distribution?
+Answer: It closely resembles the formula for the population variance.
+
+6. What is the biased sample variance conceptually distinct from?
+Answer: The population variance.
+
+7. In Example S2.1.6.1, how many observations are at or below 6 in the sample of size 6?
+Answer: 3.
+
+8. What is the value of the empirical distribution function evaluated at 6 in Example S2.1.6.1?
+Answer: 1.1. What is the empirical 75 percentile?
+Answer: The order statistic which is [missing text].
+
+2. What is the skewness of the empirical distribution?
+Answer: [missing text].
+
+3. What is the unbiased sample variance?
+Answer: [missing text].
+
+4. What is the empirical distribution's mean?
+Answer: [missing text].
+
+5. What is the empirical distribution's variance?
+Answer: [missing text].
+
+6. What is the 3rd central moment of the empirical distribution?
+Answer: [missing text].
+
+7. What is the unbiased sample variance?
+Answer: [missing text].I'm sorry, but as a text-based AI, I am unable to directly create flashcards or modify files. However, I can help you generate the content for the flashcards. Please provide me with the text you would like to use, and I will assist you in creating the question and answer pairs.

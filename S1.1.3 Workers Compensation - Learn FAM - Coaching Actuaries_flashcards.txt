@@ -1,0 +1,84 @@
+ Q: What is an example of an early adoption of no-fault insurance?
+A: Workers compensation.
+
+Q: Under the current law, who is responsible for occupational accidents or injuries?
+A: Employers.
+
+Q: Are employers required to provide compensation to their employees regardless of who is at fault?
+A: Yes.
+
+Q: In the past, what did workers have to do to receive compensation for occupational injuries or illnesses?
+A: Sue their employers and provide proof of negligence.
+
+Q: What were the three main reasons it was tough for employees to prove negligence?
+A: Doctrine of Contributory Negligence, Fellow-Servant Doctrine, and Assumption of Risk Doctrine.1. What is the Assumption-of-Risk Doctrine?
+- The employer might not be held liable if it could be proven that the employee, to an extent, was aware of the inherent risks of the work.
+
+2. What are some objectives of workers compensation?
+- Provides employees with broad coverage for work-related injuries and diseases.
+- Protects employees against loss of income.
+- Ensures adequate health care and rehabilitation services.
+- Encourages safety by lowering premiums for employers with good claims experience.
+
+3. How do employers obtain workers compensation coverage?
+- Employers obtain this coverage either through private insurers, by self-insurance, or using state-funded workers compensation.
+
+4. In states where workers compensation is not mandatory, what are employers exposed to?
+- Employers are exposed to litigation by their employees in cases of injuries or diseases.
+
+5. Which organizations may be excluded from workers compensation in some states?
+- Educational, charitable, or religious organizations.Q: Which workers are typically covered by workers compensation?
+A: Most salaried workers.
+
+Q: Which workers are typically not covered by workers compensation?
+A: Farm laborers, domestic servants, and employees of very small firms.
+
+Q: What must a worker do to receive indemnification for an injury or disease under workers compensation?
+A: The conditions must arise from constant exposure over time in relation to employment.
+
+Q: Give examples of possible conditions that may be covered under workers compensation.
+A: Carpal tunnel syndrome, hearing loss, and asbestosis.
+
+Q: Give examples of situations that are not covered under workers compensation.
+A: Injuries or illnesses arising from driving to and from work, employee intoxication, and intentional self-inflicted injuries.
+
+Q: What are some benefits typically provided by workers compensation?
+A: Medical care benefits.
+
+Q: Is there a limit to the medical care benefits provided by workers compensation?
+A: No, workers compensation usually has unlimited medical care benefits.Question: What are the types of workers' compensation benefits?
+Answer: Medical care benefits, disability income benefits, death benefits, rehabilitation services and benefits.
+
+Question: How are disability benefits determined?
+Answer: Disability benefits are determined based on the worker's average weekly salary and the degree of disability. It is usually a percentage of the worker's average weekly salary.
+
+Question: What are the categories of disability?
+Answer: Temporary but total, permanent and total, temporary and partial, or permanent but partial.
+
+Question: Are there any limits on medical care benefits?
+Answer: There are no limits on the dollar amount or duration of medical care benefits.
+
+Question: Are workers' compensation benefits taxable income?
+Answer: Typically, workers' compensation benefits are non-taxable income.
+
+Question: Who mostly pays for rehabilitation services and benefits in the U.S.?
+Answer: In the U.S., rehabilitation services and benefits are mostly paid by private insurers or self-insured employers.
+
+Question: How are premiums for workers' compensation insurance determined for large companies insured by private insurers?
+Answer: Premiums for large companies insured by private insurers are determined based on factors such as payroll and industry class.
+
+Question: How are premiums for workers' compensation insurance determined for small companies?
+Answer: Premiums for small companies are usually set at the same rate as companies with a similar industry classification.Question: Who pays for the administrative costs related to workers compensation?
+Answer: The employers.
+
+Question: In some states, who covers the administrative costs related to workers compensation?
+Answer: A government agency.
+
+Question: What are the requirements for workers to be eligible for workers compensation?
+Answer: They must work in a covered occupation and have an injury or disease that was a result of the course of employment.
+
+Question: How is workers compensation administered in Canada?
+Answer: It is administered separately in each province by a Workers Compensation Board.
+
+Question: How are workers compensation programs administered in most of the rest of the world?
+Answer: They are administered by a government agency.

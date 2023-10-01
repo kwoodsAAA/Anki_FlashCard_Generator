@@ -1,0 +1,11 @@
+ Question: What is the goal for deriving the formula?
+Answer: The goal is to derive the formula for full credibility of aggregate claims.
+
+Question: What is the inequality that the formula should satisfy?
+Answer: The formula should satisfy the inequality mentioned.
+
+Question: What is the note mentioned?
+Answer: The note mentioned is that.
+
+Question: What is the conclusion based on the inequality and note?
+Answer: Therefore, the conclusion is that.

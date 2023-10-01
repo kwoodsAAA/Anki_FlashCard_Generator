@@ -1,0 +1,119 @@
+ Q: What is partial credibility?
+A: Partial credibility is assigned when the experience is inadequate for full credibility.
+
+Q: What is the purpose of credibility in insurance?
+A: The purpose of credibility is to assign weights to different sources in order to produce the best estimate of the future outcome.
+
+Q: What is the credibility premium?
+A: The credibility premium is the estimate of the future outcome and is denoted as .
+
+Q: How is the credibility premium calculated in the case of partial credibility?
+A: The credibility premium in the case of partial credibility is calculated by assigning a weight of  to the sample mean and a weight of  to the value from a more general source, commonly known as the manual premium.
+
+Q: What does represent in the calculation of the credibility premium?
+A: represents the sample mean.
+
+Q: What does represent in the calculation of the credibility premium?
+A: represents the manual premium.
+
+Q: How is determined in a classical credibility problem?
+A: is determined by taking the average of the observations provided.question: Under classical credibility theory, how can  be calculated?
+answer:  can be calculated using the square root rule.
+
+question: What does the square root rule state?
+answer: The square root rule states that if there is not full credibility, then 
+
+question: What does  represent in the square root rule?
+answer:  represents the number of exposures needed for full credibility.
+
+question: What does  represent in the square root rule?
+answer:  represents the actual number of exposures.
+
+question: What does  represent in the square root rule?
+answer:  represents the expected number of claims needed for full credibility.
+
+question: What does  represent in the square root rule?
+answer:  represents the actual number of claims.question: What is the formula for calculating credibility?
+answer: credibility = number of claims / number of exposures
+
+question: When does the formula for credibility have two forms?
+answer: The formula has two forms when the numerator and denominator are consistent in units.
+
+question: What is the purpose of using an approximation for the number of claims?
+answer: The approximation is used when the actual number of claims is unknown or assumed to be unknown.
+
+question: How can you calculate the credibility if 60,000 exposures are observed?
+answer: Using the square root rule, the credibility would be less than 1 because less than 80,000 exposures have been observed.
+
+question: How can you calculate the credibility if 120,000 exposures are observed?
+answer: If 120,000 exposures are observed, the credibility would be 1 because the full number of exposures needed for credibility has been observed.Question: What is the standard for full credibility for a specific type of policy?
+Answer: The standard for full credibility is set so that the claim frequency is within 3% of the true value 90% of the time.
+
+Question: What is the credibility factor for a group with 800 insureds?
+Answer: The credibility factor is 80%.
+
+Question: What is the new standard for full credibility for the same group of insureds?
+Answer: The new standard for full credibility is set so that the claim frequency is within 3% of the true value 99% of the time.
+
+Question: How do we calculate the revised credibility factor?
+Answer: We need to revise the number of exposures/claims needed for full credibility based on the new standard, and then use that number to calculate the revised credibility factor.question;What is the claim frequency?
+answer;The claim frequency is denoted as .
+question;What is the formula for calculating the number of exposures needed for full credibility using the square root rule?
+answer;The formula is .
+question;What is the formula for calculating the number of claims needed to meet the revised standard for full credibility?
+answer;The formula is .
+question;What is the formula for calculating the revised credibility factor?
+answer;The formula is .
+question;What is an alternative method for calculating the revised credibility factor without solving for  and its revised version?
+answer;The alternative method is to use the formula .Question: What is the formula for the full credibility for claim frequency?
+Answer: The formula can be easily derived from the given information.
+
+Question: What distribution does the annual claim frequency follow?
+Answer: The annual claim frequency follows a Poisson distribution.
+
+Question: What distribution do the individual claim sizes follow?
+Answer: The individual claim sizes follow an inverse Gaussian distribution with parameters  and .
+
+Question: Are the claim frequency and severity independent?
+Answer: Yes, the claim frequency and severity are independent.
+
+Question: What is the full credibility standard established in this example?
+Answer: The full credibility standard is that the aggregate claim is within 10% of its mean 90% of the time.
+
+Question: What is the manual premium for the annual aggregate claim?
+Answer: The manual premium is 10,000.
+
+Question: How many claims were observed in the previous year?
+Answer: 200 claims were observed in the previous year.
+
+Question: What was the total claim size in the previous year?
+Answer: The total claim size in the previous year was 12,000.
+
+Question: What method is used to calculate the credibility premium for the current year?
+Answer: Limited fluctuation credibility is used to calculate the credibility premium for the current year.1. What are the variables used in partial credibility calculations?
+- Annual claim frequency and severity
+
+2. How do you calculate the frequency distribution in partial credibility calculations?
+- Apply [formula] to calculate
+
+3. How do you calculate the severity distribution in partial credibility calculations?
+- Apply [formula] to calculate
+
+4. How do you calculate the partial credibility factor when only 200 claims were observed in the previous year?
+- Apply the square root rule to calculate
+
+5. How do you determine the credibility premium for the current year?
+- Apply [formula] to calculate
+
+6. What should be comparable in terms of quantity in partial credibility calculations?
+- The sample mean and the manual premium
+
+7. What is the manual premium used for in partial credibility calculations?
+- To calculate the credibility premiumQuestion: What is the formula for calculating the annual aggregate claim?
+Answer: The annual aggregate claim is the average of the observed annual aggregate claims.
+
+Question: What is the observed number of exposures?
+Answer: The observed number of exposures is 1.
+
+Question: What is the formula for calculating the sample mean?
+Answer: The sample mean is the observed total amount across all exposures divided by the observed number of exposures.

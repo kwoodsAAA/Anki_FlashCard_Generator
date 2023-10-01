@@ -1,0 +1,36 @@
+ question: What is Payment Per Loss?
+answer: Payment Per Loss is the payment per loss variable.
+
+question: What are Policy Limits?
+answer: Policy Limits are the maximum amount the insurer will pay for a single loss.
+
+question: What is the INCREASED LIMIT FACTOR?
+answer: The INCREASED LIMIT FACTOR is the original limit and the increased limit.
+
+question: What is a Deductible?
+answer: A Deductible is the amount the policyholder has to pay before receiving any reimbursement.
+
+question: What is an ORDINARY DEDUCTIBLE?
+answer: An ORDINARY DEDUCTIBLE is the deductible for a policy.
+
+question: What is a LOSS ELIMINATION RATIO?
+answer: A LOSS ELIMINATION RATIO is the ratio for a policy with an ordinary deductible.
+
+question: What is a FRANCHISE DEDUCTIBLE?
+answer: A FRANCHISE DEDUCTIBLE is the deductible for a policy.Question: What is the excess loss variable?
+Answer: 
+
+Question: What is the mean excess loss?
+Answer: 
+
+Question: What are the helpful properties?
+Answer: Loss, Mean, Excess Loss, Mean Excess Loss
+
+Question: What is the deductible set to if not applicable?
+Answer: 
+
+Question: What is the policy limit set to if not applicable?
+Answer: 
+
+Question: What is the coinsurance set to if not applicable?
+Answer:

@@ -1,0 +1,29 @@
+ 1. What is the general form of the lognormal VaR? The general form of the lognormal VaR is derived from the solution to (2) in Example S2.6.1.1.
+2. What is the TVaR for a lognormal random variable? The TVaR for a lognormal random variable is calculated using the derived general form.
+3. What is the standard normal random variable denoted as? The standard normal random variable is denoted as Z.
+4. What are the 100 percentile values of Z and X? The 100 percentile values of Z and X are denoted as Zp and Xp, respectively.
+5. What method was used to evaluate the integral? The substitution method was used to evaluate the integral.
+6. What is the value of the integral after substitution? The value of the integral after substitution is denoted as T.
+7. What method was used to disprove substitution? The substitution method was used to disprove substitution.question: What is the subadditivity property for VaR?
+answer: The subadditivity property states that the VaR of the sum of two random variables is less than or equal to the sum of their individual VaR values.
+
+question: Define two i.i.d. random variables X and Y.
+answer: X and Y are independent and identically distributed random variables.
+
+question: Evaluate the probability function of X + Y.
+answer: The probability function of X + Y is the sum of the probability functions of X and Y.
+
+question: Does subadditivity hold for all conditions?
+answer: No, subadditivity does not hold under all conditions.
+
+question: What property does VaR fail to satisfy?
+answer: VaR fails to satisfy the subadditivity property.
+
+question: What is the key to the first two tests?
+answer: The key is to realize that shifting or scaling a random variable will also shift or scale its percentiles.
+
+question: What is translation invariance?
+answer: Translation invariance is the property that shifting a random variable by a constant does not change its VaR.
+
+question: What is positive homogeneity?
+answer: Positive homogeneity is the property that scaling a random variable by a positive constant multiplies its VaR by the same constant.If \(x > t\), then \(TVaR_t(x) \geq TVaR_t(x + c)\) for any positive constant \(c\).

@@ -1,0 +1,168 @@
+ 1. What is coinsurance?
+Coinsurance is the portion of loss the insurer is responsible for.
+
+2. What is the formula for coinsurance?
+For a policy with coinsurance of c, the insurer will pay c times the loss amount, while the policyholder will pay the rest (1-c) times the loss amount.
+
+3. How is the expected payment calculated for coinsurance?
+The expected payment is calculated by multiplying the expected loss by the coinsurance.
+
+4. What are the two methods for handling coinsurance when a policy has both a deductible and coinsurance?
+The two methods are handling coinsurance before or after the deductible is met.
+
+5. What is the default method for handling coinsurance when a policy has both a deductible and coinsurance?
+By default, the coinsurance only comes into play after the deductible is met.
+
+6. What is the payment per loss variable for a policy with deductible D and coinsurance c?
+The payment per loss variable is D + c times the excess amount.
+
+7. What is the average payment for a policy with deductible D and coinsurance c?
+The average payment is (D + c times the expected excess amount) times the probability of a loss greater than the deductible.1. What is applied before the deductible?
+- The coinsurance
+
+2. How is the coinsured portion of the loss applied?
+- The insurer will only apply the coinsured portion of the loss.
+
+3. What is the policyholder responsible for?
+- The remaining portion of the loss, plus the amount needed to meet the deductible.
+
+4. What is the equation for the payment per loss variable?
+- The equation is: payment per loss = (coinsurance * loss) + deductible.
+
+5. How can the equation be expressed to get the same form as when coinsurance is applied after the deductible?
+- By defining the deductible as (deductible / coinsurance).
+
+6. How should the deductible be adjusted if the coinsurance is applied before the deductible?
+- Divide the deductible by the coinsurance.
+
+7. How should the problem be solved if the coinsurance is applied before the deductible?
+- Solve it the same way as the case where the coinsurance is applied after.
+
+8. What is the average payment in this case?
+- The average payment is not specified in the provided text.1. What is the point that defines whether the loss meets the deductible?
+- The point that defines whether the loss meets the deductible is the deductible itself.
+
+2. When will the insurer start sharing the cost?
+- The insurer will start sharing the cost only when the loss is greater than the deductible.
+
+3. What is the general formula for the expected payment per loss?
+- The general formula for the expected payment per loss is:
+Expected payment per loss = min(max(loss - deductible, 0), policy limit) * (1 - coinsurance)Question: What is the maximum covered loss?
+Answer: The loss amount above which the insurer pays the policy limit.
+
+Question: When is there a maximum covered loss?
+Answer: There is a maximum covered loss only when there is a policy limit.
+
+Question: What happens if a policy only has a policy limit?
+Answer: The limited expectation is evaluated at the maximum covered loss.
+
+Question: What happens if a policy has a policy limit and a deductible?
+Answer: The limited expectation is evaluated at the maximum covered loss.
+
+Question: What happens if a policy has a policy limit, a deductible, and coinsurance?
+Answer: The limited expectation is evaluated at the maximum covered loss.question;answer
+For an insurance policy, what is the deductible amount?;200
+What is the policy limit for the insurance policy?;2,000
+What distribution does the claim severity follow?;Pareto distribution
+What are the parameters of the Pareto distribution?; and 
+What is the formula for calculating the expected insurance payment per loss?; 
+What is the modified formula for calculating the expected insurance payment per loss when there is no coinsurance?; 
+What is the formula for the limited expectation of the Pareto distribution?; 
+What is the formula for calculating the expected payment per loss?; 
+Why is the expected payment per loss expression correct?;It is obtained by subtracting column 3 from column 2 in the table.Question: What is the expected payment per loss?
+Answer: The expected payment per loss is calculated using the formula: 
+
+Question: What is the formula to calculate the expected payment per loss?
+Answer: The formula is: 
+
+Question: What is the value of A in the formula?
+Answer: The value of A is 
+
+Question: What is the value of B in the formula?
+Answer: The value of B is 
+
+Question: What is the value of C in the formula?
+Answer: The value of C is 
+
+Question: How do we compute the limited expected values?
+Answer: We substitute the limited expected values into the formula to calculate the final answer.
+
+Question: What is the expression for losses below 200?
+Answer: For losses below 200, the expression is 
+
+Question: What is the expression for losses between [200, 1000]?
+Answer: The expression for losses between [200, 1000] is 
+
+Question: What is the expression for losses above 1000?
+Answer: For losses above 1000, the expression is 
+
+Question: How do we calculate the final answer?
+Answer: We substitute the limited expected values into the formula to calculate the final answer.Question: What is the formula for calculating  for losses between 200 and 2,700?
+Answer:  is 80% of the amount in excess of 200.
+
+Question: What is the maximum value for  for losses greater than 2,700?
+Answer:  is capped at the policy limit of 2,000.
+
+Question: How is the last column calculated?
+Answer: Subtracting column 3 from column 2 produces the last column.
+
+Question: What is the distribution of losses in the given example?
+Answer: Losses follow a gamma distribution with parameters  and .
+
+Question: What is the policy limit for the insurance coverage?
+Answer: The policy limit is 250.
+
+Question: What is coinsurance in the given context?
+Answer: Coinsurance is the proportion of the loss paid by the insurance company.
+
+Question: What is the goal in the alternative coverage with coinsurance?
+Answer: The goal is to make the expected insurance cost remain the same.
+
+Question: How is  modified for the coverage with a policy limit of 250?
+Answer:  is modified by setting ,  and : 9/30/23, 7:14 PM S2.3.3 Coinsurance - Learn F AM - Coaching Actuaries
+https://account.coachingactuaries.com/fam/learn/4915/5059/35992 9/12
+
+Question: How is  modified for the alternative coverage with coinsurance?
+Answer:  is modified by setting ,  and :
+
+Question: What is the equation used to equate the two expected payments?
+Answer: Equate the two expected payments. The goal is to solve for .
+
+Question: What is the first step in solving for ?
+Answer: First, calculate thQuestion: What is the formula for the limited expected value?
+Answer: The formula for the limited expected value is provided in the exam table.
+
+Question: How do you evaluate incomplete gamma functions?
+Answer: To evaluate incomplete gamma functions, you can use the shortcut introduced in Section S2.2.4.
+
+Question: What is the shortcut for evaluating incomplete gamma functions?
+Answer: The shortcut for evaluating incomplete gamma functions is to start by defining a Poisson variable.
+
+Question: How can the incomplete gamma functions be evaluated using integration?
+Answer: The incomplete gamma functions can also be evaluated by integrating the gamma PDF, which requires integration by parts.
+
+Question: What is the example number for the given text?
+Answer: The example number for the given text is S2.3.3.4.question: What is the bonus formula if the total incurred losses for the year are less than 500?
+answer: Bonus = 15% * (500 - total incurred losses)
+
+question: What happens if the total incurred losses are greater than 500?
+answer: No bonus is paid.
+
+question: How is the bonus variable defined?
+answer: Bonus = 15% * (500 - total incurred losses)
+
+question: How can the expected bonus be calculated?
+answer: The expected bonus can be calculated by finding the expected value of the bonus variable.1. What is the key to successfully calculating the expected payment?
+Correctly defining the payment structure.
+
+2. What are the concepts surrounding expected payment applicable to?
+Other types of deductibles.
+
+3. What is the expected bonus dependent on?
+The correctly defined bonus random variable.
+
+4. How can the expected bonus be computed?
+By computing limited expected values.
+
+5. What types of deductibles were focused on in the text?
+Ordinary and franchise deductibles.

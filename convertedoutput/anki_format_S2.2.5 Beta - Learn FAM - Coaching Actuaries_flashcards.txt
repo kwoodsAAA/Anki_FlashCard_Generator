@@ -1,0 +1,9 @@
+What is the PDF of a beta distribution?;The PDF of a beta distribution with [parameter] is in the form of [PDF formula].
+How can we deduce the parameters of a beta distribution?;Compare the given PDF to the PDF formula to deduce the parameters.
+What is the moment formula for a beta distribution?;Look up beta's moment formula in the exam table.
+What is the second moment of a beta distribution?;The second moment of a beta distribution can be calculated using the moment formula.
+What is a uniform distribution?;A uniform distribution has a constant density.
+What is the PDF of a uniform distribution?;The PDF of a uniform distribution on the interval [a, b] is [PDF formula].
+What is the mean of a uniform distribution?;The mean is the midpoint of the interval.
+What is the variance of a uniform distribution?;The variance of a uniform distribution is [(b-a)^2]/12.
+How can the second raw moment of a uniform distribution be calculated?;The second raw moment can be calculated by adding the variance to the square of the mean.question;A uniform distribution on the interval [a, b] is equivalent to a beta distribution with parameters α=1 and β=1.

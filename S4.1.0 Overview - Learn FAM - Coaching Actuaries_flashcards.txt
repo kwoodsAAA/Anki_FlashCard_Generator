@@ -1,0 +1,67 @@
+ What is the expected annual total claim size for each Iowa driver that All-Care should use in their analysis?;Something in betweenWhat is the expected aggregate claim calculation method?
+The weighted average of the two numbers.
+
+What are the considerations for using internal observations?
+Better addressing the specific need but likely limited sample size.
+
+What are the considerations for using industry-wide data?
+Larger sample size but might be too general.
+
+What is the key question in determining the weight between internal data and industry-wide data?
+How much weight should be placed on All-Care's internal data compared to the industry-wide data?
+
+What is the credibility factor?
+A weight assigned to the sample/observations.
+
+What does  represent?
+The weight assigned to the sample/observations.
+
+What does  represent?
+The weight assigned to the general group.
+
+What is the relationship between  and ?
+ must be equal to 1.
+
+What does a  of 0.3 mean?
+30% credibility is assigned to All-Care's internal observations, and 70% credibility is assigned to the industry-wide data.1. What is the annual aggregate claim per insured estimated to be?
+Answer: The annual aggregate claim per insured is estimated to be [the value is not provided].
+
+2. What does the larger value of [a variable] indicate?
+Answer: The larger the value of [a variable], the more we trust the sample of observations.
+
+3. What are the three properties reflected in [a variable]?
+Answer: The three properties reflected in [a variable] are: [property 1], [property 2], and [property 3].
+
+4. What does [a variable] represent in the three properties mentioned?
+Answer: [A variable] represents the number of observations in the sample.
+
+5. What does the oﬃcial textbook use instead of [a variable]?
+Answer: The oﬃcial textbook uses [a different variable] instead of [a variable] for the three properties above.
+
+6. What is the worst-case scenario if [a variable] is?
+Answer: The worst-case scenario if [a variable] is [a value] is that we discard the data.
+
+7. What does [a different variable] imply?
+Answer: [A different variable] implies that we rely entirely on the data.
+
+8. What must [a variable] be in between?
+Answer: [A variable] must be in between [the lower bound] and [the upper bound].
+
+9. What is the relationship between the change in the credibility factor and the number of observations?
+Answer: As the number of observations increases, the change in the credibility factor is always positive.
+
+10. How does the credibility factor change when the number of observations increases?
+Answer: Increasing the number of observations also increases the credibility factor.
+
+11. What happens to the ratio of [a variable] as the number of observations increases?
+Answer: As the number of observations increases, the ratio of [a variable] decreases.
+
+12. What does a larger change in the credibility factor indicate?
+Answer: A larger change in the credibility factor indicates that the credibility factor increases by a larger amount when the number of observations is smaller.Q: What is the impact of adding 500 observations to a dataset of 250 observations compared to adding 500 observations to a sample of 1,000,000 observations?
+A: Adding 500 observations to a dataset of 250 observations will have a greater impact than adding 500 observations to a sample of 1,000,000 observations.
+
+Q: What is classical credibility also known as?
+A: Classical credibility is also known as limited fluctuation credibility.
+
+Q: What does classical credibility suggest?
+A: Classical credibility suggests how large the sample has to be to assign 100% credibility to the observations.

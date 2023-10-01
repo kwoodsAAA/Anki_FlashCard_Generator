@@ -1,0 +1,31 @@
+ 1. What is the definition of Aggregate Loss Models? Sum of all individual losses.
+2. What is the definition of Collective Risk Model? All existing severities are i.i.d. and frequency and severity are independent.
+3. What is the definition of Individual Risk Model? Severities are independent but may not be identical, and frequency is a constant.
+4. How do you approximate with a normal distribution? Use the Normal Approximation.
+5. How do you approximate with a lognormal distribution? Use the Lognormal Approximation.
+6. When is Continuity Correction needed? Continuity Correction is needed when both frequency and severity are discrete.
+7. How do you calculate the aggregate mean and variance for Stop-Loss Insurance? Calculate the aggregate mean and variance.
+8. How do you solve for the parameters  and  in Stop-Loss Insurance? Equate lognormal mean and variance to aggregate mean and variance.
+9. What is the final step in calculating the desired quantity in Stop-Loss Insurance? Calculate the desired quantity based on the approximating distribution.Question: What does a stop-loss insurance refer to?
+Answer: An insurance that imposes an aggregate deductible.
+
+Question: How is an aggregate deductible applied?
+Answer: It is applied to the aggregate loss.
+
+Question: How is an ordinary deductible applied?
+Answer: It is applied to individual claims.
+
+Question: What is the net stop-loss premium?
+Answer: The net stop-loss premium is the number of losses (N) multiplied by the payment per loss (P).
+
+Question: What does aggregate payments refer to?
+Answer: Aggregate payments are the sum of all individual payments.
+
+Question: What is important to ensure when considering the frequency and severity of losses or payments?
+Answer: It is important to ensure that both frequency and severity are in terms of either losses or payments.
+
+Question: What does "n" represent in the context of aggregate payments?
+Answer: "n" represents the number of payments.
+
+Question: What does "P" represent in the context of aggregate payments?
+Answer: "P" represents the payment per payment.

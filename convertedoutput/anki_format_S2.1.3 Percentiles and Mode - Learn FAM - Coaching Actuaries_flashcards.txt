@@ -1,0 +1,21 @@
+What is the definition of the 100th percentile of a random variable?;The value that satisfies both of these inequalities
+How can the definition of the 100th percentile be simplified for continuous distributions?;By restating the two inequalities as
+What is the 100th percentile of a continuous random variable?;The value that satisfies the equation
+What are the special names for certain percentiles?;The 25th percentile is the 1st quartile, the 50th percentile is the median or the 2nd quartile, and the 75th percentile is the 3rd quartile.Question
+What is the 3rd quartile of the random variable?;The 3rd quartile is the 75th percentile of the random variable.
+How do you determine the CDF of a random variable to compute its percentiles?;For a continuous random variable, the CDF is the value of the random variable such that the probability is equal to the desired percentile. For example, the CDF evaluated at the median must produce a probability of 0.5, and the CDF evaluated at the 3rd quartile must produce a probability of 0.75.
+What is the full definition of a percentile for a discrete random variable?;For a discrete random variable, the full definition of a percentile must be used. It cannot use the shortcut formula. The percentile can be determined by sketching a graph of the cumulative distribution function (CDF).question
+What happens if there are multiple points of intersection?;All the x-coordinates of the points of intersection will count as the percentile.
+What does the line represent in the graph?;The line represents the percentile.
+How can we verify if our answer is correct?;Check if the percentile satisfies the two inequalities.
+What does it mean if the line intersects the CDF at a certain x-coordinate?;It means that the x-coordinate is the percentile.
+Is 2 only the 50th percentile?;No, 2 is any percentile between the 40th and the 60th.
+Does the line intersect the CDF in the last mentioned scenario?;The text does not provide information about the intersection in that scenario.Question
+How can the 75th percentile be confirmed?;The 75th percentile can be confirmed by checking if both inequalities are satisfied for any value in the interval [5,8].
+What can be tricky when determining the percentiles of a discrete distribution?;Determining the percentiles of a discrete distribution can be tricky because multiple percentiles can have the same value and multiple values can correspond to the same percentile.
+What conclusion can be made about computing percentiles for continuous random variables?;If a continuous random variable is strictly increasing (except when it equals 0 or 1), it is easy to compute its percentiles.
+What does the CDF plot for a continuous example show?;The CDF plot for a continuous example shows that the CDF is strictly increasing, except when it equals 0 or 1.What does it mean if a function is one-to-one?;A function is one-to-one if each element in the domain is mapped to a unique element in the range.
+How is the mode calculated for continuous random variables?;For continuous random variables, the mode is calculated by maximizing the probability density function (PDF). This is done by taking the first derivative of the PDF, setting it equal to zero, and solving for the mode.
+What does the second derivative test verify for critical points?;The second derivative test can be used to verify if a critical point corresponds to a local maximum or minimum of the probability function.
+Do most distributions have one local maximum that coincides with the global maximum?;Yes, most distributions have one local maximum that coincides with the global maximum. Therefore, for most exam questions, the simple approach of finding the mode using the first derivative of the PDF will be sufficient for continuous distributions.
+Can the global maximum exceed the local maxima found by the simple approach?;Yes, it is possible for the global maximum to exceed the local maxima found by the simple approach, especially when the mode is an endpoint of the domain. In such cases, evaluating the density function at the endpoints may be necessary for a thorough analysis.question;What is a mode in statistics?

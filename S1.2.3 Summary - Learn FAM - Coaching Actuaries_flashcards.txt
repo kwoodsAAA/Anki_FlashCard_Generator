@@ -1,0 +1,33 @@
+ Q: What is a deductible?
+A: A deductible is the amount of each claim that the policyholder is responsible for paying before the insurer will pay a claim.
+
+Q: What is a fixed dollar deductible?
+A: A fixed dollar deductible has a fixed dollar amount, regardless of the loss size. It is also known as an ordinary deductible or a deductible.
+
+Q: What is a fixed percentage deductible?
+A: A fixed percentage deductible can be a percentage of the loss or the policy limit. It is usually paired with a minimum dollar deductible so that the insurer does not need to handle small claims.
+
+Q: What are disappearing deductibles?
+A: Disappearing deductibles decrease linearly within a specific loss range.
+
+Q: What are franchise deductibles?
+A: Franchise deductibles are also known as a cl.question;answer
+What is a disappearing deductible?;It decreases as soon as the loss exceeds the deductible.
+What are fixed dollar deductibles per calendar year?;They can have different amounts for individual and family coverage, and the insurance coverage kicks in when either deductible has been met.
+What is an elimination period?;It is the period of time between the date of a disability/accident and the date that benefits begin.
+What is a policy limit?;It is the maximum amount the insurer will pay for a single loss.
+What is coinsurance?;It is the proportion of loss the insurer is responsible for.
+How can reinsurance be categorized?;It can be categorized as either facultative or treaty, and as either proportional or excess of loss.Question: What is the definition of facultative reinsurance?
+Answer: Facultative reinsurance is used for ceding individual risks.
+
+Question: What is the definition of treaty reinsurance?
+Answer: Treaty reinsurance is used for ceding all risks in a specific line or class of business.
+
+Question: What is quota share reinsurance?
+Answer: Quota share reinsurance involves both parties sharing a percentage of the total risk.
+
+Question: What is surplus share reinsurance?
+Answer: Surplus share reinsurance involves both parties sharing a percentage of the total risk above the retention limit.
+
+Question: What is excess of loss reinsurance?
+Answer: Excess of loss reinsurance means that the reinsurer is responsible for claim amounts exceeding the retention limit.

@@ -1,0 +1,155 @@
+ Question: What is incomplete data?
+Answer: Incomplete data refers to not having the exact values of the full dataset or only having a partial dataset.
+
+Question: What are some examples of incomplete data?
+Answer: Some examples of incomplete data include truncation, censoring, and grouping.
+
+Question: What is truncated data?
+Answer: Truncated data is an example of an incomplete dataset.
+
+Question: What does it mean if a dataset is left-truncated?
+Answer: If a dataset is left-truncated, it means that the dataset does not include data at or below a certain value.
+
+Question: How do we condition the likelihood of every observation in a left-truncated dataset?
+Answer: We condition the likelihood of every observation in a left-truncated dataset on being above a certain value.
+
+Question: What does it mean if a dataset is right-truncated?
+Answer: If a dataset is right-truncated, it means that the dataset does not include data at or above a certain value.
+
+Question: How do we condition the likelihood of every observation in a right-truncated dataset?
+Answer: We condition the likelihood of every observation in a right-truncated dataset on being below a certain value.
+
+Question: What is a common example of a left-truncated case?
+Answer: A common example of a left-truncated case is often seen in survival analysis.question;What is the purpose of a deductible in insurance?
+answer;The purpose of a deductible in insurance is to determine the threshold at which the policyholder will start receiving reimbursement for a loss.
+question;What happens when the loss amount is below the deductible?
+answer;When the loss amount is below the deductible, the policyholder won't receive any reimbursement for it.
+question;When does an insurer record a loss?
+answer;An insurer will only record a loss when it exceeds the deductible.
+question;What is left-truncation in the context of data?
+answer;Left-truncation refers to a situation where some of the data is missing or not available for values below a certain threshold.
+question;What is the likelihood function?
+answer;The likelihood function represents the probability of obtaining a particular set of observations given a specific parameter value.
+question;What is the maximum likelihood estimate (MLE)?
+answer;The maximum likelihood estimate is the value of a parameter that maximizes the likelihood function, indicating the most likely value of the parameter based on the observed data.
+question;How do you calculate the log-likelihood function?
+answer;To calculate the log-likelihood function, take the natural logarithm of the likelihood function.
+question;What is the purpose of taking the derivative of the log-likelihood function?
+answer;Taking the derivative of the log-likelihood function helps find the values of the parameters that maximize the likelihood of the observed data.question;answer
+What is censored data?;Censored data is an example of observations for which the exact values are not known.
+What does it mean for an observation to be left-censored?;An observation is left-censored or censored from below at <value> when the value is known to be at most <value> but is only recorded as <value>.
+What is the likelihood of a left-censored observation?;The likelihood of the observation is unknown.
+What does it mean for an observation to be right-censored?;An observation is right-censored or censored from above at <value> when the value is known to be at least <value> but is only recorded as <value>.
+What is the likelihood of a right-censored observation?;The likelihood of the observation is unknown.
+When is the right-censored case commonly seen in insurance?;The right-censored case is commonly seen in insurance whenever there is a policy limit.
+What happens when a loss exceeds the maximum covered loss in insurance?;For losses that exceed the maximum covered loss, records will likely only document them as the maximum covered loss.Q: What is the maximum likelihood estimate of the claim sizes?
+A: 10
+
+Q: How many payments were observed at the policy limit?
+A: Two
+
+Q: What is the likelihood for each payment at the policy limit?
+A: 9/30/23
+
+Q: What is the range of claim sizes?
+A: From 1 to infinity
+
+Q: What distribution is used to model the claim sizes?
+A: Single-parameter Pareto
+
+Q: What are the parameters of the Pareto distribution?
+A: Unknownquestion;answer
+What is the property of Maximum Likelihood Estimation (MLE)?;We can substitute the MLE of a parameter into any function of that parameter to compute the MLE of that function.
+What is the MLE of the 90th percentile from the exam table?;The MLE of the 90th percentile is where  is the MLE of .
+What is the first step in estimating ?;The first step is to construct the likelihood function.
+How are the likelihoods of the first four data points found?;The likelihoods of the first four data points are found using the PDF since the exact values are known.
+How are the likelihoods of the last two data points found?;For the last two data points, we only know that they are at least 10, so we use the survival function evaluated at 10 for their likelihoods.
+What is the log-likelihood function?;The log-likelihood function is [the provided equation].
+What is the next step after obtaining the log-likelihood function?;Take the derivative of the log-likelihood function with respect to .
+How do we solve for ?;Set the derivative equal to 0 and solve for .
+What is the final step in calculating the MLE?;Calculate the final answer.
+Can you provide an example combining truncation and censoring?;Yes, let's consider Example S3.1.2.3.
+What distribution do all losses follow in Example S3.1.2.3?;All losses follow a Weibull distribution.
+What are the parameters of the Weibull distribution in Example S3.1.2.3?;The parameters are  and .question;answer
+What are the three types of policies offered by Rance Company?;Policy A, Policy B, Policy C
+What are the characteristics of Policy A?;No deductible and no policy limit
+What are the characteristics of Policy B?;Deductible of [insert deductible amount] and no policy limit
+What are the characteristics of Policy C?;Deductible of [insert deductible amount] and policy limit of [insert policy limit]
+How many claims of different sizes are observed from Policy A?;Two claims
+How many claims of different sizes are observed from Policy B?;One claim
+How many claims of different sizes are observed from Policy C?;Three claims
+What method are you to use to estimate the value of [insert value]?;Maximum likelihood method
+What is the log-likelihood function?;[insert log-likelihood function]
+How are the likelihoods of the claims from Policy A found?;Using only the PDF
+What happens to the claims observed from Policy B due to the deductible?;They are left-truncated at [insert deductible amount] and the likelihoods need to be conditioned on being greater than that amount.
+What happens to the claims observed from Policy C due to the deductible?;They are left-truncated at [insert deductible amount] and the likelihoods need to be conditioned on being greater than that amount.Q: What is the likelihood function?
+A: The likelihood function is a function that measures how likely a set of observed data is given a specific set of parameter values.
+
+Q: What is the log-likelihood function?
+A: The log-likelihood function is the natural logarithm of the likelihood function.
+
+Q: What is an example of incomplete data?
+A: An example of incomplete data is when not all the information about a group of policies is provided.
+
+Q: What information is given about a group of policies?
+A: The given information about a group of policies includes the claim payment, deductible, and policy limit for each policy.
+
+Q: What is the assumption made about payments at the policy limit?
+A: The assumption is that payments at the policy limit resulted from losses above the maximum covered loss.
+
+Q: How can you fit a continuous distribution to the losses using the maximum likelihood method?
+A: By using the maximum likelihood method, a continuous distribution can be fitted to the losses by estimating the parameters that maximize the likelihood function.
+
+Q: What is the task in this scenario?
+A: The task is to determine the likelihood function for the given group of policies.
+
+Q: What is the solution to the task?
+A: The solution to the task is not provided in the given text.question;answer
+What is the process for translating payments into losses?;To translate payments into losses, simply add back the deductible.
+What adjustment is required to translate policy limits into maximum covered losses?;A similar adjustment is required to translate policy limits into maximum covered losses.
+How do you calculate the likelihoods for each loss amount?;Calculate the likelihoods by evaluating the PDF at each loss amount and condition it on being greater than the deductible, if any.
+What is the formula for the likelihood function?;The likelihood function is the product of the likelihoods.
+What is grouped data?;Grouped data is an example of observations for which the exact values are not known and is presented as the number of observations in a distinct interval.
+How is the likelihood of an observation in the interval calculated?;The likelihood of an observation in the interval is calculated based on the formula provided.
+How can the likelihood of grouped data be expressed for discrete distributions?;For discrete distributions, the likelihood of grouped data can be expressed as the sum of the PMFs evaluated.Question: What is the annual number of accidents per car in a geometric distribution?
+Answer: The annual number of accidents per car follows a geometric distribution.
+
+Question: What is the parameter of the geometric distribution?
+Answer: The parameter is represented by .
+
+Question: How many cars were observed in the past year?
+Answer: A sample of 20 cars were observed in the past year.
+
+Question: How many cars had 0 accidents?
+Answer: 9 cars had 0 accidents.
+
+Question: How many cars had 1 to 2 accidents?
+Answer: 6 cars had 1 to 2 accidents.
+
+Question: How many cars had 3 to 4 accidents?
+Answer: 5 cars had 3 to 4 accidents.
+
+Question: What is the maximum likelihood estimate of ?
+Answer: The maximum likelihood estimate of is .
+
+Question: What is the likelihood of a car having 0 accidents?
+Answer: The likelihood of a car having 0 accidents is .
+
+Question: What is the likelihood of a car having 1 to 2 accidents?
+Answer: The likelihood of a car having 1 to 2 accidents is .
+
+Question: What is the likelihood of a car having 3 to 4 accidents?
+Answer: The likelihood of a car having 3 to 4 accidents is .
+
+Question: What is the likelihood function?
+Answer: The likelihood function is .
+
+Question: What is the log-likelihood function?
+Answer: The log-likelihood function is .
+
+Question: How do you find the maximum likelihood estimate using the log-likelihood function?
+Answer: Take the derivative of the log-likelihood function with respect to , set it equal to 0, and solve for using the quadratic formula.
+
+Question: What is the value of ?
+Answer: The value of can be found by solving the quadratic equation.question: What is the final answer of the provided text?
+answer: 1.2463

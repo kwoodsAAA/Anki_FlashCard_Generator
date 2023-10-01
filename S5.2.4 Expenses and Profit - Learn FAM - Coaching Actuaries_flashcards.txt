@@ -1,0 +1,77 @@
+ question: What are the two main categories of expenses in the ratemaking process?
+answer: loss adjustment expenses and other expenses
+
+question: What are loss adjustment expenses also known as?
+answer: LAE
+
+question: What are the two types of loss adjustment expenses?
+answer: allocated loss adjustment expenses (ALAE) and unallocated loss adjustment expenses (ULAE)
+
+question: What are ALAE expenses associated with?
+answer: a particular claim
+
+question: What are ULAE expenses not associated with?
+answer: a particular claim
+
+question: What is an example of ALAE expenses?
+answer: lawyer's fees
+
+question: What is an example of ULAE expenses?
+answer: salary of the claims department manager
+
+question: What categorization was introduced by the U.S. insurance industry for reporting expenses?
+answer: another categorization1. What are the two categories of loss adjustment expenses?
+DCC expenses and AAO expenses.
+
+2. What costs are associated with providing claim defense?
+DCC expenses.
+
+3. What expenses are included in AAO expenses?
+All other expenses incurred during the claim settlement process.
+
+4. How are DCC expenses treated?
+DCC expenses are treated as ALAE.
+
+5. How are AAO expenses treated?
+AAO expenses are treated as ULAE.
+
+6. What other expenses are incurred when writing insurance policies?
+Commissions, brokerage, taxes, and licenses.
+
+7. How are these expenses categorized?
+They can be categorized as either variable expenses or fixed expenses.
+
+8. What are variable expenses?
+Variable expenses are expenses that vary with the gross premium and are defined as a percentage of the premium.
+
+9. What are fixed expenses?
+Fixed expenses do not vary with the gross premium.Question: What are examples of variable expenses?
+Answer: Commissions and taxes
+
+Question: What are examples of fixed expenses?
+Answer: Salaries of employees not in the claims department
+
+Question: What is the variable expense ratio?
+Answer: 
+
+Question: What is the fixed expense ratio?
+Answer: 
+
+Question: What is the formula for the amount of expenses for the ratemaking process?
+Answer: 
+
+Question: How can profit be included in the ratemaking calculation?
+Answer: Implicitly or explicitly
+
+Question: What happens under the implicit method of including profit?
+Answer: Actuaries make conservative estimates for each component, resulting in profit for the company.
+
+Question: What happens under the explicit method of including profit?
+Answer: Actuaries do not make conservative estimates but instead addQ: What is the formula for calculating the amount of profit for the ratemaking process?
+A: The amount of profit for the ratemaking process is calculated as:  (premium) x (target profit percentage).
+
+Q: What is the permissible loss ratio (PLR)?
+A: The permissible loss ratio (PLR) is the target loss ratio to cover variable expenses and meet profitability goals.
+
+Q: Are fixed expenses included in the calculation of the permissible loss ratio (PLR)?
+A: No, fixed expenses are accounted for elsewhere and will be explained later.

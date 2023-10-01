@@ -1,0 +1,34 @@
+What is a discrete mixture?;A discrete mixture is a combination of several basic distributions used to model an event.
+How is a discrete mixture expressed mathematically?;A discrete mixture can be expressed as a weighted average of the probability functions of the individual random variables.
+What are the weights in a discrete mixture?;The weights in a discrete mixture represent the probabilities of the individual random variables.Question
+What does the term "discrete" refer to in "discrete mixtures"?;The term "discrete" refers to combining a finite number of distributions.
+What is the difference between a mixture and a linear combination of random variables?;A mixture follows the distribution of one variable for a certain percentage of the time and follows the distribution of another variable for the remaining percentage of the time. A linear combination of random variables does not follow the distribution of either variable and its value depends on the values of both variables.
+Do the weights in mixtures have to add up to 1?;No, the weights in mixtures do not have to add up to 1. They can be any real number.question
+How many boys and girls are in the class?;17 boys and 13 girls.
+What is the probability of a boy being late for class?;0.2.
+What is the probability of a girl being late for class?;0.15.
+What is the probability that a randomly chosen student is late for class?;It is a mixture. The probability that the student is a boy is 17/30, and the probability that the student is a girl is 13/30.
+Is this a linear combination scenario?;No, it is not a linear combination because it is not true that the selected student is "17 parts boy and 13 parts girl".
+Are the probabilities 0.2 and 0.15 conditional probabilities?;Yes, they are conditional probabilities.question
+What should we think in terms of when dealing with mixtures?;Conditional distributions
+What are the three types of risks for the automobile insurance coverage?;Low, medium, and high
+What is the average loss per year for the low risk class?;300
+What is the average loss per year for the medium risk class?;540
+What is the average loss per year for the high risk class?;800
+What percentage of insureds are low risk?;40%
+What percentage of insureds are high risk?;35%
+What is the annual loss size denoted by?;Let  be the annual loss size
+What distributions is the annual loss size a mixture of?;3 exponential distributions, one for each risk class1. What is the probability that the annual loss is less than 500?
+What is the Law of Total Variance?;The Law of Total Variance states that the variance of a random variable can be calculated by taking the weighted average of the variances of the conditional random variables, plus the variance of their means.
+How does Fred decide which car to drive to work?;Fred flips a fair coin every morning to decide which car to drive to work.
+What is the time to travel to his office with his new car?;The time to travel to his office with his new car is uniformly distributed on the interval [20, 30] minutes.
+What is the time to travel to his office with his old car?;The time to travel to his office with his old car is uniformly distributed on the interval [35, 50] minutes.
+How do we calculate the variance of Fred's travel time to his office using the Law of Total Variance?;We calculate the variance of Fred's travel time to his office by calculating the weighted average of the variances of the travel times with his new car and his old car, plus the variance of their means.question;answer
+What does it imply when the density function of a random variable is expressed as a weighted average?;It implies that the random variable is a mixture.
+What is the Law of Total Variance used for?;To calculate the variance of a mixture random variable.
+How can the variances of  be calculated?;Using the Pareto variance formula or by calculating the first and second moments.
+What formula is included in the exam tables to calculate the Pareto variance?;The moments formula.
+How can the variance of  be calculated?;By applying the Law of Total Variance.
+What is the condition for calculating the variance of , such that ?;1.
+What is the condition for calculating the variance of , such that ?;2.Question
+Are  and  independent?;Yes,  and  are independent.

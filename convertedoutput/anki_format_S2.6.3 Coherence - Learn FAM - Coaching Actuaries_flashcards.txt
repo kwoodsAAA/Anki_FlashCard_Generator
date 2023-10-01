@@ -1,0 +1,21 @@
+What is a risk measure?;An expression that quantifies risks.
+How can one determine if a metric is a good risk measure?;By evaluating its coherence.
+What are the four properties that a coherent risk measure must fulfill?;
+What is translation invariance?;It means that the risk measure remains unchanged when a constant is added or subtracted.
+What is positive homogeneity?;It means that multiplying the risk by a positive constant results in a proportional change in the risk measure.
+What is subadditivity?;It means that the risk measure of a combination of risks is less than or equal to the sum of the individual risk measures.
+What is monotonicity?;It means that if one risk is greater than another, then its risk measure should also be greater.
+Is it important to know both the names and mathematical definitions of the properties?;Yes.
+Does the exam require understanding the logic and reasoning behind the properties?;No, but understanding them can help in remembering them.
+Suppose you bought shares of a company's stock. What can you use to quantify the risks?;A risk measure.Determine if the expected value of  is a coherent risk measure.;No
+What is the first property of coherence that the risk measure satisfies?;The risk measure satisfies the property of translation invariance.
+What is the second property of coherence that the risk measure satisfies?;The risk measure satisfies the property of positive homogeneity.
+What is the third property of coherence that the risk measure satisfies?;The risk measure satisfies the property of subadditivity.
+What is the fourth property of coherence that the risk measure satisfies?;The risk measure satisfies the property of monotonicity.
+Which property or properties of coherence fail to hold for the risk measure , for ?;None of the properties of coherence fail to hold for the risk measure.Question
+What is positive homogeneity?;Positive homogeneity is a property that a risk measure fails to satisfy when multiplying the risk measure by a positive constant does not change its value.
+What is monotonicity?;Monotonicity is a property that a risk measure fails to satisfy when the risk measure does not increase with the size of the event.
+Why does the risk measure fail to satisfy subadditivity?;The risk measure fails to satisfy subadditivity because it does not hold when the sum of the risk measures of two separate events is greater than or equal to the risk measure of the combined event.
+Why does the risk measure fail to satisfy monotonicity?;The risk measure fails to satisfy monotonicity because it does not hold under all conditions. In the given example, even though the size of one event ( ) is larger than the other event ( ), the risk measure does not increase accordingly.question;answer
+Does statement 3 satisfy the subadditivity property?;FALSE
+Does statement 4 satisfy the translation invariance property?;FALSE

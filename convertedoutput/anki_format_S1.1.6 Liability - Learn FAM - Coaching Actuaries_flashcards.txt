@@ -1,0 +1,6 @@
+What is the importance of liability insurance?;Liability insurance protects insureds against third-party injuries.
+How does liability insurance protect insureds?;Liability insurance protects insureds in two ways.
+What are the two distinctive characteristics of liability coverages?;They are categorized as having low frequency, but high severity claims, and they have a potential for high litigation cost.
+How long does it usually take for liability claims to be settled?;Once a claim is reported, it usually takes a long time for these claims to be settled.
+What is the difference between claims-made basis and occurrence basis for liability coverages?;On a claims-made basis, insureds are only covered for losses if the claims are reported during the policy period. On an occurrence basis, incidents or events that occur during the policy period are covered irrespective of the report date.
+Which basis makes liability claims more predictable?;To make these claims more predictable, most liability coverages are on a claims-made basis, instead of an occurrence basis.1. What is tail coverage?

@@ -1,0 +1,34 @@
+ question;answer
+What are the two types of random variables?;Discrete and Continuous
+What is a discrete random variable?;A random variable that takes values from a specified set of exact countable values
+What is a continuous random variable?;A random variable that takes values from a specified interval or a collection of intervals
+What is a Probability Mass Function (PMF)?;If a random variable is discrete, then for any value, the probability of that value can be calculated by evaluating its PMF at that value. The PMF produces probabilities and all probabilities must be between 0 and 1. The sum of the probabilities of all possible values of a random variable must equal 1.1. What is a probability density function (PDF)?
+Answer: A probability density function (PDF) is the equivalent of a PMF for continuous random variables.
+
+2. How is a PDF denoted for a continuous random variable?
+Answer: A PDF for a continuous random variable is denoted by f(x).
+
+3. Does evaluating a PDF at a certain value produce the probability at that value?
+Answer: No, evaluating a PDF at a certain value does not produce the probability at that value.
+
+4. How do you calculate probabilities for a continuous random variable?
+Answer: Probabilities for a continuous random variable are calculated by integrating the PDF.
+
+5. What is the probability of a continuous random variable being any particular value?
+Answer: The probability of a continuous random variable being any particular value is zero.
+
+6. Why is the probability of a continuous random variable being any particular value zero?
+Answer: For continuous random variables, the possible values are uncountably infinite, making any exact value immensely improbable.
+
+7. Do non-zero probabilities exist for continuous random variables?
+Answer: Yes, non-zero probabilities exist over intervals of values for continuous random variables.question: What does evaluating a PDF at a particular value describe?
+answer: It describes the relative likelihood for the continuous random variable to take on a given value.
+
+question: What does it mean if the PDF evaluated at one value is greater than at another value?
+answer: It means that the first value is more likely to be in the neighborhood of the second value than in the neighborhood of any other value.
+
+question: What are the two properties that PDFs must satisfy to be valid?
+answer: PDFs must be non-negative and the integral of the PDF over all values of the random variable must equal 1.
+
+question: Can PDFs exceed 1?
+answer: Yes, PDFs can exceed 1 because they do not represent actual probabilities. A PDF above 1 does not translate to a probability exceeding 1.

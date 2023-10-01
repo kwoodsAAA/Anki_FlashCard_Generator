@@ -1,0 +1,76 @@
+ Question: What is the Tail-Value-at-Risk (TVaR) or the conditional tail expectation (CTE) of a continuous random variable at the 100 % security level?
+Answer: The TVaR or CTE is the conditional expected value given that the random variable exceeds its VaR at the 100 % level.
+
+Question: How can we express the TVaR in terms of the mean excess loss?
+Answer: To avoid integration, we can express the TVaR in terms of the mean excess loss introduced in Section S2.3.
+
+Question: Why is the mean excess loss useful?
+Answer: It is useful because the VaR formula for most distributions is already included in the exam table.
+
+Question: How does the TVaR help actuaries study extreme losses?
+Answer: Similar to VaR, the TVaR helps actuaries study extreme losses by providing information about the average loss amount for losses greater than a certain VaR.
+
+Question: Can you provide an example of TVaR?
+Answer: Sure! For example, if the TVaR at the 95% security level is 5,000, it means that for losses greater than its 95% VaR, the average loss amount is 5,000.
+
+Question: What is the purpose of working on examples?
+Answer: Working on examples helps to better understand and apply the concepts discussed.
+
+Question: Can you provide an example for further practice?
+Answer: Certainly! Let's consider an example of a random variable with a given density function.Loss amount;Solution to (2)
+VaR of x at the 75% level;Solution to (1)
+To determine x, use:
+- the Value-at-Risk of x at the 75% security level.
+- the Tail-Value-at-Risk of x at the 75% security level.
+75 percentile of x;1.8028
+Complement of 1.8028;0.25
+Upper bound of x;2
+TVaR of x at the 75% level;A value between 1.8028 and 2question: What is the problem asking to calculate?
+answer: Calculate the TVaR of at the 85% level.
+
+question: Why can't we use the CDF to calculate the TVaR?
+answer: The question does not provide the full distribution function, so the CDF cannot be used because it requires the PDF.
+
+question: What should we use instead of the CDF?
+answer: Apply the concept of limited expected values.
+
+question: What is the definition of TVaR?
+answer: TVaR is the value of a random variable that produces a specific probability level.
+
+question: How can we compute the TVaR using limited expected values?
+answer: Compute the expected value of the random variable beyond the desired probability level.
+
+question: What is the shortcut for calculating TVaR for a lognormal distribution?
+answer: The exam tables do not provide the formula for TVaR of a lognormal distribution, but we can derive a shortcut using limited expected values.question: If is lognormal with parameters  and , then
+answer: The derivation is provided in the appendix at the end of this section.
+question: The advantage of using  is that this formula does not require the calculation of . Therefore, while  can still be used, we recommend memorizing  to speed up calculations.
+answer: 9/30/23, 7:24 PM S2.6.2 Tail-Value-at-Risk - Learn F AM - Coaching Actuaries https://account.coachingactuaries.com/fam/learn/4915/4919/34833 6/9TVaR questions involving normal distributions are less common on the exam, but it is a good idea to be prepared. The formula below should be memorized because it is impractical to use  or  for the normal distribution under exam conditions.
+question: If  is normal with parameters  and , then
+answer: where  is the PDF of a standard normal distribution. Do not confuse  with , which is the CDF of a standard normal. The derivation is provided in the appendix at the end of this section.
+question: Example S2.6.2.3 follows a distribution with the density function:
+answer: Calculate .Question: What distribution does the random variable follow?
+Answer: Lognormal distribution.
+
+Question: What are the parameters of the lognormal distribution?
+Answer: mu and sigma.
+
+Question: What formula is used to calculate the Tail-Value-at-Risk (TVaR)?
+Answer: The formula is not mentioned.
+
+Question: How can the problem be solved?
+Answer: It can be solved using an alternative solution.
+
+Question: What should be solved for first in the alternative solution?
+Answer: Solve for mu.
+
+Question: What is the goal of the problem?
+Answer: The goal is to compute each component using the exam table formulas.
+
+Question: What is the value of mu as calculated in the first solution?
+Answer: The value is not provided.
+
+Question: How is the value of sigma calculated?
+Answer: The calculation method is not mentioned.
+
+Question: What is the value of the 85th percentile of the random variable?
+Answer: The value is 165.553.

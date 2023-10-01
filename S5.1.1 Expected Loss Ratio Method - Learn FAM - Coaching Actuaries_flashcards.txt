@@ -1,0 +1,44 @@
+ Question: What is the expected loss ratio method?
+Answer: The expected loss ratio method is a method of estimating ultimate losses by multiplying the earned premium by the expected loss ratio.
+
+Question: What is the loss ratio?
+Answer: The loss ratio is the ratio of losses to premiums, representing the percentage of the premium received that the insurer pays out in losses.
+
+Question: How is the expected loss ratio determined for current policies?
+Answer: The expected loss ratio for current policies is determined by analyzing historical loss ratios.
+
+Question: What are the estimated ultimate losses for a block of business?
+Answer: The estimated ultimate losses for a block of business are calculated by multiplying the earned premium by the expected loss ratio.Q: What does the subscript in represent in the provided text?
+A: Accident year.
+
+Q: How do you calculate the reserve in the provided text?
+A: Subtract the losses paid-to-date from the estimated ultimate losses.
+
+Q: What is the total reserve in the provided text?
+A: The sum of the reserves for all blocks of business.
+
+Q: What is the earned premium in Example S5.1.1.1?
+A: 1,000.
+
+Q: What is the expected loss ratio in Example S5.1.1.1?
+A: 0.72.
+
+Q: What are the losses incurred-to-date in Example S5.1.1.1?
+A: 550.Question: Using the expected loss ratio method, estimate the loss reserve for this block of business. 
+Answer: Apply the expected loss ratio method.
+
+Question: Example S5.1.1.2 
+Answer: You're given the following information for a particular line of business: 
+Year: AY1, Earned Premium: 1,150, Expected Loss Ratio: 0.74, Losses Paid-to-Date: 810
+
+Question: Year: AY2, Earned Premium: 1,250, Expected Loss Ratio: 0.71, Losses Paid-to-Date: 710 
+Answer: 
+
+Question: Year: AY3, Earned Premium: 1,200, Expected Loss Ratio: 0.72, Losses Paid-to-Date: 620 
+Answer: 
+
+Question: Year: AY4, Earned Premium: 1,500, Expected Loss Ratio: 0.69, Losses Paid-to-Date: 410 
+Answer: 
+
+Question: Using the expected loss ratio method, estimate the loss reserve at the end of AY4. 
+Answer: Because the data is from the same line of business and is aggregated by accident year, each row in the table represents one block of business.

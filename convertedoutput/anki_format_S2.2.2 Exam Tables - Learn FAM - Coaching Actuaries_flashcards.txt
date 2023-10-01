@@ -1,0 +1,5 @@
+What formulas do the exam tables provide for common distributions?;The exam tables provide formulas for Pareto, Inverse Pareto, Gamma, Inverse gamma, Weibull, Inverse Weibull, Exponential, Inverse exponential, Lognormal, Single-parameter Pareto, and Beta distributions.
+What information is provided for the discrete distributions in the exam tables?;For the discrete distributions, the exam tables provide the PMF, a and b (parameters), mean, and variance. These are provided for both the original class and the zero-truncated subclass.
+How can zero-truncated formulas be converted to zero-modified formulas?;Section B.3.2 in the exam tables explains how to convert zero-truncated formulas to corresponding zero-modified formulas.
+What is the domain of the continuous distributions in the tables?;Unless otherwise specified, the continuous distributions in the tables have a domain of (−∞,∞). The same range also applies to the parameters.
+Are there any other remarks from the coach regarding the exam tables?;The coach mentions that there are some additional formulas in the exam tables, such as the PMF of the negative binomial distribution.question;answer

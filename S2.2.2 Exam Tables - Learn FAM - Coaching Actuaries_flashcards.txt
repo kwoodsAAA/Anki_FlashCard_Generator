@@ -1,0 +1,34 @@
+ What is included in the exam tables?;Appendix A contains the continuous distributions. Section A.1 defines the incomplete gamma function and incomplete beta function. These functions are needed to evaluate the CDF of the gamma and beta distributions, respectively. It is in your best interest to be familiar with the way the continuous distributions are organized.question;answer
+What are the continuous distributions sorted by in Sections A.2 to A.3?;The continuous distributions are sorted by the number of parameters in descending order.
+Which distributions are important in Section A.5?;The lognormal and single-parameter Pareto distributions are important.
+Which distribution is important in Section A.6?;The beta distribution is important.
+Which distributions are listed in Appendix B?;The discrete distributions are listed in Appendix B.
+Which functions/formulas are included in the exam tables for every continuous distribution?;The exam tables include the PDF, the CDF, the raw moments, and the quantile function.Question: What is the purpose of the exam tables?
+Answer: The exam tables provide useful formulas for some distributions.
+
+Question: What formulas do the exam tables provide for common distributions?
+Answer: The exam tables provide formulas for Pareto, Inverse Pareto, Gamma, Inverse gamma, Weibull, Inverse Weibull, Exponential, Inverse exponential, Lognormal, Single-parameter Pareto, and Beta distributions.
+
+Question: What information is provided for the discrete distributions in the exam tables?
+Answer: For the discrete distributions, the exam tables provide the PMF, a and b (parameters), mean, and variance. These are provided for both the original class and the zero-truncated subclass.
+
+Question: How can zero-truncated formulas be converted to zero-modified formulas?
+Answer: Section B.3.2 in the exam tables explains how to convert zero-truncated formulas to corresponding zero-modified formulas.
+
+Question: What is the domain of the continuous distributions in the tables?
+Answer: Unless otherwise specified, the continuous distributions in the tables have a domain of (−∞,∞). The same range also applies to the parameters.
+
+Question: Are there any other remarks from the coach regarding the exam tables?
+Answer: The coach mentions that there are some additional formulas in the exam tables, such as the PMF of the negative binomial distribution.question;answer
+What does the term "product series" refer to?;A series of numbers that starts from a given value, has a step of 1, and ends at a specified value.
+What is the result if the given value is x and the specified value is y?;The product series starts from x and ends at y.
+How many distributions do you need to know from Appendix A?;You do not need to know all of them.
+Which distributions do you need to be familiar with?;The commonly tested distributions.
+List the continuous distributions that will be covered in the remainder of this section.;Pareto, Inverse Pareto, Single-Parameter Pareto, Gamma, Exponential, Weibull, Inverse gamma, Inverse exponential, Inverse Weibull, Beta, Uniform, Normal, Standard normal, Lognormal.1. What is the topic of S2.2.2 Exam Tables in the Coaching Actuaries F AM section?
+Answer: Exam Tables
+
+2. Where can the S2.2.2 Exam Tables be found on the Coaching Actuaries website?
+Answer: https://account.coachingactuaries.com/fam/learn/4915/4917/34820
+
+3. How many flashcards are included in the S2.2.2 Exam Tables section?
+Answer: 4 flashcards

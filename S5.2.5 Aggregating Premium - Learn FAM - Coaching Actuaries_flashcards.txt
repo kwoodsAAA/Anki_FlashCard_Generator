@@ -1,0 +1,105 @@
+ question: What is premium?
+answer: Premium is the amount paid for an insurance policy.
+question: How is premium data aggregated?
+answer: Premium data can be aggregated using two common methods: calendar year and policy year.
+question: What is calendar year aggregation?
+answer: Calendar year aggregation considers the premiums of all active policies in a twelve-month calendar year from January 1 to December 31.
+question: What is policy year aggregation?
+answer: Policy year aggregation considers the premiums of all policies that are issued during a twelve-month period.
+question: Does premium trending need to be discussed for this exam?
+answer: No, premium trending is not tested on this exam.Q: How can premiums be defined in three ways?
+A: Written premium, earned premium, and unearned premium.
+Q: What is written premium?
+A: The total amount of premium for all policies issued in a specified period of time.
+Q: What is earned premium?
+A: The portion of premium that corresponds to the expired portion of policies at a given point in time.
+Q: What is unearned premium?
+A: The portion of premium that corresponds to the unexpired portion of policies at a given point in time.
+Q: What is the difference between written premium and earned premium?
+A: The unearned premium.question: What is the CY2015 written premium?
+answer: The CY2015 written premium is 400.
+
+question: What is the CY2015 earned premium?
+answer: The CY2015 earned premium is 100.
+
+question: What is the CY2015 unearned premium?
+answer: The CY2015 unearned premium is 300.
+
+question: What is the policy year 2015 written premium as of June 30, 2016?
+answer: The policy year 2015 written premium as of June 30, 2016 is 400.
+
+question: What is the policy year 2015 earned premium as of June 30, 2016?
+answer: The policy year 2015 earned premium as of June 30, 2016 is 100.
+
+question: What is the policy year 2015 unearned premium as of June 30, 2016?
+answer: The policy year 2015 unearned premium as of June 30, 2016 is 300.1. What is the written premium for policy year 2015? The written premium for policy year 2015 is the same as it was for calendar year 2015.
+2. What is the earned premium for PY2015? The earned premium for PY2015 is the portion of premium that corresponds to the expired portion of policies as of the valuation date.
+3. What is the earned premium for PY2015 as of 6/30/2016? The earned premium for PY2015 as of 6/30/2016 is 300.
+4. What is the unearned premium for PY2015 as of 6/30/2016? The unearned premium for PY2015 as of 6/30/2016 is the difference between the written premium and the earned premium.
+5. What is the formula for calculating the total unearned premium for calendar year ? The total unearned premium for calendar year is calculated using the formula:  =  - .
+6. What does represent in the formula? represents the written premium for calendar year .
+7. What does represent in the formula? represents the earned premium for calendar year .
+8. What does represent in the formula? represents the unearned premium at the end of calendar year .Q: What are the calendar year written premiums for the policies?
+A: A: Written Premiums for CY2015: 300, CY2016: 300, CY2017: 0
+
+Q: What are the calendar year earned premiums for the policies?
+A: A: Earned Premiums for CY2015: 0, CY2016: 150, CY2017: 150
+
+Q: What is the unearned premium for calendar year 2016?
+A: A: Unearned Premium for CY2016: 150Question: What is the CY2015 earned premium for policy A?
+Answer: 75
+
+Question: What is the CY2016 earned premium for policy A?
+Answer: 225
+
+Question: What is the CY2015 earned premium for policy B?
+Answer: -
+
+Question: What is the CY2016 earned premium for policy B?
+Answer: 400
+
+Question: What is the CY2015 earned premium for policy C?
+Answer: -
+
+Question: What is the CY2016 earned premium for policy C?
+Answer: 270
+
+Question: What is the CY2017 earned premium for policy C?
+Answer: 90
+
+Question: What is the CY2015 earned premium for policy D?
+Answer: -
+
+Question: What is the CY2016 earned premium for policy D?
+Answer: 190
+
+Question: What is the CY2017 earned premium for policy D?
+Answer: 190
+
+Question: What is the total CY2015 earned premium?
+Answer: 1,440
+
+Question: What is the total CY2016 earned premium?
+Answer: 75
+
+Question: What is the total CY2017 earned premium?
+Answer: 1,085
+
+Question: What is the unearned premium on policy C at the end of 2016?
+Answer: One-fourth of policy C's written premiumQuestion: What is the unearned portion for policy D in 2016?
+Answer: 90
+
+Question: How many months until policy D expires as of 12/31/2016?
+Answer: 6
+
+Question: What fraction of policy D's written premium has yet to be earned?
+Answer: one-half
+
+Question: What is the unearned portion for policy D in 2016?
+Answer: 190
+
+Question: What is the CY2016 unearned premium?
+Answer: 190
+
+Question: What is the unearned premium as of the end of CY2015?
+Answer: 225

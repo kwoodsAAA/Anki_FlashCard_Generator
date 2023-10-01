@@ -1,0 +1,47 @@
+Give examples of perils that are excluded from basic coverage.;Examples of exclusions are natural disasters (such as earthquakes and floods), criminal or intentional acts by the insured, nuclear accidents, acts of war or terrorism.
+What is the doctrine of proximate cause?;The doctrine of proximate cause states that a loss is covered if and only if a covered peril is the proximate cause of a covered consequence. Both the peril and consequence have to be covered under the policy and the peril must be the proximate cause.
+What does Coverage B protect against?;Coverage B protects against damages or losses to the garage or other structures.Question
+What do most insurers cover for personal property?;Most insurers cover the actual cash value.
+What additional coverage option do some insurers offer for personal property?;Some insurers offer replacement cost coverage for an additional premium.
+Does Coverage C extend to borrowed property?;Yes, Coverage C extends to borrowed property under the possession of the insured.
+Does Coverage C also extend to personal property that is outside of the house?;Yes, Coverage C also extends to personal property that is outside of the house.
+What are inside limits under personal property coverage?;Inside limits are specific limits on compensation for certain losses.
+Can there be a limit on compensation for stolen cash?;Yes, there may be a limit to the amount of compensation for stolen cash.
+Are there inside limits on coverage for jewelry, silverware, and art?;Yes, there are inside limits on coverage for jewelry, silverware, and art.
+How can homeowners fully insure these items?;Homeowners can attach a schedule of these items and their appraised values to the policy to fully insure them.
+What values will the insurer pay if these items are damaged or stolen?;If these items are damaged or stolen, the insurer will pay the appraised values, not the market values.Q
+What will Coverage D pay for while repairs are being done on the house?;Fair value for alternative accommodations.
+What will Coverage D indemnify?;The loss of rental income if parts of the primary dwelling were rented out before the loss.
+What does Coverage E provide?;Third-party liability coverage if a third party is injured or if a third party's property is damaged on the insured's premises.
+What does the injured party need to prove in Coverage E?;That the insured is liable for the injury or loss.
+What does Coverage F provide?;Medical benefits to any third party injured on the insured's premises.
+Does the insured need to be sued for Coverage F to provide medical benefits?;No, the insured does not need to be sued.Question
+What does a tenants package policy mostly cover?;Personal possessions.
+What is the purpose of the coinsurance provision?;To penalize the insured if the limit purchased is less than a specified percentage of the full value of the dwelling.
+Why does the coinsurance provision exist?;Because the distribution of homeowners insurance losses is heavily weighted toward smaller amounts and allowing insureds to purchase lower limits without penalty poses greater risk to the insurance pool.
+How is the insurance benefit calculated with coinsurance?;9/30/23, 7
+What is the limit, or insured amount in homeowners insurance?;Limit, or insured amount
+What is the full value of the house at the time of loss in homeowners insurance?;Full value of the house at the time of loss
+What is the coinsurance percentage in homeowners insurance?;Coinsurance percentage
+What is the loss amount in homeowners insurance?;Loss amount
+Calculate the amount Safe House will pay to compensate for this loss.;Solution
+What is the compensation amount in Example S1.1.2.1?;Compensation amount
+What is the homeowners insurance policy of Jon?;Jon has a homeowners insurance policy through Safe House Insurance.
+What is the insured amount for Jon's house?;Jon's house is insured for 150,000.
+What is the coinsurance clause in Safe House's homeowners insurance policy?;Safe House's homeowners insurance policy has an 80% coinsurance clause.
+What is the requirement of the coinsurance clause?;The coinsurance clause requires all policyholders to insure at least 80% of the full value of their house.
+What is the estimated loss incurred by Jon?;During the policy year, Jon incurs a loss estimated at 50,000.
+What is the value of Jon's house at the time of loss?;At the time of the loss, Jon's house is valued at 250,000.
+What is the compensation amount in Example S1.1.2.1?;The compensation amount in Example S1.1.2.1 is
+What is the homeowners insurance policy of Garrett?;Garrett has a homeowners insurance policy throu [Incomplete question]Q
+What is Protect House's homeowners insurance policy coinsurance clause?;Unknown.
+What was the loss experienced by Garrett due to a tropical storm?;100,000.
+How much did Protect House pay Garrett for the loss?;80,000.
+What was the value of Garrett's house at the time of the loss?;300,000.
+Calculate the compensation amount.;Unknown.
+What is the equation to calculate the compensation amount?;Unknown.
+Solve for the compensation amount.;Unknown.
+What is the limit of Quinn's commercial insurance policy?;90,000.
+What is the coinsurance clause of Quinn's commercial insurance policy?;70%.
+What is the deductible of Quinn's commercial insurance policy?;1,000.
+How much damages were caused by the hurricane for Quinn?;10,000.question;Calculate the actual value of the property at the time of the loss.

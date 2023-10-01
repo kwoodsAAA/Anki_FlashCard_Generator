@@ -1,0 +1,5 @@
+What is the probability of having "k" failures before the "r" success in a negative binomial distribution?;P(X=k) = (r+k-1)C(k) * (1-p)^k * p^r
+What is the parameterization of the odds of failure in a negative binomial distribution?;p = (1-odds of failure)
+What is the unconditional probability of "x" in a Poisson-Gamma mixture?;P(X=x) = ∫(λ^x * e^(-λ) * θ^(α-1) * e^(-θ) / (x! * Γ(α))) dθ from 0 to ∞
+Why is the integral in the unconditional probability of "x" equal to 1?;Because the integrand is a gamma PDF with parameters α and λ integrated from 0 to infinity.
+What is the expression for the unconditional probability of "x" in a Poisson-Gamma mixture?;P(X=x) = (λ^x * Γ(α+x)) / (x! * Γ(α) * (λ+1)^α)

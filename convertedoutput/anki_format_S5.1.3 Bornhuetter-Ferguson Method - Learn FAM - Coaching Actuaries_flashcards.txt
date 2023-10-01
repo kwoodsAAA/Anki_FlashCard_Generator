@@ -1,0 +1,31 @@
+What is the Bornhuetter-Ferguson method?;The Bornhuetter-Ferguson method is a reserving technique that finds a balance between the chain-ladder method and the expected loss ratio method to estimate ultimate losses.
+How does the Bornhuetter-Ferguson method find a balance between the chain-ladder method and the expected loss ratio method?;The Bornhuetter-Ferguson method rationalizes the differences between the chain-ladder method, which relies on the loss triangle, and the expected loss ratio method, which only considers fully developed losses.
+What is the formula for estimating the proportion of paid claims under the chain-ladder method?;The formula for estimating the proportion of paid claims under the chain-ladder method is (paid claims)/(ultimate losses).
+What is the formula for estimating the proportion of unpaid claims under the chain-ladder method?;The formula for estimating the proportion of unpaid claims under the chain-ladder method is (unpaid claims)/(ultimate losses).
+How can the unpaid claims estimate or reserve be calculated using the Bornhuetter-Ferguson method?;The unpaid claims estimate or reserve can be calculated by multiplying the ultimate losses by the estimated proportion of unpaid claims.Question
+How does the Bornhuetter-Ferguson method combine the expected loss ratio method and the reserve calculation?;It multiplies the expected loss ratio estimate of the ultimate losses by the chain-ladder estimate of the proportion of unpaid claims.
+What is the paid loss age-to-ultimate factor based on in the chain-ladder method?;It is based on the age of claims at valuation.
+Are the ultimate losses in the Bornhuetter-Ferguson method the same as the Bornhuetter-Ferguson estimate of the ultimate losses?;No, they are not the same.
+How does the Bornhuetter-Ferguson method estimate the ultimate losses?;It estimates the ultimate losses using the Bornhuetter-Ferguson method.Step 1
+What is Step 1 in the Bornhuetter-Ferguson method?;Estimate the ultimate losses using the expected loss ratio method.
+What are the estimated ultimate losses for each accident year?;AY4
+What is Step 2 in the Bornhuetter-Ferguson method?;Calculate the volume-weighted average factor (VWAF).
+How do you calculate the VWAF?;VWAF = (Total Earned Premium / Total Expected Ultimate Losses).
+What is Step 3 in the Bornhuetter-Ferguson method?;Calculate the reserve as of 12/31/AY7 using the Bornhuetter-Ferguson method.
+How do you calculate the reserve?;Reserve = (Total Loss Payments + (VWAF * Total Expected Ultimate Losses)) * (1 - Development Factor).
+What is the formula for the reserve calculation?;Reserve = (1,400 + 2,550 + 3,650 + 3,800 + (VWAF * (3,840 + 3,510 + 4,015 + 4,543))) * (1 - Development Factor).Step 2
+How do we calculate the chain-ladder reserves?;Accidents Year 4
+What are the weights used for calculation?;Accidents Year 4
+How do we calculate the Bornhuetter-Ferguson reserves?;Accidents Year 4
+What is the reserve for AY2 using the Bornhuetter-Ferguson method?;1,250 * 0.71 = 888.75
+What is the reserve for AY3 using the Bornhuetter-Ferguson method?;1,200 * 0.72 = 864
+What is the reserve for AY4 using the Bornhuetter-Ferguson method?;1,500 * 0.69 = 1,035Question
+What is the Expected loss ratio reserve?;78,600
+What is the Earned premium?;250,000
+What is the Expected loss ratio?;0.65
+How can we calculate the chain-ladder reserve?;We need the losses paid-to-date and the age-to-ultimate factor.
+How can we determine the age-to-ultimate factor?;By using the information provided.
+How can we find the losses paid-to-date?;By using the expected loss ratio method.
+What is the chain-ladder estimate of the ultimate losses?;Not provided in the text.
+How can we calculate the chain-ladder reserve?;Not provided in the text.
+What is the Alternative Solution for calculating the chain-ladder reserve?;Not provided in the text.

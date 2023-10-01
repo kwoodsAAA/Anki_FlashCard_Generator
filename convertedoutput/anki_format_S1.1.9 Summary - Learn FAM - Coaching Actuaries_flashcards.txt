@@ -1,0 +1,6 @@
+What are some restrictions on the plan design of health insurance due to the Affordable Care Act?;Multiple restrictions exist
+How many types of dental coverage are there?;There are four types of dental coverage.
+What does Type I dental coverage include?;Diagnostic and Preventive services
+What does Type II dental coverage include?;Basic services
+What does Type III dental coverage include?;Prosthetic coverage
+What does Type IV dental coverage include?;Orthodontia

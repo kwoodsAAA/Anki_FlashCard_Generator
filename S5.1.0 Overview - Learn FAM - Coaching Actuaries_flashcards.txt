@@ -1,0 +1,95 @@
+ Question: What are the two most important functions that property/casualty (P&C) actuaries perform?
+Answer: Loss reserving and ratemaking.
+
+Question: What is a case reserve?
+Answer: An estimate of the remaining amount of money needed to ultimately settle a claim.
+
+Question: What is incurred loss?
+Answer: The sum of paid losses and the current case reserve.
+
+Question: What are paid losses?
+Answer: Loss amounts that have already been paid to claimants.
+
+Question: When did the claim occur in the example given?
+Answer: On 11/2/CY1.
+
+Question: When was the claim reported to the agent in the example given?
+Answer: On 3/14/CY2.
+
+Question: When did the insurer become aware of the claim in the example given?
+Answer: Almost 8 months after it occurred, on 6/27/CY2.1. What was the initial case reserve for the claim?
+Answer: 200,000
+
+2. On 1/7/CY3, how much did the insurer pay in medical expenses?
+Answer: 35,000
+
+3. What settlement offer did the insurer make for the remaining expenses?
+Answer: 100,000
+
+4. Was the settlement offer accepted or declined?
+Answer: Declined
+
+5. What did the insurer raise the case reserve to after the claim went to court?
+Answer: 300,000
+
+6. On 9/30/CY4, what was the final payment made to settle the claim?
+Answer: 250,000
+
+7. What was the final incurred loss of the claim?
+Answer: 285,000
+
+8. What was the loss incurred-to-date on 12/31/CY2?
+Answer: 200,000
+
+9. How much was paid-to-date on 12/31/CY2?
+Answer: 0
+
+10. What was the case reserve on 12/31/CY2?
+Answer: 200,000
+
+11. What was the loss incurred-to-date on 12/31/CY3?
+Answer: 335,000
+
+12. How much was paid-to-date on 12/31/CY3?
+Answer: 35,000
+
+13. What was the case reserve on 12/31/CY3?
+Answer: 300,000
+
+14. What was the loss incurred-to-date on 12/31/CY4?
+Answer: 285,000
+
+15. How much was paid-to-date on 12/31/CY4?
+Answer: 285,000
+
+16. What was the case reserve on 12/31/CY4?
+Answer: 0
+
+17. What is the simple approach to estimate the loss reserve for a block of business?
+Answer: Sum up the case reserves for all claims and add additional items to account for.Question: What are the components of loss reserves?
+Answer: Provision for future development in known claims, provision for claim files that may reopen, provision for claims incurred but not reported (pure IBNR), provision for claims reported but not recorded (RBNR)
+
+Question: What is the total of these four components called?
+Answer: Gross IBNR reserve or bulk reserve
+
+Question: What does the approach to estimating reserves aim to illustrate?
+Answer: The concept of loss reserves and what should go into them
+
+Question: How are loss reserves calculated in these methods?
+Answer: By projecting ultimate losses and subtracting losses paid-to-date
+
+Question: What is the ultimate loss?
+Answer: The total amount the insurer eventually pays to close a claim
+
+Question: What was the ultimate loss in the previous example?
+Answer: 285,000
+
+Question: How is the loss reserve set?
+Answer: As the projected ultimate losses minus losses paid-to-dateQuestion: How can we calculate the IBNR reserve?
+Answer: By subtracting the losses incurred-to-date from the estimated ultimate losses.
+
+Question: What is the case reserve?
+Answer: The reserve set for claims that have been reported.
+
+Question: What are the three basic methods of loss reserving?
+Answer: Expected loss ratio method, Chain-ladder method, Bornhuetter-Ferguson method.

@@ -1,0 +1,54 @@
+ question: What is the notation term for reserve?
+answer: Reserve
+
+question: What is the notation term for ultimate losses?
+answer: Ultimate Losses
+
+question: What is the notation term for losses paid-to-date?
+answer: Losses Paid-to-date
+
+question: What is the notation term for earned premium?
+answer: Earned Premium
+
+question: What is the notation term for expected loss ratio?
+answer: Expected Loss Ratio
+
+question: What is the notation term for age-to-age factor?
+answer: Age-to-Age Factor
+
+question: What is the notation term for age of claims at valuation?
+answer: Age of Claims at Valuation
+
+question: What is the notation term for index for accident year?
+answer: Index for Accident Year
+
+question: What is the notation term for index for development year?
+answer: Index for Development Year
+
+question: What is the notation term for expected loss ratio method?
+answer: Expected Loss Ratio Method
+
+question: What is the notation term for chain-ladder method?
+answer: Chain-Ladder Method
+
+question: What is another name for the chain-ladder method?
+answer: Loss Development Method or Loss Triangle Method
+
+question: How do you estimate ultimate losses using the expected loss ratio method?
+answer: Multiply the earned premium by the expected loss ratio.
+
+question: How do you estimate reserves using the expected loss ratio method?
+answer: Subtract the losses paid-to-date.
+
+question: What is the Bornhuetter-Ferguson method used for?
+answer: Calculate reserves.1. What is the Huetter-Ferguson estimate of ultimate losses?
+Answer: The Huetter-Ferguson estimate of ultimate losses is a method to calculate reserves by estimating the ultimate losses.
+
+2. How can we calculate reserves using an alternative method?
+Answer: An alternative method to calculate reserves is by estimating the ultimate losses through multiplying the losses paid-to-date by the age-to-ultimate factors.
+
+3. How do we estimate reserves using the alternative method?
+Answer: To estimate reserves using the alternative method, subtract the losses paid-to-date from the estimate of ultimate losses.
+
+4. What is the source of this information?
+Answer: The information is from the website "Coaching Actuaries" in the "F AM - Coaching Actuaries" section.

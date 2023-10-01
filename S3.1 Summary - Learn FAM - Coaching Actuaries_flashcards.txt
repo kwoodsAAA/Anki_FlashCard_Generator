@@ -1,0 +1,74 @@
+ Question: What is complete data?
+Answer: Complete data describes data where we know the exact value of each observation and have a full dataset.
+
+Question: What are the steps to calculate the MLE of a parameter?
+Answer: To estimate two parameters, take the first partial derivative of the likelihood/log-likelihood function with respect to each parameter. Then, set them both equal to zero and solve.
+
+Question: What is left-truncation?
+Answer: Left-truncation at [value] means the data below [value] was not recorded.
+
+Question: What is right-truncation?
+Answer: Right-truncation at [value] means the data above [value] was not recorded.
+
+Question: What is left-censoring?
+Answer: Left-censoring at [value] means the data below [value] is recorded as [value].
+
+Question: What is right-censoring?
+Answer: Right-censoring at [value] means the data above [value] is recorded as [value].Special Cases
+question: How can the MLE of certain parameters be calculated?
+answer: By matching the fitted moment to the sample moment.
+
+Distribution Shortcuts
+question: What are the distribution shortcuts for complete data?
+answer: Gamma, Exponential, Normal, Lognormal, Poisson, Binomial.
+
+question: What are the distribution shortcuts for fixed data?
+answer: Gamma, Exponential, Binomial, Negative binomial.
+
+question: What are the distribution shortcuts for incomplete data?
+answer: Geometric, Uniform.
+
+Other Shortcuts
+question: What does the symbol "n" represent in the table?
+answer: The number of uncensored data points.
+
+question: What does the symbol "m" represent in the table?
+answer: The number of censored data points.
+
+question: What does the symbol "x" represent in the table?
+answer: The observed value, or the censoring point for censored data.
+
+question: What does the symbol "t" represent in the table?
+answer: The truncation point.
+
+Distribution Shortcut
+question: What is the distribution shortcut for Pareto?
+answer: Pareto.
+
+question: What is the distribution shortcut for S-P Pareto?
+answer: S-P Pareto.
+
+question: What is the distribution shortcut for Inverse exponential?
+answer: Exponential.
+
+question: What is the distribution shortcut for Weibull?
+answer: Weibull.
+
+question: What is the distribution shortcut for Beta with fixed parameters?
+answer: Beta.
+
+question: What is the distribution shortcut for Beta with variable parameters?
+answer: Beta.
+
+question: What is the distribution shortcut for Uniform with grouped data?
+answer: Uniform.Question: What is the inverse exponential?
+Answer: The inverse exponential is the natural logarithm function, denoted as ln(x), which is the inverse of the exponential function.
+
+Question: What is Beta in statistics?
+Answer: Beta in statistics refers to the Beta distribution, which is a continuous probability distribution defined on the interval [0, 1].
+
+Question: What does "fixed" mean in the context of Beta distribution?
+Answer: In the context of the Beta distribution, "fixed" means that the parameters of the distribution are predetermined and do not change.
+
+Question: What is left-truncation in statistics?
+Answer: Left-truncation refers to a situation where the data is only observed if it exceeds a certain threshold or lower bound. It is a form of censoring in survival analysis.

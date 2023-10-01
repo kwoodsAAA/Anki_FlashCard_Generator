@@ -1,0 +1,14 @@
+What is the expected loss ratio method?;The expected loss ratio method is a method of estimating ultimate losses by multiplying the earned premium by the expected loss ratio.
+What is the loss ratio?;The loss ratio is the ratio of losses to premiums, representing the percentage of the premium received that the insurer pays out in losses.
+How is the expected loss ratio determined for current policies?;The expected loss ratio for current policies is determined by analyzing historical loss ratios.
+What are the estimated ultimate losses for a block of business?;The estimated ultimate losses for a block of business are calculated by multiplying the earned premium by the expected loss ratio.Q
+How do you calculate the reserve in the provided text?;Subtract the losses paid-to-date from the estimated ultimate losses.
+What is the total reserve in the provided text?;The sum of the reserves for all blocks of business.
+What is the earned premium in Example S5.1.1.1?;1,000.
+What is the expected loss ratio in Example S5.1.1.1?;0.72.
+What are the losses incurred-to-date in Example S5.1.1.1?;550.Question
+Example S5.1.1.2;You're given the following information for a particular line of business
+Year;
+Year;
+Year;
+Using the expected loss ratio method, estimate the loss reserve at the end of AY4.;Because the data is from the same line of business and is aggregated by accident year, each row in the table represents one block of business.

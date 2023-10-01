@@ -1,0 +1,25 @@
+ 1. What do actuaries consider when studying adverse outcomes?
+Answer: Actuaries consider the tail weight of loss distributions.
+
+2. What does the tail weight of loss distributions describe?
+Answer: The tail weight describes the likelihood of extreme losses occurring.
+
+3. What does a heavier tail weight imply?
+Answer: A heavier tail weight implies that large claims are more likely to occur.
+
+4. What is the definition of "tail" in this lesson?
+Answer: In this lesson, "tail" refers to the right tail of a distribution.
+
+5. What is the purpose of modeling adverse outcomes?
+Answer: The purpose is to study and understand the impact of extreme events on an insurance company's solvency.
+
+6. Which model has a heavier tail, according to the provided graph?
+Answer: Model A (Pareto) is more likely to have a heavier tail.question;answer
+What is the purpose of comparing the tails of distributions using the number of positive raw moments test?;To determine which distribution has a heavier tail.
+What does it mean for a distribution to have a heavier tail?;It means that the distribution produces larger values than another distribution in its tail.
+Why is constructing every PDF by hand during the exam impractical?;Because it is time-consuming and inefficient.
+What is Model A in the given example?;Model A is a Pareto distribution with parameters alpha and xmin.
+What is Model B in the given example?;Model B is an exponential distribution with parameter lambda.
+How can we determine the model with the heavier tail using the number of positive raw moments?;By comparing the number of positive raw moments of each distribution.
+What is the purpose of the number of positive raw moments test?;To measure the tail weight of a distribution.
+Which distribution has a heavier tail in the given example?;The Pareto distribution (Model A) has a heavier tail than the exponential distribution (Model B).

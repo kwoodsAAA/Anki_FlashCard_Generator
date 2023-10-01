@@ -1,0 +1,3 @@
+What does it mean if the PDF evaluated at one value is greater than at another value?;It means that the first value is more likely to be in the neighborhood of the second value than in the neighborhood of any other value.
+What are the two properties that PDFs must satisfy to be valid?;PDFs must be non-negative and the integral of the PDF over all values of the random variable must equal 1.
+Can PDFs exceed 1?;Yes, PDFs can exceed 1 because they do not represent actual probabilities. A PDF above 1 does not translate to a probability exceeding 1.

@@ -1,0 +1,192 @@
+ Question: What are coverage modifications in insurance?
+Answer: Coverage modifications are changes made to insurance policies that include deductibles, policy limits, and coinsurances.
+
+Question: What is a deductible in insurance?
+Answer: A deductible is the amount of each claim that the policyholder is responsible for paying before the insurer will pay a claim.
+
+Question: What are the different types of deductibles?
+Answer: The different types of deductibles include fixed dollar deductibles, fixed percentage deductibles, disappearing deductibles, franchise deductibles, fixed dollar deductibles per calendar year, and elimination periods.
+
+Question: What is a fixed dollar deductible?
+Answer: A fixed dollar deductible has a set dollar amount, regardless of the size of the loss.
+
+Question: What happens if a loss is below the fixed dollar deductible?
+Answer: If a loss is below the fixed dollar deductible, the insurer pays nothing for the claim.
+
+Question: What is a fixed percentage deductible?
+Answer: A fixed percentage deductible is a deductible that is a percentage of the loss amount.
+
+Question: What are disappearing deductibles?
+Answer: Disappearing deductibles are deductibles that decrease over time if no claims are made.
+
+Question: What are franchise deductibles?
+Answer: Franchise deductibles are deductibles that apply only if the loss exceeds a certain amount.
+
+Question: What are fixed dollar deductibles per calendar year?
+Answer: Fixed dollar deductibles per calendar year are deductibles that apply once per calendar year, regardless of the number of claims made.
+
+Question: What are elimination periods?
+Answer: Elimination periods are a specified period of time that must pass before coverage begins for certain types of losses.Question: What is a fixed percentage deductible?
+Answer: A fixed percentage deductible can be a percentage of the loss or the policy limit.
+
+Question: How is a fixed percentage deductible usually paired?
+Answer: A fixed percentage deductible is usually paired with a minimum dollar deductible.
+
+Question: What is the effective deductible for a loss size of X with a fixed percentage deductible of Y% and a floor of Z?
+Answer: The effective deductible for a loss size of X with a fixed percentage deductible of Y% and a floor of Z is X * Y% or Z, whichever is greater.
+
+Question: What is the insurer's payment for a loss size of X with a fixed percentage deductible of Y% and a floor of Z?
+Answer: The insurer's payment for a loss size of X with a fixed percentage deductible of Y% and a floor of Z is (1 - Y%) * X or 0, whichever is greater.
+
+Question: What is a disappearing deductible?
+Answer: A disappearing deductible decreases linearly within a specific loss range.
+
+Question: What is the effective deductible for a policy with an initial deductible of A that decreases linearly to zero between the loss sizes of B and C?
+Answer: The effective deductible for a policy with an initial deductible of A that decreases linearly to zero between the loss sizes of B and C is (A * (X - B)) / (C - B).
+
+Note: Please replace X, Y, Z, A, B, and C with the respective values from the provided text.question: What is a franchise deductible?
+answer: A franchise deductible is also known as a cliff disappearing deductible. It decreases to zero as soon as the loss exceeds the deductible.
+
+question: How does a franchise deductible work?
+answer: For a policy that has a franchise deductible of X, the insurer pays nothing for a loss below X, and the full amount for a loss that exceeds X.
+
+question: Are franchise deductibles common in insurance nowadays?
+answer: No, franchise deductibles used to be common in ocean marine insurance, but they are not very common anymore.
+
+question: What are fixed dollar deductibles per calendar year?
+answer: Fixed dollar deductibles per calendar year are commonly used in health insurance policies.1. What is a fixed dollar deductible per calendar year?
+Answer: It is similar to the overall deductible for major medical insurance.
+
+2. How does a fixed dollar deductible per calendar year work?
+Answer: It can have an amount for individual coverage and another amount for family coverage. The insurance coverage kicks in when either the individual's deductible or the family deductible has been met.
+
+3. Can you give an example of how a fixed dollar deductible per calendar year works for a family?
+Answer: Sure. For example, a family of five (Dad, Mom, Anne, Chase, and Chloe) has a health insurance policy with a $100 deductible per person per year and a $250 deductible for the family per year.
+
+4. How much will the family have to pay if Dad incurs a loss of $70, Chloe incurs a loss of $110 and $90, and Anne incurs a loss of $180?
+Answer: The family will have to pay $70, $100 (Chloe's deductible met), $0, and $80 (family deductible met), for a total of $250. The insurer will pay 0 + 10 + 90 + 100 = $200.
+
+5. Is this type of deductible commonly used outside of health insurance and medical expense insurance?
+Answer: No, this type of deductible is rarely used outside of health insurance and medical expense insurance.
+
+6. What are elimination periods in workers compensation?
+Answer: Elimination periods refer to the waiting period before disability benefits coverage typically begins.question: What is an elimination period?
+answer: The period of time between the date of a disability/accident and the date that benefits begin. 
+
+question: What happens during the elimination period?
+answer: The insured does not receive any disability benefits.
+
+question: When are benefits paid retroactively for the elimination period?
+answer: If the disability continues for a certain length of time.
+
+question: What is the period before benefits are paid retroactively called?
+answer: The retroactive qualification period.
+
+question: What happens if the retroactive qualification period is the same as the elimination period?
+answer: The policy will have a franchise deductible.
+
+question: What are the objectives of deductibles in insurance policies?
+answer: - Eliminate claims for small losses, reducing expenses.
+- Reduce average claim payment for large losses, which can lower premiums.1. What can deductibles help make insurance policies more?; They can make insurance policies more affordable (or attractive to potential buyers).
+2. Why do policyholders tend to be more cautious when deductibles are introduced?; Because deductibles introduce financial responsibility.
+3. How can policyholders reduce their premiums by choosing a higher deductible?; By choosing a higher deductible, policyholders can reduce their premiums.
+4. What are some unwanted issues that deductibles can cause?; Deductibles can cause issues such as disappointment when claims are not paid in full, complications in marketing insurance coverage, and the potential for insureds to inflate claims to recover the deductible.
+5. What is Dorothy's payout if the policy has an ordinary deductible of 500?; Dorothy's payout would be 2,350 - 500 = 1,850.
+6. How is the fixed percentage deductible calculated?; The fixed percentage deductible is calculated as 30% of the loss, with a floor of 500.
+7. How is the disappearing deductible structured?; The disappearing deductible is 500 for losses below 2,000, decreases linearly for losses between 2,000 and 3,000, and 0 for losses above 3,000.Question: What is the franchise deductible in the given text?
+Answer: 500
+
+Question: What is the claim payment when the loss exceeds the deductible?
+Answer: The insurer pays the excess loss amount.
+
+Question: What is the effective deductible when the loss does not exceed the deductible?
+Answer: The effective deductible is  and the claim payment is 
+
+Question: What is the claim payment when applying the given equation?
+Answer: The claim payment is 
+
+Question: What is the claim payment when the loss exceeds the deductible?
+Answer: The insurer pays the entire loss amount.
+
+Question: Calculate the payment for a claim of size 1,000.
+Answer: Solution: Calculation is not provided in the text.Q: What is the claim amount, payment amount, and effective deductible for the first claim?
+A: Claim amount: 200; Payment amount: 0; Effective deductible: 200
+
+Q: What is the claim amount, payment amount, and effective deductible for the second claim?
+A: Claim amount: 750; Payment amount: 600; Effective deductible: 150
+
+Q: What is the claim amount, payment amount, and effective deductible for the third claim?
+A: Claim amount: 900; Payment amount: 800; Effective deductible: 100
+
+Q: What is the claim amount, payment amount, and effective deductible for the fourth claim?
+A: Claim amount: 1,300; Payment amount: 1,300; Effective deductible: 0
+
+Q: What is the effective deductible for a claim amount of 200?
+A: At least 200.
+
+Q: How do we calculate the upper bound of the range for a disappearing deductible?
+A: Using linear interpolation.
+
+Q: Is a claim amount of 1,000 within the range of the disappearing deductible?
+A: Yes.
+
+Q: What is the effective deductible for a claim amount of 1,000?
+A: The effective deductible for a claim amount of 1,000 is [not provided in the text].question;What is a policy limit?
+answer;A policy limit is the maximum amount that an insurance company will pay for a covered loss.
+question;How does a policy limit work?
+answer;If the loss amount is below the policy limit, the insurer pays the full loss amount. If the loss exceeds the policy limit, the insurer only pays up to the limit amount.
+question;Can a policy have multiple limits?
+answer;Yes, a policy can have multiple limits. Different types of coverage within a policy may have their own specific limits.
+question;How are policy limits specified?
+answer;Policy limits can be specified in different ways. For example, a homeowners insurance policy may have limits based on the value of the insured property or the insured amount.
+question;What are the objectives of policy limits?
+answer;Some objectives of policy limits include clarifying the financial obligation of the insurer and reducing the risk assumed by the insurer by setting an upper bound on payment amounts.1. What is a policy limit?
+Answer: A policy limit is the maximum coverage amount chosen by a policyholder.
+
+2. How does lower limits affect premiums?
+Answer: Lower limits result in lower premiums.
+
+3. What is the relationship between a policy limit and a deductible?
+Answer: A policy limit is the opposite of a deductible. If a policy has a policy limit of [amount], the insured's payment is [amount], which looks like an insurer's payment for a policy with a deductible of [amount]. The payments from both the insurer and the insured should always sum to the full loss amount.
+
+4. What is coinsurance?
+Answer: Coinsurance is the proportion of loss that the insurer is responsible for.
+
+5. What is the insurer's payment for a loss of size [amount] with a coinsurance of [percentage]?
+Answer: The insurer's payment for a loss of size [amount] with a coinsurance of [percentage] is [amount].
+
+6. How does coinsurance differ from a deductible?
+Answer: Coinsurance is essentially a fixed percentage deductible, but from the insurer's perspective. For example, 40% coinsurance means the insurer is responsible for 40% of the loss, and the insured is responsible for 60% of the loss.Question: What does the term coinsurance refer to when used on its own?
+Answer: The coverage modification we just discussed.
+
+Question: What does the term coinsurance clause refer to?
+Answer: The coinsurance provision in homeowners insurance.
+
+Question: What is the structure of claim payment when all three common coverage modifications are present?
+Answer: The claim payment has the following structure: % of the loss, and the insurer pays 60%.
+
+Question: What is the maximum covered loss?
+Answer: The maximum covered loss is the loss above which no additional benefits are paid.
+
+Question: How is the maximum covered loss determined?
+Answer: The maximum covered loss is the smallest loss amount for which the insurer pays the policy limit.
+
+Question: How can the formula for claim payment be modified for any combination of coverage modifications?
+Answer: To modify the formula, set % of the loss if there is no deductible, set % of the loss if there is no policy limit, and set % of the loss if there is no coinsurance.question;The payment structure above assumes the coinsurance only kicks in after the deductible is met, which is the default.
+answer;The payment structure above assumes the coinsurance only kicks in after the deductible is met, which is the default.
+question;In the rare case where the question specifies the coinsurance applies before the deductible is met, what does that mean?
+answer;In the rare case where the question specifies the coinsurance applies before the deductible is met, that means only  of the insured's payment goes towards meeting the deductible.
+question;In the rare case where the coinsurance applies before the deductible is met, when is the deductible considered met?
+answer;In the rare case where the coinsurance applies before the deductible is met, the deductible is met when the loss reaches .
+question;In terms of claim payment, how does an insurer view a policy with coinsurance applied before the deductible is met?
+answer;In terms of claim payment, in the insurer's eyes, a policy with coinsurance that is applied before the deductible is met is equivalent to a policy with coinsurance that is applied after the deductible is met.
+question;What is the policyholder fully responsible for in this insurance policy?
+answer;The policyholder is fully responsible for claims below 200.
+question;What percentage of claims in excess of 200 will the policy reimburse?
+answer;The policy will reimburse 80% of claims in excess of 200.
+question;What is the cap for insurance payment in this policy?
+answer;The insurance payment is capped at 2,000.Question: Calculate the insurance payment for a claim of 2,100.
+Answer: The insurance policy has a deductible of 200, a coinsurance of 80%, and a policy limit of 2,000. The maximum covered loss is between the deductible and the maximum covered loss. Therefore, the insurance payment can be calculated using the second piece in the example.
+
+Question: Calculate the insurance payment for a claim of 2,100.
+Answer: The insurance policy has a franchise deductible of 500 and a policy limit of 1,500. Since the policy pays the full loss above the deductible, the maximum covered loss is 1,500, not 2,000. As the claim exceeds the maximum covered loss, the insurance payment is capped at the policy limit.

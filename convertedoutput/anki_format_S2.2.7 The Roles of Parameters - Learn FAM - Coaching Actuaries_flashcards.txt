@@ -1,0 +1,9 @@
+How can the mean and variance of distributions in the linear exponential family be expressed?;They can be expressed as functions.
+What is the goal of the proof mentioned in the text?;To prove that a distribution belongs to the linear exponential family.
+How can the probability function of a distribution be rearranged to show that it belongs to the linear exponential family?;By rearranging the probability function using a specific formula.
+Does the table provided classify the Poisson distribution as belonging to the linear exponential family?;Yes.Question
+What distribution was used in the motivating example?;The distribution used in the motivating example is a Poisson distribution.
+What are the mean and variance of the Poisson distribution?;The mean and variance of the Poisson distribution are both .
+What is a scale distribution in terms of a parametric distribution?;A scale distribution is a parametric distribution where multiplying a random variable by a positive constant still results in a random variable from the same set of distributions.
+What is a scale parameter in relation to a scale distribution?;A scale parameter is a parameter for a scale distribution that satisfies two conditions for random variables with nonnegative support.
+What is the scale parameter of the Pareto distribution?;The scale parameter of the Pareto distribution is .1. What is a positive constant that resembles the CDF of a Pareto distribution with parameters and?

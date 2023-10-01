@@ -1,0 +1,57 @@
+ Question: What is the purpose of adjusting class distributions?
+Answer: To give the desired treatment to the probability of zero occurrences.
+
+Question: What is the core difference between the class and class distributions?
+Answer: The core difference is how they handle zero occurrences.
+
+Question: What is a zero-truncated distribution?
+Answer: A distribution where the probability of zero occurrences is removed.
+
+Question: What is a zero-modified distribution?
+Answer: A distribution where the probability of zero occurrences is replaced by an arbitrary probability.
+
+Question: Do zero-truncated and zero-modified distributions have the same parameters?
+Answer: Yes, they share the same parameters.question: What does truncation mean in the context of distributions?
+answer: Truncation means omitting a portion of the data.
+
+question: What do zero-truncated distributions assume?
+answer: Zero-truncated distributions assume that the data does not include zero values.
+
+question: What happens to the remaining probabilities when a distribution is zero-truncated?
+answer: When a distribution is zero-truncated, the remaining probabilities do not sum to 1.
+
+question: How do we scale the probabilities in a zero-truncated distribution to make them sum to 1?
+answer: We divide each probability by the sum of all probabilities to scale them up.
+
+question: What is the formula for scaling the probabilities in a zero-truncated distribution?
+answer: Each probability starting from  equals the original PMF scaled by .
+
+question: What is the mean of a zero-truncated distribution?
+answer: The mean of a zero-truncated distribution is .
+
+question: How can we calculate the th raw moment of a zero-truncated distribution?
+answer: The th raw moment of a zero-truncated distribution can be easily calculated from the th raw moment of its original distribution.question;answer
+What is the easiest way to calculate the zero-truncated variance?;Calculate it from the zero-truncated first and second moments or use the formula provided in the zero-truncated subclass section of the exam table.
+What is the difference between zero-truncated and zero-modified distributions?;Zero-truncated distributions set the parameter to 0, while zero-modified distributions assign an arbitrary parameter.
+How can you force the probabilities to sum up to 1 in zero-modified distributions?;Multiply each probability by a factor.question;answer
+The monthly number of claims follows which distribution?;Poisson distribution
+What is the mean of the Poisson distribution for the monthly number of claims?;3
+What is the variance of the Poisson distribution?;The variance equals the mean.
+How do you calculate the zero-truncated variance?;Assume a month with no claims is not possible and calculate the variance.
+What is the variance of the monthly number of claims when assuming no claims in a month?;1
+What is the variance of the monthly number of claims when assuming the probability of no claims is ?;2
+How do you calculate the zero-modified variance?;To calculate the zero-modified variance.
+What important property holds for the distribution?;The property discussed at the end of Section S2.4.1 also holds for the distribution.1. What is the relationship between probability and starting from 1?
+Answer: The relationship between probability and starting from 1 is that the probability at 0 is either truncated or modified.
+
+2. Is the probability at 0 always included in calculations?
+Answer: No, the probability at 0 is either truncated or modified in calculations.
+
+3. Why is the probability at 0 treated differently?
+Answer: The probability at 0 is treated differently because it requires special consideration in calculations.
+
+4. What happens to the probability at 0 when starting from 1?
+Answer: When starting from 1, the probability at 0 is either truncated or modified.
+
+5. How does the treatment of probability at 0 affect calculations?
+Answer: The treatment of probability at 0 affects calculations by adjusting the overall probability distribution.

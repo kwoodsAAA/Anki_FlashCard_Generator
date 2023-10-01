@@ -1,0 +1,114 @@
+ Question: What is the topic of this section?
+Answer: Inflation
+
+Question: How is inflation often paired in exam questions?
+Answer: With coverage modifications
+
+Question: What is the scenario described in Example S2.3.4.1?
+Answer: Losses follow a single-parameter Pareto distribution and increase by 10% each year due to inflation.
+
+Question: What is the policy limit in the given scenario?
+Answer: 220
+
+Question: What is the goal in this scenario?
+Answer: To calculate the expected insurance payment next year.
+
+Question: What formula can be used to calculate the limited expected value?
+Answer: Look up the limited expected value formula from the exam table.
+
+Question: What concept can be applied to solve the problem?
+Answer: ScalingQuestion: What is the single-parameter Pareto distribution?
+Answer: A scale distribution with  as its scale parameter.
+
+Question: What distribution do next year's losses follow?
+Answer: A single-parameter Pareto distribution.
+
+Question: What is the limited expected value?
+Answer: 9/30/23, 7:15 PM S2.3.4 Inflation - Learn F AM - Coaching Actuaries.
+
+Question: What is the conclusion from the example above?
+Answer: The conclusion is that  is the inflation rate.
+
+Question: What is the formula for loss elimination ratio with an ordinary deductible?
+Answer: Recall the loss elimination ratio formula for an ordinary deductible.
+
+Question: What is the loss elimination ratio formula for an ordinary deductible?
+Answer: The loss elimination ratio formula for an ordinary deductible is 9/30/23, 7:15 PM S2.3.4 Inflation - Learn F AM - Coaching Actuaries.
+
+Question: What is the loss in 2016 represented by?
+Answer: The loss in 2016 is represented by .
+
+Question: What is the difference between the loss elimination ratios in 2016 and 2017?
+Answer: Calculate the difference between the loss elimination ratios in 2016 and 2017.question: What is the mean and limited expected value of losses in 2016?
+answer: The mean and limited expected value of losses in 2016 is not provided in the given text.
+
+question: What is the loss elimination ratio in 2016?
+answer: The loss elimination ratio in 2016 is not provided in the given text.
+
+question: What are the losses in 2017 represented by?
+answer: The losses in 2017 are represented by an unknown value as it is not provided in the given text.
+
+question: What is the loss elimination ratio in 2017?
+answer: The loss elimination ratio in 2017 is not provided in the given text.
+
+question: What is the formula to calculate the mean and limited expected value of losses in 2017?
+answer: The formula to calculate the mean and limited expected value of losses in 2017 is not provided in the given text.
+
+question: How can we add the effects of inflation to the loss variable?
+answer: The text does not provide the specific method of adding the effects of inflation to the loss variable.Q: What is the alternative method for calculating the expected payment per loss?
+A: Stick with  and replace  in the equation with 
+
+Q: When does the alternative method only work?
+A: When the distribution of  has a scale parameter.
+
+Q: What are the two cases where the ultimate formula is not commonly seen?
+A: 1) Franchise deductible, where the maximum covered loss is less than it would be for an ordinary deductible.
+2) Adding back the effect of the deductible for the portion of loss above the deductible.Question: What is the formula for calculating coinsurance?
+Answer: coinsurance = deductible / coinsurance factor
+
+Question: What is the deductible for the policy mentioned in the text?
+Answer: The deductible is 600.
+
+Question: How much higher are the losses assumed to be next year?
+Answer: The losses are assumed to be 20% higher next year.
+
+Question: What are the options the insurer is considering adding to the policy starting next year?
+Answer: The options are a policy limit of 3,000 or a coinsurance.
+
+Question: What is the formula for calculating expected payments under the policy limit option?
+Answer: Expected payment = [CDF value at policy limit] * [policy limit]
+
+Question: What is the formula for calculating expected payments under the coinsurance option?
+Answer: Expected payment = [CDF value at deductible] * [deductible] / [coinsurance factor]
+
+Question: What is the equation used to solve for the coinsurance factor?
+Answer: Equate the two expected payments and solve for the coinsurance factor.Question: What is the usual involvement of a distribution that asks for the variance of the payment?
+Answer: It usually involves a distribution that has a special property or a simple payment structure.
+
+Question: What does Example S2.3.4.4 illustrate?
+Answer: Example S2.3.4.4 illustrates a distribution with a special property.
+
+Question: What is the deductible and maximum covered loss in the given insurance policy?
+Answer: The deductible is 20 and the maximum covered loss is 100.
+
+Question: What type of distribution do the losses follow in the given insurance policy?
+Answer: The losses follow a uniform distribution on the interval 0 to 200.
+
+Question: What does a policy limit of 100 indicate?
+Answer: A policy limit of 100 indicates a maximum covered loss of 80.Question: What is the formula for variance?
+Answer: The variance is the second moment minus the first moment squared.
+
+Question: How can you calculate the moments of a variable?
+Answer: A simpler way to calculate 's moments is by calculating 's moments, and then converting them.
+
+Question: What is the payment per loss variable?
+Answer: The insurer pays nothing for losses below the deductible; the amount in excess of the deductible for losses between the deductible and the maximum covered loss; the policy limit for losses greater than the maximum covered loss. The payment per loss variable is .
+
+Question: How can you calculate the first and second moments using first principles?
+Answer: Calculate the first and second moments using first principles.
+
+Question: How can you convert 's moments to 's moments?
+Answer: Using , convert 's moments to 's moments: where .
+
+Question: How can you calculate the variance?
+Answer: Finally, calculate the variance.

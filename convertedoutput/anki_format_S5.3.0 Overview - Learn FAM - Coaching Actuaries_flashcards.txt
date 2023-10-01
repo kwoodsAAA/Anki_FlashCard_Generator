@@ -1,0 +1,14 @@
+What is the ratemaking approach covered on this exam?;Manual rating
+How are risks grouped together in manual rating?;Risks with similar characteristics are grouped together.
+How are rates calculated in manual rating?;Rates are calculated based on the estimated future losses of the group.
+Does manual rating use specific loss experiences of individual insureds to determine the premium?;No, it does not.
+What is the first step of the manual rating approach?;Calculating the indicated overall average rate and rate change.
+What does the term "indicated" refer to in ratemaking?;"As indicated by the data".
+What does an indicated average rate change of +10% mean?;It means based on the study of the data, there is an average rate change of +10%.1. What are the essential objectives of ratemaking?
+What do regulators require rates to be?;adequate, not excessive, and not unfairly discriminatory
+What may regulators do if a rate change is deemed inappropriate or based on subjective methods?;refuse to allow the rate change
+Why is it important for an actuary to support proposed rate changes with data and documentation?;to provide evidence and justification for the rate changes
+Why should rates be reasonably stable?;to reduce skepticism among consumers
+How can insurers spread out the effects of large losses over time?;by utilizing reinsurance
+How should rates respond to changes in rate regulations?;they should be adjusted for quickly
+Why should rates be simple and easy to understand?;to make it easier for consumers to understandWhy is it important for policyholders to understand why a rate would increase or decrease?;It helps prevent policyholder dissatisfaction and loss of trust in the insurance company.

@@ -1,0 +1,57 @@
+ 1. What is the probability function used to calculate the aggregate loss random variable?
+Answer: The Law of Total Probability.
+
+2. What is the probability called in the n-fold convolution of the individual severity probability?
+Answer: The probability in the brackets.
+
+3. When is the probability zero in the aggregate loss random variable?
+Answer: When there are no losses or when all losses are zero.
+
+4. What type of loss can the aggregate loss CDF be?
+Answer: It can be discrete or continuous.
+
+5. Why is it important to understand the equations for probability functions?
+Answer: So that you don't need to memorize them and can solve exam questions on a case-by-case basis.question: What is the distribution of the number of claims in a period?
+answer: Poisson distribution with a mean of 3.
+
+question: What is the distribution of claim amounts?
+answer: Distribution such that  for .
+
+question: Are the number of claims and claim amounts independent?
+answer: Yes.
+
+question: What is the aggregate claim amount for a period?
+answer: 
+
+question: How many ways can occur?
+answer: Three ways.
+
+question: What are the three ways that can occur?
+answer: One claim of size 3; Two claims of sizes 1 and 2; Three claims of size 1 each.
+
+question: How do you calculate the final answer for ?
+answer: Sum the probabilities of the three ways.question: Determine the probability that the car has at most 200 in damages this year.
+answer: The damages in a year will not exceed 200 when:
+There are no claims.
+There is one claim and the claim is not more than 200.
+There are two claims and the sum of the claims is not more than 200.
+
+question: What is the probability function for the sum of two independent normal distributions?
+answer: The sum of two independent normal distributions is a normal distribution where the mean and variance are summed.
+
+question: What is the final answer for the probability of at most 200 in damages this year?
+answer: The final answer is the sum of the three probabilities above.
+
+question: What is the mean and variance for the sum of random variables?
+answer: The mean and variance for the sum of random variables can be calculated by summing the means and variances of the individual random variables.I'm sorry, but I'm unable to create Anki flashcards directly. However, I can help you with the formatting and structure of the flashcards. Here's an example of how you can create flashcards for the provided text:
+
+Question: What are the given numbers?
+Answer: /4915/4918/34829
+
+Question: How many numbers are there?
+Answer: 6
+
+Question: What is the value of the last number?
+Answer: 6
+
+Please note that you can add more flashcards as per your requirements.

@@ -1,0 +1,5 @@
+What is a model?;A mathematical description of some phenomenon in reality.
+What is the purpose of a model?;To provide a mathematical description and predict future events.
+How can an actuary construct a model?;By considering or incorporating past data.
+What does an actuary need to do in order to fit a certain model to the data?;Assign a value for each parameter of the distribution.
+How should past sample data be used to obtain reasonable parameter values?;It should be used to assign values to the parameters.

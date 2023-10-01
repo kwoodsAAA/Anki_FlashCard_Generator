@@ -1,0 +1,70 @@
+ Question: What are the two methods to determine the most appropriate class distribution for a given set of data?
+Answer: Method 1: Mean vs. Variance
+
+Question: What does Method 1 compare to determine the most suitable distribution?
+Answer: Method 1 compares the sample mean and unbiased sample variance.
+
+Question: What distributions are compared in Method 1?
+Answer: The distributions compared in Method 1 are Poisson, Binomial, and Negative binomial.
+
+Question: How can you determine which distribution is the most suitable based on the sample mean and sample variance?
+Answer: If the sample mean is less than the sample variance, a negative binomial distribution would likely fit the sample the best among the three distributions (Poisson, Binomial, and Negative binomial).
+
+Question: Do you need to memorize the table of mean vs. variance for each distribution?
+Answer: No, the table is not needed to be memorized as the inequalities are based on the mean and variance formulas of each distribution, which are given in the exam table.Question: What is the method for choosing from the (a, b, 0) class distributions?
+Answer: Multiply each side of the equation by .
+
+Question: What is the slope for the Poisson distribution?
+Answer: 0
+
+Question: What is the slope for the Binomial distribution?
+Answer: -
+
+Question: What is the slope for the Negative Binomial distribution?
+Answer: +
+
+Question: How can we determine the most appropriate distribution?
+Answer: Calculate  for successive values of  and observe whether they are constant, decreasing, or increasing.
+
+Question: How can we estimate  ?
+Answer: We can estimate  as where  is the number of observed .
+
+Question: What can we do to both the numerator and the denominator of  ?
+Answer: We can multiply both the numerator and the denominator of  by .Question: What is the most appropriate model for the given auto accident data?
+Answer: The binomial distribution.
+
+Question: How can we determine the most appropriate distribution?
+Answer: By comparing the sample mean and variance.
+
+Question: Is the mean greater than the variance in this case?
+Answer: Yes.
+
+Question: Therefore, what distribution do we recommend for this data?
+Answer: The binomial distribution.Question: What is the most appropriate model for the given accident data?
+Answer: The most appropriate model for the given accident data is unknown.
+
+Question: How do we determine the most appropriate distribution for the data?
+Answer: We compare the sample mean and variance.
+
+Question: What are the values of the sample mean and variance?
+Answer: The values of the sample mean and variance are unknown.
+
+Question: Can we confidently conclude that a binomial distribution is the best fit for the data?
+Answer: No, we cannot confidently conclude that a binomial distribution is the best fit for the data.
+
+Question: What should we try next?
+Answer: We should try another distribution.question: What is the recommendation for the distribution of the data?
+answer: Poisson distribution
+
+question: What is the expectation for the sample mean and variance?
+answer: They are not expected to be exactly equal.
+
+question: What should we be cautious of when comparing the sample mean and variance?
+answer: Making a decision too quickly when the values are unequal but close.Q: How can we determine if the Poisson distribution is a good fit for our data?
+A: Check the ratio of sample mean to sample variance.
+
+Q: What can we conclude if the ratio of sample mean to sample variance is around 1.00?
+A: We can conclude that Poisson is the best fit.
+
+Q: What should we do if the ratio is not around 1.00?
+A: We should consider other probability distributions for our data.

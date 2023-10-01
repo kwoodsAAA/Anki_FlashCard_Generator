@@ -1,0 +1,4 @@
+How can we represent the sum of gamma random variables?;Let λ be the sum of the gamma random variables. Then, λ follows a gamma distribution with α equal to the sum of the parameters for each of the gamma random variables and with β remaining the same.
+What is the relationship between exponential distribution and gamma distribution?;The exponential distribution is a special case of the gamma distribution, i.e. it is a gamma distribution with α=1.
+What is the PDF, mean, and variance of the exponential distribution?;The PDF, mean, and variance of the exponential distribution simplify to
+What is the memoryless property of the exponential distribution?;The exponential distribution has the memoryless property, which loosely implies that what happened in the past does not affect what will happen in the future.question;answer

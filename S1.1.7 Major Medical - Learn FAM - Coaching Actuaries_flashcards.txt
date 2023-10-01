@@ -1,0 +1,373 @@
+ 1. What is major medical insurance?
+Major medical insurance is a type of insurance coverage that combines various sources of health care costs under one policy.
+
+2. Why was major medical insurance introduced?
+Major medical insurance was introduced in response to significant increases in medical costs and the realization that only covering hospital or physician costs was inadequate for policyholders.
+
+3. How does major medical coverage differ from earlier coverages?
+One distinguishing factor is that major medical coverage is the first time disparate sources of health care costs, such as hospital, physician, and ancillary, were aggregated under one policy.question: What is the purpose of requiring a minimum combination of covered services in a policy called "major medical"? 
+answer: To prevent insurers from misleading consumers with subpar policies that use the name "major medical" and to prohibit policies with unexpected holes in the benefit plan that will disadvantage the policyholder.
+
+question: What are some examples of services usually covered by a major medical insurance policy? 
+answer: Inpatient services, outpatient services, ancillary services, and prescription drugs.
+
+question: What are ancillary services in health insurance? 
+answer: Ancillary services refer to a wide range of medical services that support the work of a primary physician. They can be categorized into diagnostic, therapeutic, and custodial.
+
+question: How are prescription drugs classified in major medical insurance? 
+answer: Prescription drugs can be classified as generic, brand-name, or specialty, as well as preferred or non-preferred. Each insurance carrier lists their preferred drugs in a formulary.1. What is a provider network?
+A collection of doctors and other health care professionals, hospitals, and clinics who have agreed to collaborate with insurers by servicing their insureds.
+
+2. Why do health insurance carriers develop or contract with provider networks?
+To supply health care providers with patients and to ensure that insureds have access to a network of doctors and hospitals.
+
+3. What factors influence the decision to develop a network or contract with an existing one?
+The geographic concentration of insureds and the level of breadth and discount desired by the carrier.
+
+4. What are the benefits for health care providers who participate in a provider network?
+They receive patients and are paid according to their contract with the insurer.
+
+5. What are some carriers that develop their own networks?
+Examples include Blue Cross/Blue Shield.Question: What is one of the challenges insurers face when choosing providers?
+Answer: Consolidation of health care providers.
+
+Question: Why does consolidation of health care providers pose a challenge?
+Answer: It prevents the selection of specific providers when building a network.
+
+Question: What is another challenge insurers face when choosing providers?
+Answer: Limited number of providers in rural areas.
+
+Question: Why is the limited number of providers in rural areas a challenge?
+Answer: Insurers cannot be as restrictive as there are fewer providers available.
+
+Question: What do carriers with geographically diverse customers typically do?
+Answer: They contract with existing networks for hire.
+
+Question: Who usually develops the networks that carriers rent?
+Answer: Companies who have invested resources with the intent of renting these networks to insurers.
+
+Question: How do insurers decide which network to rent?
+Answer: They evaluate networks based on cost and health care practice patterns such as quality measures and efficiency of care.Q: How do insurers evaluate cost savings?
+A: Insurers usually evaluate the cost savings from provider discounts.
+
+Q: What are the two main types of health insurance plans?
+A: The two main types of health insurance plans are Health Maintenance Organization (HMO) and Preferred Provider Organization (PPO).
+
+Q: What is required under an HMO plan?
+A: Under an HMO plan, the insured is required to have a primary care provider.
+
+Q: Can insureds see a specialist under an HMO plan without a referral?
+A: No, if an insured needs to see a specialist under an HMO plan, a referral from the primary care doctor is needed.
+
+Q: What type of health services does an HMO plan typically cover?
+A: An HMO plan typically does not cover health services outside of the network.
+
+Q: Is a primary care provider needed under a PPO plan?
+A: No, a primary care provider is not needed under a PPO plan.
+
+Q: Can insureds visit providers outside of the network under a PPO plan?
+A: Yes, insureds can visit providers outside of the network under a PPO plan.
+
+Q: Does visiting a health care professional within the network guarantee lower cost and higher coverage under a PPO plan?
+A: Yes, visiting a health care professional within the network guarantees lower cost and higher coverage under a PPO plan.Question: How are benefits calculated and expenses divided among policyholders, insurers, and healthcare providers?
+Answer: It is important to define how benefits are calculated and how expenses are divided among policyholders, insurers, and healthcare providers.
+
+Question: What is cost sharing?
+Answer: The amount of cost paid by policyholders is called cost sharing.
+
+Question: What is a deductible?
+Answer: A deductible is the amount the insured has to pay before the insurance coverage kicks in.
+
+Question: How can deductibles be applied and defined differently for different categories of services?
+Answer: In the context of health insurance, deductibles can be applied and defined differently for different categories of services.
+
+Question: What is an overall deductible?
+Answer: Some health insurance plans impose an overall deductible as opposed to separate deductibles for different benefits. This deductible is typically high and is an important feature of a High Deductible Health Plan (HDHP).
+
+Question: What are provider discounts?
+Answer: If a healthcare provider participates in an insurer's network, there is likely an agreement between them on the cost of services provided.
+
+Question: How are billed charges calculated?
+Answer: Billed charges are calculated using the retail, or undiscounted, price the provider charges for a service.
+
+Question: How are allowed charges calculated?
+Answer: Allowed charges are calculated as the amount permitted by the insurance provider for a specific service.Question: What is balance billing?
+Answer: Balance billing is the act of seeking payments from the insured for the difference between the billed charges and allowed charges.
+
+Question: Do most insurers allow in-network providers to balance bill?
+Answer: No, most insurers do not allow in-network providers to balance bill.
+
+Question: Do in-network and out-of-network services both have billed and allowed charges?
+Answer: Yes, both in-network and out-of-network services have billed and allowed charges.
+
+Question: What are benefit calculations based on?
+Answer: Benefit calculations are required to be based on allowed charges.
+
+Question: If an insured goes to an out-of-network provider, how are their benefit calculations determined?
+Answer: If an insured goes to an out-of-network provider, their benefit calculations are determined based on allowed charges.
+
+Question: What option does an out-of-network provider have when an insured goes to them?
+Answer: The out-of-network provider has the option to balance bill the insured in order to recoup the difference between billed charges and allowed charges.Coinsurance;The proportion of loss the insurer is responsible for.
+Out-of-Pocket Limits;A provision that relieves the insured from paying for additional medical costs if a specified threshold is met.
+Maximum Limits;The maximum amount of benefits paid by an insurer under a policy.question: What caused the phasing out of health insurance?
+answer: rising cost of health care
+
+question: Under the Affordable Care Act (ACA), is there a lifetime dollar limit on essential health benefits?
+answer: no
+
+question: What do out-of-pocket limits refer to?
+answer: the maximum amount that an insured pays under a policy for a policy period
+
+question: What do maximum limits refer to?
+answer: the maximum amount that an insurer pays under a policy
+
+question: Can limits exist for specific subsets of benefits in health insurance policies?
+answer: yes
+
+question: How can limits for specific subsets of benefits be expressed?
+answer: in dollars and/or number of visits
+
+question: Give an example of a specific subset of benefits with limits.
+answer: chiropractor sessions limited to $25 per visit and 40 visits per year
+
+question: Does the ACA allow any form of dollar limit on essential health benefits?
+answer: no
+
+question: What do insurance carriers often do in response to the ACA's regulations on essential health benefits?
+answer: remove dollar limits on essential health benefitsquestion: What does the Mental Health Parity and Addiction Equity Act of 2008 (MHPAEA) require health insurance policies to comply with?
+answer: The Mental Health Parity and Addiction Equity Act of 2008 (MHPAEA) requires health insurance policies to comply with the internal limits for mental health and substance abuse services that are no more stringent than those applied to other services.
+
+question: What is a copay?
+answer: A copay refers to the cost sharing (i.e. the amount paid by the insured) that occurs every time a health care service is provided.
+
+question: What are the advantages of using copays instead of deductibles as a means of cost sharing?
+answer: The advantages of using copays instead of deductibles as a means of cost sharing are: 
+1. Prevent over-utilization: Copays reduce the number of non-essential visits and prevent over-utilization of certain benefits.
+2. Separate administration of benefit: Copays allow for separate administration of benefits, especially for prescription drugs, which are usually administered by a pharmacy benefits manager (PBM) who does not have access to claim records kept by insurers.1. When do calculations for prescription drugs usually occur?
+Calculations for prescription drugs usually occur when prescriptions are filled.
+
+2. What is needed to determine the amount of cost sharing if a policy has a deductible?
+Access to claim records is needed to determine the amount of cost sharing if a policy has a deductible.
+
+3. Is claim record access needed if the policy uses copays?
+No, claim record access is not needed if the policy uses copays, unless the copays contribute to an out-of-pocket limit.
+
+4. Why do insurers typically use copays instead of deductibles for sharing costs of prescription drugs?
+Insurers typically use copays instead of deductibles to share costs for prescription drugs because it eliminates the need for claim record access.
+
+5. Are all prescription drug benefits copay-structured?
+No, not all prescription drug benefits are copay-structured. Some companies' benefit administration systems allow for a deductible-structured system.
+
+6. Are there different types of health insurance plans in the market?
+Yes, there are many different types of health insurance plans in the market with varying deductibles, out-of-pocket limits, coinsurance, and copays.
+
+7. What is an example of an individual health insurance plan?
+Plan 1 is an example of an individual health insurance plan.Question: What is the in-network hospital inpatient stay copay for Plan 1?
+Answer: $250
+
+Question: What is the in-network physician visit copay for Plan 1?
+Answer: $10
+
+Question: What is the out-of-network hospital inpatient stay copay for Plan 1?
+Answer: $500
+
+Question: What is the out-of-network physician visit copay for Plan 1?
+Answer: $30
+
+Question: What is the in-network hospital outpatient emergency room copay for Plan 1?
+Answer: $100
+
+Question: What is the in-network x-ray copay for Plan 1?
+Answer: $15
+
+Question: What is the out-of-network hospital outpatient emergency room copay for Plan 1?
+Answer: $200
+
+Question: What is the out-of-network x-ray copay for Plan 1?
+Answer: $30
+
+Question: What is the coinsurance percentage for in-network services for Plan 1?
+Answer: 80%
+
+Question: What is the coinsurance percentage for out-of-network services for Plan 1?
+Answer: 60%
+
+Question: What is the out-of-pocket limit for Plan 1?
+Answer: $3,500
+
+Question: What is the prescription drug copay for generic drugs for Plan 1?
+Answer: $10
+
+Question: What is the prescription drug copay for brand drugs for Plan 1?
+Answer: $30
+
+Question: What is the prescription drug copay for specialty drugs for Plan 1?
+Answer: $100
+
+Question: What is the overall deductible for Plan 2?
+Answer: $3,500
+
+Question: What is the coinsurance percentage for in-network services for Plan 2?
+Answer: 100%
+
+Question: What is the coinsurance percentage for out-of-network services for Plan 2?
+Answer: 70%
+
+Question: What is the out-of-pocket limit for Plan 2?
+Answer: $3,500
+
+Question: What is the overall deductible for Ashe's health insurance policy?
+Answer: $4,000
+
+Question: What is the coinsurance percentage for Ashe's health insurance policy?
+Answer: 80%
+
+Question: What is the out-of-pocket limit for Ashe's health insurance policy?
+Answer: $5,000Question: What is coinsurance?
+Answer: Coinsurance is Sigma's share of the costs of a covered service. It applies only after the overall deductible is reached.
+
+Question: What events did Ashe experience in 2018?
+Answer: - Annual physical exam on 6/18/18 with allowed charges of $150
+- MRI on 6/30/18 with allowed charges of $2,500
+- Specialty drug on 7/15/18 with allowed charges of $300
+- Emergency room visit on 8/26/18 with allowed charges of $1,750
+
+Question: When does Ashe have to pay for the first three expenses?
+Answer: Ashe has to pay for the first three expenses because the overall deductible has not been met after those events.
+
+Question: When does the overall deductible get met?
+Answer: The overall deductible gets met when the fourth expense occurs.
+
+Question: What does Ashe have to pay after the overall deductible is met?
+Answer: Ashe has to pay the expenses up to the overall deductible plus 20% of the cost after the deductible.
+
+Question: How much does Sigma pay for this policy?
+Answer: Sigma pays the percentage of the allowed charges in 2018 that they will cover for this policy.
+
+Question: What is the minimum allowed charges for the next event that guarantees no additional payment from Ashe for the rest of 2018?
+Answer: The minimum allowed charges for the next event guarantee no additional payment from Ashe for the rest of 2018.Question: What is the percentage of allowed charges that Sigma pays?
+Answer: Solution to (2)
+
+Question: How much has Ashe paid as of the 4th expense?
+Answer: Ashe has paid .
+
+Question: What is Ashe's out-of-pocket limit?
+Answer: Ashe's out-of-pocket limit is 5,000.
+
+Question: How much does Ashe still need to pay for the remainder of the year?
+Answer: Ashe will still need to pay up to 860 for the remainder of the year.
+
+Question: What is the condition for Ashe to not have to make any additional payments?
+Answer: If there is another medical cost before the year ends, Ashe would not have to pay anything after an expense of at least .
+
+Question: How much will Ashe pay if the next event costs at least 4,300?
+Answer: Ashe will pay exactly 860, having reached her out-of-pocket limit under this policy.
+
+Question: What is the purpose of major medical coverage?
+Answer: Major medical coverage aims to protect insureds against large unexpected health care costs, instead of covering.1. What is comprehensive major medical coverage?
+- Comprehensive major medical coverage covers both smaller frequent costs and large unexpected costs, resulting in lower deductibles.
+
+2. What is anti-selection?
+- Anti-selection, also known as adverse selection, refers to the tendency of individuals who expect to experience higher-than-average losses to purchase insurance.
+
+3. What is catastrophic major medical coverage?
+- Catastrophic major medical coverage is for certain expenses not covered by comprehensive major medical coverage. Its purpose is to protect insureds against very large, infrequent medical expenses that are higher than regular major medical expenses. These products typically have very high deductibles.Question: What is short-term medical coverage?
+Answer: Short-term medical coverage is a type of insurance that has a limited term, usually 3, 6, 9, or 12 months.
+
+Question: Why was short-term medical coverage introduced?
+Answer: Short-term medical coverage was introduced because of substantial lapse rates for newly issued individual major medical policies.
+
+Question: What is the main difference between short-term medical coverage and major medical policies?
+Answer: The main difference is that short-term medical coverage has a limited term, while major medical policies typically do not.
+
+Question: How does the underwriting process differ for short-term medical coverage?
+Answer: Underwriting for short-term medical coverage is typically simpler and results in substantially less cost.
+
+Question: What is a potential drawback of short-term medical coverage?
+Answer: Short-term medical coverage generally has a pre-existing condition exclusion, which complicates the claim administration process.
+
+Question: What is the out-of-pocket maximum for short-term medical coverage?
+Answer: The out-of-pocket maximum for short-term medical coverage can vary, but it is usually in the $25,000 to $100,000 range.
+
+Question: Why has short-term medical coverage ceased to exist under the current ACA rules?
+Answer: Short-term medical coverage has ceased to exist because the out-of-pocket maximum required by the ACA is less than the deductible amounts for these policies.1. What does the individual mandate require in the U.S.?
+Answer: Most individuals to have basic health insurance coverage
+
+2. What happens if individuals do not have sufficient insurance?
+Answer: They will be penalized
+
+3. Does short-term medical coverage meet the minimum requirements of the individual mandate?
+Answer: No
+
+4. Are there other short-term health care coverages that meet the individual mandate requirements?
+Answer: Yes
+
+5. How long can there be gaps in coverage without penalty under the ACA?
+Answer: Up to three months in a year
+
+6. What loophole does the three-month coverage gap create?
+Answer: It allows healthy individuals to purchase cheaper short-term health care coverage to avoid penalties under the individual mandate.
+
+7. What are high-risk pool plans?
+Answer: Plans created to insure people who either do not have access to medical insurance because of a pre-existing condition or have limited insurance coverage due to a health condition.
+
+8. When did the ACA stop allowing high-risk pool plans?
+Answer: Beginning in 2014.1. What are high risk pool plans typically used for?
+Answer: To underwrite policies using health status.
+
+2. What is a consumer directed plan?
+Answer: A health insurance plan with a high deductible combined with a personal spending account.
+
+3. What are the two examples of personal spending accounts?
+Answer: Medical Savings Accounts (MSAs) and Health Savings Accounts (HSAs).
+
+4. Can you open an MSA or HSA without a High Deductible Health Plan (HDHP)?
+Answer: No, both accounts can only be opened if you have an HDHP.
+
+5. Are contributions to MSAs and HSAs made pre-tax?
+Answer: Yes, any contributions to the account are made pre-tax.
+
+6. Are earnings on MSAs and HSAs tax-free?
+Answer: Yes, earnings on the account are tax-free.
+
+7. Can consumers withdraw money from their personal spending account to pay for health expenses?
+Answer: Yes, consumers can withdraw money from the account to pay for health expenses.
+
+8. Are withdrawals from MSAs and HSAs taxable and subject to a penalty if not used for medical purposes before the age of 65?
+Answer: Yes, withdrawals before the age of 65 and not used for medical purposes are taxable and subject to a 15% penalty.
+
+9. Are withdrawals from MSAs and HSAs taxable and subject to a penalty after the age of 65?
+Answer: No, at age 65 and up, any withdrawals are not taxed.question: What are the tax implications for items that are not used for medical purposes under the ACA?
+answer: They will be taxable, but they won't be subject to a penalty.
+
+question: Who are MSAs limited to?
+answer: MSAs are limited to self-employed individuals and small businesses.
+
+question: Who are HSAs available to?
+answer: HSAs are available to everyone with an HDHP.
+
+question: What are the main reasons for the restrictions on plan design under the ACA?
+answer: The restrictions on plan design are important because they define what constitutes a health insurance policy and most individuals in the U.S. are required to have basic health insurance.
+
+question: True or False: All individual and small group health insurance plans that are not grandfathered in must cover the f
+answer: TrueQuestion: What are the essential health benefits (EHBs) under the ACA?
+Answer: Ambulatory patient services; Emergency services; Hospitalization; Pregnancy, maternity, and newborn care; Mental health and substance use disorder services, including behavioral health treatment; Prescription drugs; Rehabilitative and habilitative services and devices; Laboratory services; Preventive and wellness services and chronic disease management; Pediatric services, including oral and vision care.
+
+Question: What were some common examples of categories that were excluded or subject to underwriting approval prior to the ACA?
+Answer: Mental health and substance use disorder services; Maternity and newborn care.
+
+Question: What types of services cannot have cost sharing under the ACA?
+Answer: Many preventive services, such as standard vaccinations and blood pressure screenings.
+
+Question: Are there any lifetime or annual dollar limits allowed on EHBs?
+Answer: No, lifetime and annual dollar limits are not allowed on EHBs.
+
+Question: What metal levels must plans meet in terms of actuarial value (AV)?
+Answer: Plans must meet an actuarial value (AV) metal level: platinum, gold, silver, bronze.question;What is the target range of AV for each metal level?
+answer;Platinum: 90%, Gold: 80%, Silver: 70%, Bronze: 60%
+question;What is the allowed range of AV for each metal level?
+answer;Platinum: 88-92%, Gold: 78-82%, Silver: 68-72%, Bronze: 58-62%
+question;What is the maximum out-of-pocket limit set by the government?
+answer;It is unspecified in the provided text.
+question;What tests/standards do plans sold on the public exchange need to satisfy?
+answer;Tests for meaningful difference, tests for network adequacy, tests for discriminatory service areas

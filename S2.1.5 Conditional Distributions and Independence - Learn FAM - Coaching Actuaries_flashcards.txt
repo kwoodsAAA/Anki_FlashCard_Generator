@@ -1,0 +1,90 @@
+ 1. What is conditional probability? The probability that an event occurs, given that another event has occurred.
+2. How is conditional probability represented in notation? P(A|B) is the probability of event A occurring given that event B has occurred.
+3. What is Bayes' Theorem? It is a formula that relates conditional probabilities and allows us to update our beliefs about an event based on new information.
+4. How can conditional probabilities be extended to random variables? By conditioning a random variable on specific values, we can derive conditional distributions.
+5. What is the conditional PDF for a random variable conditioned on values between a and b? It is denoted as f(X|a<b), where X is the random variable.
+6. What can be calculated using the conditional PDF? Various statistics such as expected value, variance, and probabilities for specific events can be calculated.Question: What is the conditional probability for a continuous random variable?
+Answer: Conditional probability: 
+
+Question: What is the conditional mean for a continuous random variable?
+Answer: Conditional mean: 
+
+Question: What should be replaced in the equations if the random variable is discrete?
+Answer: If the random variable is discrete, replace the integrals and the PDFs in the equations above with sums and PMFs, respectively.
+
+Question: What is the Law of Total Probability?
+Answer: The Law of Total Probability states that if events , , ..., and  are mutually exclusive and form a partition of a sample space, then 
+
+Question: What can the concept of conditional distributions be applied to?
+Answer: The concept of conditional distributions can be applied to determine the unconditional PMF of a discrete random variable.question: What does a random variable take the place of in a conditional distribution?
+answer: In general, a random variable takes the place of X in P(X|Y). 
+
+question: How is a random variable indicated in the formula?
+answer: The subscript X indicates that X is the random variable for the "averaging". 
+
+question: What is the formula for a discrete random variable?
+answer: If X is discrete, then P(X|Y) = Sum(P(X=x|Y) * P(X=x))
+
+question: What is the formula for a continuous random variable?
+answer: If X is continuous, then P(X|Y) = Integral(P(x|Y) * f(x) dx)
+
+question: Is the random variable X discrete in both cases above?
+answer: Yes, the random variable X is discrete in both cases above.
+
+question: What can the Law of Total Probability be used to determine?
+answer: The Law of Total Probability can be used to determine the unconditional CDF and survival function of a random variable.
+
+question: What does the Law of Total Expectation state?
+answer: The Law of Total Expectation states that E(X) = E(E(X|Y))Question: What does the Law of Total Variance state?
+Answer: The Law of Total Variance states that the variance of a random variable can be decomposed into the sum of the conditional variance and the variance of the conditional mean.
+
+Question: Why is it incorrect to assume that the unconditional variance equals the average of the conditional variances?
+Answer: It is incorrect because the variance of the conditional mean also needs to be included in the calculation.
+
+Question: What is Example S2.1.5.1 about?
+Answer: Example S2.1.5.1 is about a health insurance policy that classifies insureds into two classes: smokers and non-smokers, and provides the means and variances of the annual claim size for each class.question;answer
+mok er 600 1,000;What is the mean and variance for a smoker?
+Non-smok er 450 800;What is the mean and variance for a non-smoker?
+Determine;What is the question asking for?
+Solution to (1);What is the solution to question 1?
+Let be the annual claim size.;What is the notation used for the annual claim size?
+The question asks for the unconditional mean and variance. The means and variances given in the table are conditional on class.;What is the difference between conditional and unconditional mean and variance?
+Class;What is the variable used to differentiate between smokers and non-smokers?
+Smok er;What is the mean and variance for a smoker?
+Non-smok er;What is the mean and variance for a non-smoker?
+Because we are calculating the unconditional mean and variance from conditional means and variances, and should be used.;What values should be used to calculate the unconditional mean and variance?
+To determine the expected annual claim size, apply the Law of Total Expectation, i.e., .the expected annual claim size of a randomly selected insured. 1.;What is the formula for determining the expected annual claim size?
+the variance of the annual claim size of a randomly selected insured. 2.;What is the formula for determining the variance of the annual claim size?
+Solution to (2);What is the solution to question 2?
+To determine the variance of the annual claim size, apply the Law of Total Variance, i.e., .;What is the formula for determining the variance of the annual claim size?
+Determine each component individually.;What is the first step in determining the variance of the annual claim size?
+Calculate .;What is the formula for calculating ?
+Calculate .;What is the formula for calculating ?1. What is an alternative method to calculate using the Law of Total Variance? 
+Answer: The alternative method is to calculate using , where the first and second moments of are computed using the Law of Total Expectation.
+
+2. What is the purpose of Example S2.1.5.2? 
+Answer: The purpose of the example is to demonstrate the calculation of conditional distributions and independence.
+
+3. How is the claim size of a homeowner's policy distributed? 
+Answer: The claim size varies by insured and has a distribution with a given density function.
+
+4. What is the correct distribution described in the table? 
+Answer: The table describes the distribution of , not . This is because the probabilities of the claim size depend on the values of , where varies.question;answer
+To determine the expected claim size, apply .the expected claim size of a randomly selected insured.;Expected claim size of a randomly selected insured.
+the probability that a randomly selected insured has a claim of 100.;Probability of a randomly selected insured having a claim of 100.
+To determine the probability of getting a claim of 100,  apply .;Probability of getting a claim of 100.
+The three properties of expected values discussed in Section S2.1.4 were applied in the solution above. Alternatively, we may use :;The three properties of expected values.
+If events and are independent, the;Events and independence.Question: What is the relationship between independence and conditional distributions?
+Answer: In general, if two events A and B are independent, then the conditional probability of A given B is equal to the probability of A. 
+
+Question: How does independence apply to random variables?
+Answer: If two random variables X and Y are independent, then the joint probability distribution of X and Y is equal to the product of their marginal probability distributions.
+
+Question: What is the relationship between independence and conditional probability distributions for discrete random variables?
+Answer: If two discrete random variables X and Y are independent, then the conditional probability distribution of X given Y is equal to the marginal probability distribution of X.
+
+Question: What is the relationship between independence and conditional probability distributions for continuous random variables?
+Answer: If two continuous random variables X and Y are independent, then the conditional probability density function of X given Y is equal to the marginal probability density function of X.
+
+Question: What is the relationship between independence and joint probability distributions?
+Answer: If two random variables X and Y are independent, then the joint probability distribution of X and Y is equal to the product of their marginal probability distributions.

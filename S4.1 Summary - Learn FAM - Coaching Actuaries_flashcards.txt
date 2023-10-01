@@ -1,0 +1,42 @@
+ 1. What is the standard for full credibility in classical credibility theory?
+Answer: Full credibility for aggregate claims should be given to the sample if the condition is fulfilled.
+
+2. How can full credibility be measured in classical credibility theory?
+Answer: Full credibility can be measured in two units: number of exposures and expected number of claims.
+
+3. How can full credibility of aggregate claims/pure premiums be achieved?
+Answer: Full credibility of aggregate claims/pure premiums can be achieved by fulfilling the standard for full credibility.
+
+4. How can full credibility of claim frequency be achieved?
+Answer: To achieve full credibility of claim frequency, set the severity component to zero.
+
+5. How can full credibility of claim severity be achieved?
+Answer: To achieve full credibility of claim severity, set the frequency component to zero.
+
+6. How can you convert between and ?
+Answer: To convert between and , apply the relationship below.
+
+7. What is partial credibility?
+Answer: Partial credibility refers to the situation where the future outcome is not fully credible.1. What is the formula for calculating e?
+Answer: e is predicted by taking the weighted average of the sample mean and the manual premium.
+
+2. What does represent in the formula?
+Answer: represents the credibility premium.
+
+3. What does represent in the formula?
+Answer: represents the credibility factor/credibility.
+
+4. What does represent in the formula?
+Answer: represents the sample mean.
+
+5. What does represent in the formula?
+Answer: represents the manual premium.
+
+6. How do you calculate the partial credibility factor using the square root rule?
+Answer: Apply the square root rule to calculate the partial credibility factor.
+
+7. What is the formula for calculating the partial credibility factor?
+Answer: 9/30/23, 6:49 PM S4.1 Summary - Learn F AM - Coaching Actuaries.
+
+8. What is the purpose of in the formula?
+Answer: is the actual number of exposures.

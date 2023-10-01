@@ -1,0 +1,3 @@
+ 1. What is the manual rating approach?; The manual rating approach groups risks with similar characteristics together and calculates rates based on estimated future losses of the group.
+2. What is the loss ratio method?; The loss ratio method is a method used in manual rating where rates are calculated based on the ratio of losses to premiums.
+3. What is the pure premium method?; The pure premium method is a method used in manual rating where rates are calculated based on the estimated future losses only.

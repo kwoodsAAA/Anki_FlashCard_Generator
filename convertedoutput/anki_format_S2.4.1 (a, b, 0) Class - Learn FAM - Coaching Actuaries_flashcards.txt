@@ -1,0 +1,24 @@
+What is the PMF of a Poisson distribution with mean λ?;The PMF is given by P(X=k) = (e^(-λ) * λ^k) / k!
+What is a key property of the Poisson distribution?;The mean equals the variance.
+What is the sum of independent Poisson random variables?;The sum follows a Poisson distribution with mean equal to the sum of the means of the individual variables.question
+What is a Poisson distribution?;The number of occurrences.
+What is a binomial distribution?;A distribution with parameters n and p, where n is the number of independent trials and p is the probability of an event of interest occurring in each trial.
+What is the PMF of a binomial distribution?;P(X=k) = (n choose k) * p^k * (1-p)^(n-k)
+What is the mean of a binomial distribution?;Mean = n * p
+What is the variance of a binomial distribution?;Variance = n * p * (1-p)
+Can the sum of independent binomial random variables with the same parameter be a binomial random variable?;Yes.1. What is a Bernoulli distribution?; A binomial distribution with p=1.
+What is the PMF, mean, and variance of a geometric distribution?;The PMF, mean, and variance of a geometric distribution are simplified to 9/30/23, 7
+What is the sum of i.i.d geometric random variables?;The sum of i.i.d geometric random variables follows a negative binomial distribution with parameters p and r.
+What is the memoryless property of the geometric distribution?;The memoryless property states that for a geometric distribution, the probability of an event occurring in the future does not depend on how long it has been since the last event occurred.
+What is an example of the memoryless property of the geometric distribution?;An insured owns 3 cars in Year 1 and 4 cars in Year 2. Each car has a 10% chance of getting into an accident, and can only get into at most 1 accident per year. The car accidents are independent of each other.
+What is the probability that the insured gets into at most 1 accident in two years?;The probability can be calculated using the geometric distribution.question
+What property do the discrete distributions introduced above belong to?;The discrete distributions introduced above belong to the "class" distribution.
+What are the signs of α and β for the Poisson distribution?;The signs of α and β for the Poisson distribution are 0 and +, respectively.
+What are the signs of α and β for the Binomial distribution?;The signs of α and β for the Binomial distribution are - and +, respectively.
+What are the signs of α and β for the Negative Binomial distribution?;The signs of α and β for the Negative Binomial distribution are + and +, respectively.Q
+What is the relationship used to form two equations?;Use this relationship to form two equations.
+How do you solve for a and b?;Solve for a and b.
+What distribution is the negative binomial distribution?;The distribution is negative binomial.
+How do you determine the values of the parameters?;Use the formulas provided in the exam table to determine the values of the parameters.
+What is the mean of the negative binomial distribution?;The mean of the negative binomial distribution is Poisson-Gamma Mixture.
+How can a negative binomial distribution be created?;One way to create a negative binomial distribution is by mixing Poisson distributions.Let's apply the Poisson-gamma mixture in an example.;Example S2.4.1.3

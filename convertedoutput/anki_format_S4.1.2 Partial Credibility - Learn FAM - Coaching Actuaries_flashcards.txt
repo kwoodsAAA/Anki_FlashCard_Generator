@@ -1,0 +1,29 @@
+What is partial credibility?;Partial credibility is assigned when the experience is inadequate for full credibility.
+What is the purpose of credibility in insurance?;The purpose of credibility is to assign weights to different sources in order to produce the best estimate of the future outcome.
+What is the credibility premium?;The credibility premium is the estimate of the future outcome and is denoted as .
+How is the credibility premium calculated in the case of partial credibility?;The credibility premium in the case of partial credibility is calculated by assigning a weight of  to the sample mean and a weight of  to the value from a more general source, commonly known as the manual premium.
+What does represent in the calculation of the credibility premium?;represents the sample mean.
+What does represent in the calculation of the credibility premium?;represents the manual premium.
+How is determined in a classical credibility problem?;is determined by taking the average of the observations provided.question
+What does the square root rule state?;The square root rule states that if there is not full credibility, then
+What does  represent in the square root rule?;represents the number of exposures needed for full credibility.
+What does  represent in the square root rule?;represents the actual number of exposures.
+What does  represent in the square root rule?;represents the expected number of claims needed for full credibility.
+What does  represent in the square root rule?;represents the actual number of claims.question
+When does the formula for credibility have two forms?;The formula has two forms when the numerator and denominator are consistent in units.
+What is the purpose of using an approximation for the number of claims?;The approximation is used when the actual number of claims is unknown or assumed to be unknown.
+How can you calculate the credibility if 60,000 exposures are observed?;Using the square root rule, the credibility would be less than 1 because less than 80,000 exposures have been observed.
+How can you calculate the credibility if 120,000 exposures are observed?;If 120,000 exposures are observed, the credibility would be 1 because the full number of exposures needed for credibility has been observed.Question
+What is the credibility factor for a group with 800 insureds?;The credibility factor is 80%.
+What is the new standard for full credibility for the same group of insureds?;The new standard for full credibility is set so that the claim frequency is within 3% of the true value 99% of the time.
+How do we calculate the revised credibility factor?;We need to revise the number of exposures/claims needed for full credibility based on the new standard, and then use that number to calculate the revised credibility factor.question;What is the claim frequency?
+What distribution does the annual claim frequency follow?;The annual claim frequency follows a Poisson distribution.
+What distribution do the individual claim sizes follow?;The individual claim sizes follow an inverse Gaussian distribution with parameters  and .
+Are the claim frequency and severity independent?;Yes, the claim frequency and severity are independent.
+What is the full credibility standard established in this example?;The full credibility standard is that the aggregate claim is within 10% of its mean 90% of the time.
+What is the manual premium for the annual aggregate claim?;The manual premium is 10,000.
+How many claims were observed in the previous year?;200 claims were observed in the previous year.
+What was the total claim size in the previous year?;The total claim size in the previous year was 12,000.
+What method is used to calculate the credibility premium for the current year?;Limited fluctuation credibility is used to calculate the credibility premium for the current year.1. What are the variables used in partial credibility calculations?
+What is the observed number of exposures?;The observed number of exposures is 1.
+What is the formula for calculating the sample mean?;The sample mean is the observed total amount across all exposures divided by the observed number of exposures.

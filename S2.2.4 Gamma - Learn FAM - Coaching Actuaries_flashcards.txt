@@ -1,0 +1,68 @@
+ question: What is the PDF of a gamma distribution with parameters α and β?
+
+answer: The PDF of a gamma distribution with parameters α and β is f(x) = (1/β^α * Γ(α)) * x^(α-1) * e^(-x/β)
+
+question: How is a gamma distribution commonly recognizable from its PDF?
+
+answer: A gamma distribution is commonly recognizable from its PDF having the term (x/β)^(-α) raised to a negative multiple of x, multiplied by e^(x/β) raised to a positive power.
+
+question: What are the mean and variance of a gamma distribution?
+
+answer: The mean of a gamma distribution is α * β and the variance is α * β^2.
+
+question: How is the CDF of a gamma distribution expressed?
+
+answer: The CDF of a gamma distribution is expressed using the incomplete gamma function, which is denoted as Γ(α, x) and is defined in Appendix A of the exam table.1. What is a shortcut for evaluating an incomplete gamma function when n is a positive integer?
+Answer: To evaluate an incomplete gamma function, let X be a Poisson random variable with mean λ, then use the PMF of the Poisson distribution.
+
+2. What is the derivation of the Poisson shortcut included at the end of the section?
+Answer: The derivation of the Poisson shortcut is included at the end of the section.
+
+3. What distribution is the Poisson random variable?
+Answer: The Poisson random variable follows a Poisson distribution.
+
+4. What is the PMF of the Poisson random variable?
+Answer: The PMF of the Poisson random variable is not provided.
+
+5. How is the shortcut better illustrated?
+Answer: The shortcut is better illustrated with an example.
+
+6. What is the example provided for illustrating the shortcut?
+Answer: Example S2.2.4.1 is provided as an example for illustrating the shortcut.
+
+7. What distribution does the random variable X follow in the given example?
+Answer: In the given example, the random variable X follows a gamma distribution with parameters α and β.
+
+8. What is the value of the incomplete gamma function in the given example?
+Answer: The value of the incomplete gamma function in the given example is not provided.question: What is the alternative solution for combining independent gamma random variables?
+answer: The sum of independent gamma random variables, given that they have the same value of λ, is also a new gamma random variable.
+
+question: How can we represent the sum of gamma random variables?
+answer: Let λ be the sum of the gamma random variables. Then, λ follows a gamma distribution with α equal to the sum of the parameters for each of the gamma random variables and with β remaining the same.
+
+question: What is the relationship between exponential distribution and gamma distribution?
+answer: The exponential distribution is a special case of the gamma distribution, i.e. it is a gamma distribution with α=1. 
+
+question: What is the PDF, mean, and variance of the exponential distribution?
+answer: The PDF, mean, and variance of the exponential distribution simplify to:
+
+PDF(x) = λ * e^(-λx)
+Mean = 1/λ
+Variance = 1/λ^2
+
+question: What is the memoryless property of the exponential distribution?
+answer: The exponential distribution has the memoryless property, which loosely implies that what happened in the past does not affect what will happen in the future.question;answer
+What is the memoryless property?;From a mathematical standpoint, the memoryless property means that the time until the next event follows the same distribution as the previous time interval, where the distribution is characterized by a positive constant.
+What are the two distributions that have the memoryless property?;Exponential and geometric distributions have the memoryless property.
+What is the sum of independent and identically distributed (i.i.d.) exponential random variables?;The sum of i.i.d. exponential random variables follows a gamma distribution with parameters alpha and beta.question;answer
+What is the relationship between the sum of exponential random variables and the sum of gamma random variables?;The sum of exponential random variables can be seen as the sum of gamma random variables, all with the same parameters.
+What is the Weibull distribution?;The Weibull distribution is a transformed exponential distribution.
+What are the parameters for the Weibull distribution?;The parameters for the Weibull distribution are and .
+What is the PDF of the Weibull distribution?;The PDF of the Weibull distribution is .
+When is the Weibull distribution equivalent to the exponential distribution?;The Weibull distribution is equivalent to the exponential distribution when .
+How does the Weibull PDF differ from the gamma PDF?;The Weibull PDF is similar to the gamma PDF, except the  in the exponent is raised to a positive power.
+What are the inverse counterparts of these distributions?;The inverse counterparts of these distributions are the inverse gamma, inverse exponential, and inverse Weibull distributions.
+What are the parameters for the inverse gamma distribution?;The parameters for the inverse gamma distribution are and .
+What are the parameters for the inverse exponential distribution?;The parameters for the inverse exponential distribution are and .
+What are the parameters for the inverse Weibull distribution?;The parameters for the inverse Weibull distribution are and .
+Where can I find the proofs of these inversions?;The proofs of these inversions are included at the end of this section.

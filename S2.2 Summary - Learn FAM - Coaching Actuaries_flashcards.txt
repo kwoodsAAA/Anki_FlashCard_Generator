@@ -1,0 +1,77 @@
+ 1. What are the special properties included in the summary for continuous distributions?
+Answer: PDF, CDF, mean, and variance formulas
+
+2. Why are the PDF, CDF, mean, and variance formulas not listed in the summary?
+Answer: They are either provided on the exam table or can be derived from other quantities.
+
+3. What is the S-P Pareto distribution?
+Answer: It is a Pareto distribution shifted rightwards by a constant.
+
+4. How does the mean of the S-P Pareto distribution compare to the mean of the Pareto distribution?
+Answer: The mean of the S-P Pareto distribution is greater than the mean of the Pareto distribution.
+
+5. Do the S-P Pareto distribution and the Pareto distribution have the same variance?
+Answer: Yes, they have the same variance.
+
+6. What is the exponential distribution?
+Answer: It is a special case of the gamma distribution.
+
+7. What is the relationship between the exponential distribution and the gamma distribution?
+Answer: The exponential distribution is a special case of the gamma distribution with a shape parameter of 1.
+
+8. What is the distribution of the sum of i.i.d. exponential random variables?
+Answer: It follows a gamma distribution with parameters α and β.
+
+9. What is the memoryless property of the exponential distribution?
+Answer: The memoryless property states that the probability of an event occurring in the future does not depend on how long the event has already been occurring.
+
+10. How to determine the CDF of a beta distribution?
+Answer: Use the CDF of a beta distribution.
+
+11. How to restate the CDF of a beta distribution using the CDF of another distribution?
+Answer: Restate the CDF of the beta distribution using the CDF of another distribution.
+
+12. How to determine the PDF of a beta distribution?
+Answer: Use the PDF of a beta distribution.question;answer
+Distribution CDF Mean Variance Percentile
+Standar d normal;The standard normal distribution is a special case of the normal distribution with a mean of 0 and a standard deviation of 1.
+Normal;The normal distribution is a continuous probability distribution characterized by its mean and standard deviation.
+Lognormal;The lognormal distribution is a distribution that is obtained by taking the exponential of a normal distribution.
+Inverse Distributions;If a random variable X follows a certain distribution that has a parameter θ and an inverse counterpart, then 1/X follows the inverse counterpart with the same parameters, except θ is inverted.
+Pareto;The Pareto distribution is a continuous probability distribution that is commonly used to model extreme events.
+Exponential;The exponential distribution is a continuous probability distribution that models the time between events in a Poisson process.
+Uniform;The uniform distribution is a continuous probability distribution that has a constant probability density function over a specified interval.
+Linear Exponential Family;Any distribution with a probability function that can be expressed in the form f(x|θ) = exp(η(θ)T(x) - A(θ) + B(x)) belongs to the linear exponential family.
+Roles of parameters;All distributions listed in the exam tables that have a θ parameter (except inverse Gaussian) are parameterized by that parameter.Q: How do you scale a continuous distribution listed on the exam tables except lognormal, inverse Gaussian, and log-? 
+A: Multiply the parameter  by the scaling factor.
+
+Q: How do you scale a normal distribution? 
+A: Multiply the mean and the standard deviation by the scaling factor.
+
+Q: How do you scale a lognormal distribution? 
+A: Add the natural log of the scaling factor to the parameter .
+
+Q: How do you scale all other distributions? 
+A: Use the transformation technique discussed at the beginning of this section.
+
+Q: What is a discrete mixture? 
+A: A random variable  is a discrete mixture of the random variables , , ...,  if its PDF is given by.
+
+Q: Is a mixture the same as a linear combination of random variables? 
+A: No, a mixture is different from a linear combination of random variables.
+
+Q: What is the abbreviation for Bernoulli distribution? 
+A: The abbreviation is "BERNOULLI".Question: What is a random variable?
+Answer: A random variable is a variable that can take on different values with certain probabilities.
+
+Question: How many values can a random variable take on in this case?
+Answer: In this case, the random variable can only take on two values.
+
+Question: What are the two values that the random variable can take on?
+Answer: The two values that the random variable can take on are [value 1] and [value 2].
+
+Question: What is the probability of the random variable taking on the first value?
+Answer: The probability of the random variable taking on the first value is [probability 1].
+
+Question: What is the probability of the random variable taking on the second value?
+Answer: The probability of the random variable taking on the second value is [probability 2].

@@ -1,0 +1,22 @@
+What are the two methods to determine the most appropriate class distribution for a given set of data?;Method 1
+What does Method 1 compare to determine the most suitable distribution?;Method 1 compares the sample mean and unbiased sample variance.
+What distributions are compared in Method 1?;The distributions compared in Method 1 are Poisson, Binomial, and Negative binomial.
+How can you determine which distribution is the most suitable based on the sample mean and sample variance?;If the sample mean is less than the sample variance, a negative binomial distribution would likely fit the sample the best among the three distributions (Poisson, Binomial, and Negative binomial).
+Do you need to memorize the table of mean vs. variance for each distribution?;No, the table is not needed to be memorized as the inequalities are based on the mean and variance formulas of each distribution, which are given in the exam table.Question
+What is the slope for the Poisson distribution?;0
+What is the slope for the Binomial distribution?;-
+What is the slope for the Negative Binomial distribution?;+
+How can we determine the most appropriate distribution?;Calculate  for successive values of  and observe whether they are constant, decreasing, or increasing.
+How can we estimate  ?;We can estimate  as where  is the number of observed .
+What can we do to both the numerator and the denominator of  ?;We can multiply both the numerator and the denominator of  by .Question
+How can we determine the most appropriate distribution?;By comparing the sample mean and variance.
+Is the mean greater than the variance in this case?;Yes.
+Therefore, what distribution do we recommend for this data?;The binomial distribution.Question
+How do we determine the most appropriate distribution for the data?;We compare the sample mean and variance.
+What are the values of the sample mean and variance?;The values of the sample mean and variance are unknown.
+Can we confidently conclude that a binomial distribution is the best fit for the data?;No, we cannot confidently conclude that a binomial distribution is the best fit for the data.
+What should we try next?;We should try another distribution.question
+What is the expectation for the sample mean and variance?;They are not expected to be exactly equal.
+What should we be cautious of when comparing the sample mean and variance?;Making a decision too quickly when the values are unequal but close.Q
+What can we conclude if the ratio of sample mean to sample variance is around 1.00?;We can conclude that Poisson is the best fit.
+What should we do if the ratio is not around 1.00?;We should consider other probability distributions for our data.

@@ -1,0 +1,6 @@
+What is the purpose of using earned exposures in ratemaking?;In ratemaking, earned exposures are used to match premiums and loss experience.
+How does the extension of exposures method work in ratemaking?;The extension of exposures method involves recalculating the premiums of historical policies under the current rate level.
+What is the advantage of using the extension of exposures method?;The extension of exposures method is considered the most accurate current rate level method.
+Why do companies often not have all the necessary historical rating information for the extension of exposures method?;Companies often do not have all the necessary historical rating information to apply the extension of exposures method.
+What is the general process for pricing an insurance product?;Before an insurance policy is written, the underlying risk is evaluated and classified with different rating variables.
+What are some examples of rating variables used in insurance pricing?;Rating variables can be based on a person's attributes, such as age, gender, or occupation.What is the base cell for the gender rating variable?

@@ -1,0 +1,46 @@
+ question;answer
+What is the cumulative distribution function (CDF)?;The cumulative distribution function (CDF), often called the distribution function, of a random variable is the probability that the variable does not exceed a given value.
+What is the notation commonly used to represent the CDF?;The CDF is commonly denoted by one of the following: F(x), P(X ≤ x), or P(x).
+Why is the inequality used in the CDF definition "less than or equal to" or "not exceeding"?;This distinction is important for discrete distributions because the probability of a particular value may not be zero. In other words, for a discrete random variable, P(X = x) > 0. However, this distinction is not important for continuous random variables.Q: What is the CDF for continuous random variables? 
+A: The CDF is computed as a sum for discrete random variables and as an integral for continuous random variables.
+
+Q: What does the first derivative of the CDF return for continuous random variables? 
+A: The first derivative of the CDF returns the PDF.
+
+Q: What properties do all CDFs satisfy? 
+A: All CDFs, discrete or continuous, satisfy certain properties.
+
+Q: What is the survival function? 
+A: The survival function is the complement of the CDF.
+
+Q: How is the survival function commonly denoted? 
+A: The survival function is commonly denoted by one of the following.S2.1.2 CDFs, Survival Functions, and Hazard Functions - Learn F AM - Coaching Actuaries
+
+Question: What is the relationship between survival function and CDF?
+Answer: Survival function has a complementary relationship with the CDF.
+
+Question: Do we need to pay attention to the inequality sign when using survival function?
+Answer: Yes, we need to pay attention to its inequality sign.
+
+Question: Do both inequality signs produce the same continuous event?
+Answer: Yes, both inequality signs produce the same continuous event.
+
+Question: Is the same true for discrete distributions?
+Answer: No, the same is not true for discrete distributions.
+
+Question: Why is it important to use the correct inequality sign for discrete random variables?
+Answer: Using the correct inequality sign is important for discrete random variables.
+
+Question: What are the survival function formulas for discrete and continuous random variables?
+Answer: If the random variable is continuous, we can use the relationship between CDF and survival function to derive a relationship between the PDF and survival function.
+
+Question: What properties do all survival functions satisfy?
+Answer: All survival functions satisfy properties that mirror the CDF properties.
+
+Question: What is the hazard function?
+Answer: The hazard function is the ratio of the PDF of a random variable to its survival function.
+
+Question: What are some other names for the hazard function?
+Answer: Some other names for the hazard function are hazard rate and force of mortality.random variable; is usually denoted by
+By definition, it can be interpreted as the PDF evaluated at [x], adjusted for how likely the random variable is greater than [x]. Thus, it measures the likelihood of the random variable at [x] by inflating the PDF as the random variable becomes less likely to exceed [x]. Just like the PDF, [x] is not a probability. Therefore, a hazard function can exceed 1.
+Integrating the hazard function produces the cumulative hazard function, which is often denoted [H(x)] or [H(x)]. Substituting [x] into the cumulative hazard function definition will produce a handy relationship between [H(x)] and [x].

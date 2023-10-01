@@ -1,0 +1,56 @@
+ Question: What is the ratemaking approach covered on this exam?
+Answer: Manual rating
+
+Question: How are risks grouped together in manual rating?
+Answer: Risks with similar characteristics are grouped together.
+
+Question: How are rates calculated in manual rating?
+Answer: Rates are calculated based on the estimated future losses of the group.
+
+Question: Does manual rating use specific loss experiences of individual insureds to determine the premium?
+Answer: No, it does not.
+
+Question: What is the first step of the manual rating approach?
+Answer: Calculating the indicated overall average rate and rate change.
+
+Question: What does the term "indicated" refer to in ratemaking?
+Answer: "As indicated by the data".
+
+Question: What does an indicated average rate change of +10% mean?
+Answer: It means based on the study of the data, there is an average rate change of +10%.1. What are the essential objectives of ratemaking?
+- Rates must cover expected losses and expenses.
+- Rates must make adequate provisions for contingencies.
+- Rates must encourage loss control.
+
+2. What does it mean for rates to be adequate both on a per-class basis and for the whole book?
+- Rates should be sufficient to cover expected costs for each cohort of policyholders and for the entire book of business.
+
+3. Why should rates be high enough to cover unexpected costs?
+- Rates should provide a buffer to cover unexpected expenses and contingencies.
+
+4. What is the purpose of structuring rates to encourage loss control?
+- Rates should incentivize policyholders to take measures to prevent or reduce losses.question: Why do insurance companies offer discounts for safe drivers and good students?
+answer: to incentivize lower-risk behaviors and reduce accidents and injuries
+
+question: What do regulators require rates to be?
+answer: adequate, not excessive, and not unfairly discriminatory
+
+question: What may regulators do if a rate change is deemed inappropriate or based on subjective methods?
+answer: refuse to allow the rate change
+
+question: Why is it important for an actuary to support proposed rate changes with data and documentation?
+answer: to provide evidence and justification for the rate changes
+
+question: Why should rates be reasonably stable?
+answer: to reduce skepticism among consumers
+
+question: How can insurers spread out the effects of large losses over time?
+answer: by utilizing reinsurance
+
+question: How should rates respond to changes in rate regulations?
+answer: they should be adjusted for quickly
+
+question: Why should rates be simple and easy to understand?
+answer: to make it easier for consumers to understandWhy is it important for policyholders to understand why a rate would increase or decrease?;It helps prevent policyholder dissatisfaction and loss of trust in the insurance company.
+Why is maintaining a complex system expensive?;It requires more resources for maintenance and updates.
+Why is a complex system difficult to "sell" to stakeholders?;It may be harder to explain and justify the value of the product to senior management, regulators, agents, etc.

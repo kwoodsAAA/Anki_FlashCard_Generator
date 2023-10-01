@@ -1,0 +1,22 @@
+ Question: What is the method used for calculating Limited Expected Values?
+Answer: Survival Function Method
+
+Question: Where can you find more details about Limited Expected Values?
+Answer: Section S2.1 Appendix
+
+Question: What is the method used for calculating Payment Per Loss Moments for Ordinary Deductible?
+Answer: Survival Function Method
+
+Question: Where can you find more details about Payment Per Loss Moments for Ordinary Deductible?
+Answer: Section S2.1 Appendix
+
+Question: What is the Ultimate Formula for calculating payment per loss for a policy with deductible, policy limit, and coinsurance?
+Answer: Payment per loss = (Policy Limit - Deductible) * (1 - Coinsurance)
+
+Question: What is the formula for calculating the expected payment per loss?
+Answer: Expected payment per loss = Payment per loss * Survival Probability
+
+Question: What is the Ultimate Formula for calculating payment per loss for inflated losses?
+Answer: Payment per loss = (Policy Limit - Deductible) * (1 - Coinsurance) * Inflation Factor1. What is the link for the "Learn F AM" section on Coaching Actuaries?; https://account.coachingactuaries.com/fam/learn/4915/5059/36038 4/5
+2. What is the link for the "Appendix" section on Coaching Actuaries?; https://account.coachingactuaries.com/fam/learn/4915/5059/36038 5/5
+3. What is the expected payment per loss?; With a little manipulation, 9/30/23, 7:16 PM

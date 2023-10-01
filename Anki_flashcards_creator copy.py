@@ -30,12 +30,12 @@ def divide_text(text, section_size):
     return sections
 
 # Create Anki cards
-def create_anki_cards(pdf_text,pdf_name):
+def create_anki_cards(pdf_text,):
     # Limit the number of prompts to avoid excessive API usage
 
     SECTION_SIZE = 1000
     divided_sections = divide_text(pdf_text, SECTION_SIZE)
-    text = divided_sections[0]
+    # text = divided_sections[0]
     generated_flashcards = ' '
     for i, text in enumerate(divided_sections):
     
@@ -46,10 +46,10 @@ def create_anki_cards(pdf_text,pdf_name):
             ]
 
         response = openai.ChatCompletion.create(
-                model="gpt-3.5-turbo",
+                model="gpt-4",
                 messages=messages, 
                 temperature =0.7,
-                max_tokens=2000
+                max_tokens=2048
             )
 
         response_from_api = response['choices'][0]['message']['content']#.strip()
@@ -59,33 +59,16 @@ def create_anki_cards(pdf_text,pdf_name):
         #     break
 
     # # Save the cards to a text file
-    # with open("flashcards.txt", "w") as f:
-    #     f.write(generated_flashcards)
-
-    base_name = os.path.splitext(pdf_name)[0]
-    flashcard_file_path = os.path.join(ROOT_DIRECTORY, f"{base_name}_flashcards.txt")
-
-    with open(flashcard_file_path, "w", encoding="utf-8") as f:
+    with open("flashcards.txt", "w") as f:
         f.write(generated_flashcards)
 
 
 # Main script execution
 if __name__ == "__main__":
 
-    source_directory = f'{ROOT_DIRECTORY}/SOURCE_DOCUMENTS'
+    pdf_text = read_pdf(f'{ROOT_DIRECTORY}/SOURCE_DOCUMENTS/SOURCE_DOCUMENTS/2023_09_30_67eef46068528c405a3bg.tex')
     
-    # Get a list of all files in the SOURCE_DOCUMENTS directory
-
-    all_files = os.listdir(source_directory)
-    
-    # Filter out only the PDF files
-    pdf_files = [file for file in all_files if file.endswith('.pdf')]
-    
-    # Iterate over each PDF file, read its content, and create Anki cards
-    for pdf_file in pdf_files:
-        pdf_path = os.path.join(source_directory, pdf_file)
-        pdf_text = read_pdf(pdf_path)
-        create_anki_cards(pdf_text,pdf_file)
+    create_anki_cards(pdf_text)
 
 
 

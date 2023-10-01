@@ -1,0 +1,89 @@
+ question: How can we model the aggregate payment?
+answer: There are two ways to model the aggregate payment.
+
+question: What is the first way to model the aggregate payment?
+answer: The first way is to consider all losses and sum the resulting payment amounts, even if the payment amounts are 0.
+
+question: What is the notation for the aggregate model?
+answer: The notation for the aggregate model is "S".
+
+question: What is the second way to model the aggregate payment?
+answer: The second way is to only consider losses that result in positive payments and sum the payment amounts.
+
+question: What is the key to ensuring consistency in frequency and severity?
+answer: The key is to make sure the frequency and severity are consistent, either both in terms of losses or both in terms of payments.Question: What is the aggregate payment model?
+Answer: The aggregate payment model is no different than the aggregate loss model. Instead of summing the losses, we sum the payments. Therefore, the compound mean and variance formulas still hold.
+
+Question: Give an example of the aggregate payment model.
+Answer: A policyholder has a 30% chance to incur a loss each year. In the event of a loss, the amount has the following distribution: 100 (0.4), 200 (0.3), 500 (0.3). Each loss is subject to a deductible of 150. The number of losses and the loss amounts are mutually independent.
+
+Question: How do we calculate the variance of the amount the insurer pays the policyholder in a year?
+Answer: We can calculate the mean and variance of the aggregate payments using the number of losses and payment per loss approach.question;answer
+Calculate the mean and variance of the number of losses.;Mean: ?, Variance: ?
+Calculate the mean and variance of the payment per loss.;Mean: ?, Variance: ?
+What is the formula for calculating the variance of aggregate payments?;Variance = ?
+How can we calculate the mean and variance of the aggregate payments using the number of payments and payment per payment approach?;?
+How do we construct the number of payments distribution?;?
+When will there be no payment?;When there is no loss or when the loss is less than the deductible.
+When will there be 1 payment?;When there is a loss that exceeds the deductible.
+Calculate the mean and variance of the number of payments.;Mean: ?, Variance: ?
+How do we construct the payment per payment distribution?;?
+Calculate the mean and variance of the payment per payment distribution.;Mean: ?, Variance: ?Calculate the mean and variance of the payment per payment:
+Mean: 25 * ((55+5)/2) = 700
+Variance: ((55-5)^2)/12 = 400
+
+Calculate the variance of aggregate payments:
+Variance = 25 * 400 = 10,000
+
+Using the normal approximation, determine the probability that an aggregate payment does not exceed 110% of the expected aggregate payment:
+Mean: 25 * 700 = 17,500
+Standard deviation: sqrt(10,000) = 100
+Z-Score: (1.1 * 17,500 - 17,500) / 100 = 0.1
+Probability: 1 - P(Z <= 0.1) = 0.4602Question: What is the formula to calculate the mean and variance of aggregate payment?
+Answer: Substitute into the formulas to calculate the mean and variance of the aggregate payment.
+
+Question: What is the alternative approach to calculate the mean and variance of aggregate payments?
+Answer: We can also calculate the mean and variance of the aggregate payments using the number of payment and payment per payment approach.
+
+Question: What can be split into two independent categories in the example?
+Answer: The claims can be split into two independent categories: those that exceed the deductible and those that don't.
+
+Question: What is the property of the sum of independent Poisson random variables?
+Answer: The sum of independent Poisson random variables is a Poisson random variable.
+
+Question: What is the reverse property of the sum of independent Poisson random variables?
+Answer: The reverse is also true.Question: What distribution does the number of claims that don't exceed the deductible follow? 
+Answer: Poisson distribution with mean.
+
+Question: What distribution does the number of claims that exceed the deductible follow? 
+Answer: Poisson distribution with mean.
+
+Question: What distribution does the payment per payment follow? 
+Answer: Uniform distribution.
+
+Question: How do you calculate the mean and variance of the payment per payment? 
+Answer: Using the formulas for mean and variance.
+
+Question: How do you calculate the mean and variance of the aggregate payment? 
+Answer: Substitute the values into the formulas.
+
+Question: Are the mean and variance of the aggregate payment the same as those calculated using the previous approach? 
+Answer: Yes.
+
+Question: How do you calculate the desired probability? 
+Answer: Calculate it using the appropriate method.
+
+Question: What is the coach's remark? 
+Answer: The coach's remark is not provided.1. What concept is not applicable to the other class distributions?;The concept of splitting the Poisson distribution
+2. What is the only option if the example had a binomial or negative binomial loss frequency?;To use the number of losses and payment per loss approach
+3. What is the average number of claims per year for the auto insurance policy?;300
+4. Are the number of claims and amount of each claim mutually independent?;Yes
+5. What is the policy limit for each claim?;10
+6. What is the expected insurance payment in a year?;Solution not providedQ: What is the limited moments formula?
+A: The limited moments formula is used to calculate the expected payment per claim.
+
+Q: What is the expected insurance payment in a year?
+A: The expected insurance payment in a year is the aggregate insurance payment.
+
+Q: Where can I find more information about aggregate payments in the Coaching Actuaries course?
+A: You can find more information about aggregate payments in the Coaching Actuaries course under the section "S2.5.5 Aggregate Payments" in the "F AM" module.

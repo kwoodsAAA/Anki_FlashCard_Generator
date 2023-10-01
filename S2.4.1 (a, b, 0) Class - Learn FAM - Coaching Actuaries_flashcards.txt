@@ -1,0 +1,82 @@
+ Q: What is the PMF of a Poisson distribution with mean λ? 
+A: The PMF is given by P(X=k) = (e^(-λ) * λ^k) / k!
+
+Q: What is a key property of the Poisson distribution? 
+A: The mean equals the variance.
+
+Q: What is the sum of independent Poisson random variables? 
+A: The sum follows a Poisson distribution with mean equal to the sum of the means of the individual variables.question: What is a Poisson process?
+answer: The counting of occurrences.
+question: What is a Poisson distribution?
+answer: The number of occurrences.
+question: What is a binomial distribution?
+answer: A distribution with parameters n and p, where n is the number of independent trials and p is the probability of an event of interest occurring in each trial.
+question: What is the PMF of a binomial distribution?
+answer: P(X=k) = (n choose k) * p^k * (1-p)^(n-k)
+question: What is the mean of a binomial distribution?
+answer: Mean = n * p
+question: What is the variance of a binomial distribution?
+answer: Variance = n * p * (1-p)
+question: Can the sum of independent binomial random variables with the same parameter be a binomial random variable?
+answer: Yes.1. What is a Bernoulli distribution?; A binomial distribution with p=1.
+2. What are the simplified PMF, mean, and variance of a Bernoulli distribution?; PMF: p^x * (1-p)^(1-x), mean: p, variance: p*(1-p).
+3. What is the relationship between a binomial distribution and a sum of i.i.d. Bernoulli random variables?; The sum of i.i.d. Bernoulli random variables follows a binomial distribution with parameters n and p.
+4. What is a negative binomial distribution?; A distribution that models the number of failures before a specified number of successes in a series of independent Bernoulli trials.
+5. What is the PMF of a negative binomial distribution?; PMF: C(r+x-1, r) * p^r * (1-p)^x.
+6. What is the alternative expression for the PMF of a negative binomial distribution?; The PMF given in the exam table might not be intuitive. Some students prefer the following expression.
+7. What is the mean and variance of a negative binomial distribution?; Mean: r/p, variance: r(1-p)/p^2.
+8. What is the relationship between a sum of independent negative binomial random variables with the same parameter?; The sum is also a negative binomial distribution with the same parameter.Question: What is a geometric distribution?
+Answer: A geometric distribution is a negative binomial distribution with parameters p and r.
+
+Question: What is the PMF, mean, and variance of a geometric distribution?
+Answer: The PMF, mean, and variance of a geometric distribution are simplified to 9/30/23, 7:16 PM S2.4.1 (a, b, 0).
+
+Question: What is the sum of i.i.d geometric random variables?
+Answer: The sum of i.i.d geometric random variables follows a negative binomial distribution with parameters p and r.
+
+Question: What is the memoryless property of the geometric distribution?
+Answer: The memoryless property states that for a geometric distribution, the probability of an event occurring in the future does not depend on how long it has been since the last event occurred.
+
+Question: What is an example of the memoryless property of the geometric distribution?
+Answer: An insured owns 3 cars in Year 1 and 4 cars in Year 2. Each car has a 10% chance of getting into an accident, and can only get into at most 1 accident per year. The car accidents are independent of each other.
+
+Question: What is the probability that the insured gets into at most 1 accident in two years?
+Answer: The probability can be calculated using the geometric distribution.question: What is the formula for the desired probability?
+answer: The formula for the desired probability is 
+
+question: What property do the discrete distributions introduced above belong to?
+answer: The discrete distributions introduced above belong to the "class" distribution.
+
+question: What are the signs of α and β for the Poisson distribution?
+answer: The signs of α and β for the Poisson distribution are 0 and +, respectively.
+
+question: What are the signs of α and β for the Binomial distribution?
+answer: The signs of α and β for the Binomial distribution are - and +, respectively.
+
+question: What are the signs of α and β for the Negative Binomial distribution?
+answer: The signs of α and β for the Negative Binomial distribution are + and +, respectively.Q: For a class distribution, what is the mean? 
+A: Calculate the mean of the distribution.
+Q: What is the relationship used to form two equations? 
+A: Use this relationship to form two equations.
+Q: How do you solve for a and b? 
+A: Solve for a and b.
+Q: What distribution is the negative binomial distribution? 
+A: The distribution is negative binomial.
+Q: How do you determine the values of the parameters? 
+A: Use the formulas provided in the exam table to determine the values of the parameters.
+Q: What is the mean of the negative binomial distribution? 
+A: The mean of the negative binomial distribution is Poisson-Gamma Mixture.
+Q: How can a negative binomial distribution be created? 
+A: One way to create a negative binomial distribution is by mixing Poisson distributions.Let's apply the Poisson-gamma mixture in an example.;Example S2.4.1.3
+The annual number of claims per insured follows a Poisson distribution with mean;varies from insured to insured. The insurance company believes that follows an exponential distribution with mean 4.;Calculate the probability that:;Solution to (1)
+Let be the annual number of claimquestion;answer
+What is an exponential distribution a special case of?;A gamma distribution.
+What is a negative binomial distribution with r equivalent to?;A geometric distribution.
+What is the probability that an insured selected at random will file exactly 1 claim next year?;The desired probability.
+What is the probability that an insured, who is believed to have an average number of claims of 4 per year, will file exactly 1 claim next year?;The desired probability.
+How can the probability be calculated using the Law of Total Probability?;By calculating the probability for each possible scenario and summing them up.
+What kind of frequency model does an insured have if they are given the mean number of claims they have?;A frequency model.What is the formula for calculating the Poisson distribution?;P(x) = (e^-λ * λ^x) / x!
+What does each term in the formula represent?;P(x) represents the probability of getting exactly x events, e is the base of the natural logarithm, λ is the average rate of events occurring in a given time period, x is the actual number of events that occur in that time period, and x! represents the factorial of x.
+What are the assumptions of the Poisson distribution?;The assumptions are that events occur independently of each other, the average rate of events remains constant over time, and the probability of more than one event occurring in an infinitesimally small time interval is negligible.
+Can the Poisson distribution be used to calculate the probability of a specific number of events occurring within a fixed time period?;Yes, the Poisson distribution is often used to calculate the probability of a specific number of events occurring within a fixed time period.
+What is the mean and variance of the Poisson distribution?;The mean of the Poisson distribution is equal to λ, and the variance is also equal to λ.

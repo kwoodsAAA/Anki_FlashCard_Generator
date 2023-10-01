@@ -1,0 +1,217 @@
+ Q: What is automobile insurance?
+A: Automobile insurance, or auto insurance for short, is one of the most common types of insurance in the industry.
+
+Q: What are the standard coverages in auto insurance?
+A: The standard coverages in auto insurance are:
+- Liability Insurance
+- Medical Benefits
+- Uninsured & Underinsured Motorist Coverage
+- Collision & Other than Collision
+
+Q: Who sets the requirements for insurance coverages in the U.S.?
+A: Each U.S. state sets its own requirements for insurance coverages.
+
+Q: Which coverages are mandatory for automobile owners in most states?
+A: In most states, Liability Insurance (Section A) and Medical Benefits (Section B) coverages are mandatory for automobile owners.
+
+Q: What are financial responsibility limits?
+A: Financial responsibility limits describe the minimum amount of coverage needed as set by the state.
+
+Q: What coverage is required for a financed vehicle?
+A: If the vehicle is being financed, most financial institutions also require Collision & Other than Collision (Section C) coverage.
+
+Q: Who are the insured parties under auto insurance?
+A: The insured parties under auto insurance are the policyholder named in the declarations and his/her immediate family members.
+
+Q: Is coverage usually extended to anyone else?
+A: Usually, coverage is not extended to anyone else.Question: What is Section A of liability insurance?
+Answer: Section A is usually known as third-party liability.
+
+Question: What does Section A provide indemnification for?
+Answer: Section A provides indemnification to the third party (innocent party) for an accident if the insured is liable.
+
+Question: What does BI stand for in Section A?
+Answer: BI stands for bodily injury.
+
+Question: What does PD stand for in Section A?
+Answer: PD stands for property damage.
+
+Question: Under what circumstances will the insurer not pay for an accident?
+Answer: The insurer will not pay if the accident is caused intentionally by the insured or if the accident is covered under workers compensation.1. What does PD coverage pay for?
+Answer: PD coverage pays for the costs associated with repairing or replacing property of the third party.
+
+2. What does Section A provide coverage for?
+Answer: Section A provides third-party coverage.
+
+3. Does Section A provide compensation for the insured's BI and PD?
+Answer: No, Section A does not provide compensation for the insured's BI and PD. For those coverages, see Sections B and C.
+
+4. What does the insurer provide if the insured is sued?
+Answer: If the insured is sued, the insurer will provide legal defense for the insured, if the dispute is not settled out of court.
+
+5. What happens if the courts decide that the insured is liable?
+Answer: If the courts decide that the insured is liable, the insurer will pay the assessed damages subject to the policy limit.
+
+6. Do legal defense costs contribute to the policy limit?
+Answer: No, legal defense costs do not contribute to the policy limit.
+
+7. Can the insurer choose to stop providing legal defense?
+Answer: Yes, the insurer can choose to stop providing legal defense if the policy limit is reached.
+
+8. Is liability coverage mandatory in almost all jurisdictions?
+Answer: Yes, liability coverage is mandatory in almost all jurisdictions.
+
+9. Do some jurisdictions specify the minimum level of coverage a driver must have?
+Answer: Yes, some jurisdictions do specify the minimum level of coverage a driver must have.Question: What are split limits in insurance coverage?
+Answer: Split limits are separate limits for bodily injury and property damage coverage.
+
+Question: How are split limits specified in insurance policies?
+Answer: Split limits can be specified on a per-person basis, per-occurrence basis, or both.
+
+Question: What is an example of split limits in a liability coverage policy?
+Answer: An example of split limits is $50,000 per person and $100,000 per accident for bodily injuries, and $10,000 per accident for property damages.
+
+Question: Why is it advisable to purchase higher levels of bodily injury coverage?
+Answer: It is advisable to purchase higher levels of bodily injury coverage because these claims can run into millions of dollars, and the liable party's personal assets may be demanded for payment by the courts.
+
+Question: What factors determine the premium charged to the insured?
+Answer: Factors such as limit of coverage, garage location, use of vehicle (business vs. pleasure), accidents/violations/claims history, and personal attributes like age and gender determine the premium charged to the insured.1. What is Section B in auto insurance known as in a tort jurisdiction?
+Answer: Medical payments (MP)
+2. What is Section B in auto insurance known as in a no-fault jurisdiction?
+Answer: Personal injury protection (PIP)
+3. What is Section B in auto insurance known as in Canada?
+Answer: Accident benefits
+4. What types of benefits does Section B provide?
+Answer: Income replacement, medical care, and rehabilitation
+5. Who are the beneficiaries of the benefits provided by Section B?
+Answer: The insured and family members
+6. Is Section B considered first-party coverage or third-party coverage?
+Answer: First-party coverage
+7. What triggers the coverage of Section B?
+Answer: Being injured during an accident
+8. Will Section B coverage be triggered if the insured receives benefits from workers' compensation?
+Answer: No
+9. Are property damages covered under Section B?
+Answer: No
+10. How are third-party bodily injury (BI) and medical payments disbursed in the U.S.?
+Answer: It depends on the jurisdiction of each state.What are the two jurisdictions for determining fault in an accident?;At-Fault (Tort) and No-Fault
+Under which jurisdiction does the injured party need to prove that the other party is at fault to receive compensation?;At-Fault (Tort)
+Under which jurisdiction does the injured party not need to sue or prove fault to receive compensation?;No-Fault
+What is the alternative name for the at-fault system?;Tort system
+Under which jurisdiction are disputes more likely to be settled in court?;At-Fault (Tort)
+Under which jurisdiction does the injured party receive compensation under their own PIP coverage?;No-FaultWhat is the benefit of Section B coverage in a tort jurisdiction?
+If you're at-fault in an accident and get injured, you're insured up to the policy limit.
+If you're not at-fault and are injured, your insurer will cover your medical expenses up the policy limit while fault is being legally established, you are waiting for compensation from the at-fault party, etc.
+
+What is the limitation of medical payments in a no-fault jurisdiction?
+Your medical payments will be limited to your PIP coverage.
+
+Can a policyholder file a medical payments claim regardless of fault or jurisdiction?
+Yes.
+
+In a no-fault jurisdiction, which coverage (Section A or Section B) is more important in terms of medical payments?
+Section B coverage is more important than Section A.
+
+In a tort system, which coverage (Section A or Section B) is more important in terms of medical payments?
+Section A coverage is more important than Section B.
+
+What type of system is practiced in Canada?
+All provinces practice some form of no-fault system.1. What is threshold no-fault insurance?;Threshold no-fault insurance operates similarly to a regular no-fault system, but the injured party can sue the at-fault party for compensation if the cost of injuries exceeds a specified threshold.
+2. What is a government monopoly in auto insurance?;In certain provinces, the government has a monopoly on auto insurance, meaning they are the sole provider. Fault is still determined, but it does not impact the financial aspect as there is only one payer.
+3. What is the purpose of uninsured & underinsured motorist coverage?;Uninsured & underinsured motorist coverage protects the insured and their family members from unidentified, underinsured, or uninsured motorists in the event of an accident.Question: Under what section is the insured covered by their own insurer for the amount that the liable motorist is personally responsible for?
+Answer: Section C
+
+Question: What does Collision coverage indemnify the insured for?
+Answer: Damage to a covered auto caused by colliding with an object
+
+Question: What options does the insurer have in the case of a collision?
+Answer: Pay the insured the loss or pay to repair or replace the vehicle
+
+Question: How does the insurer determine the amount to pay in a collision claim?
+Answer: They choose the less expensive option, known as the collision limit
+
+Question: Can the policyholder file a collision claim regardless of who is at fault?
+Answer: Yes
+
+Question: What happens if the insured is at-fault in a collision?
+Answer: Their car will be repaired or replaced
+
+Question: What happens if the insured is not at-fault in a collision?
+Answer: The insurer will repair or replace the policyholder's vehicle and then seek compensation from the guilty party
+
+Question: What does Other Than Collision (OTC) coverage provide protection for?
+Answer: Damage to the insured's vehicle caused by events other than collisionQ: What is Comprehensive Coverage?
+A: Comprehensive coverage is when coverage is provided for all perils except those typically excluded.
+
+Q: What is Specified Perils Coverage?
+A: Specified perils coverage is when coverage is only provided for specific perils listed on the policy.
+
+Q: What perils are generally excluded under Comprehensive Coverage?
+A: Examples of perils that are generally excluded under comprehensive coverage include war, acts of terrorism, wear and tear, road damage to tires, and radiation contamination.
+
+Q: What factors may impact the premium for coverage?
+A: Some factors that may impact the premium for coverage include personal attributes of the insured, events that result in claims, and different pricing models used by insurers.Question: What is subrogation?
+Answer: Subrogation is the ability of the insurer to assume their insured's rights to sue an at-fault party to recover indemnification costs.
+
+Question: How does subrogation affect premiums?
+Answer: Subrogation tends to lower premiums for collision coverage, but raise premiums for liability coverage.
+
+Question: What happens if the recovered cost is higher than the indemnification given to the insured?
+Answer: If the recovered cost is higher than the indemnification given to the insured, the difference must be paid to the insured. Insurers are not allowed to profit from subrogation.
+
+Question: What is salvage?
+Answer: Salvage is the process where the insurer takes ownership of a vehicle to recover any remaining value after indemnifying the full value of the vehicle.
+
+Question: What does the insurer typically do with a salvaged vehicle?
+Answer: The insurer typically sells the salvaged vehicle to a salvage vendor.
+
+Question: Why does the insurer salvage a vehicle?
+Answer: The insurer salvages a vehicle to recover any remaining value after indemnifying the full value of the vehicle.Q: What is the purpose of subrogation in automobile insurance?
+A: Subrogation allows insurance companies to recover costs from a third party responsible for the damages.
+
+Q: Can insurance companies profit from subrogation?
+A: No, insurance companies are not allowed to profit from subrogation.
+
+Q: What happens if the salvage value exceeds the indemnification?
+A: Insurers are required to pay the insured the difference in excess of the full value.
+
+Q: What coverages do Trudy and Courtney have on a per-accident basis?
+A: Trudy has $100,000 Third Party Liability Coverage, $5,000 Medical Payments Coverage, and $20,000 Uninsured/Underinsured Motorists Coverage. Courtney has $200,000 Third Party Liability Coverage, $10,000 Medical Payments Coverage, and $40,000 Uninsured/Underinsured Motorists Coverage.
+
+Q: What is the deductible for collision coverage?
+A: The deductible for collision coverage is $0.
+
+Q: Who is at fault in the car accident between Trudy and Courtney?
+A: Trudy is at fault in the car accident with Courtney.question: Who is at fault in this scenario?
+answer: Trudy
+
+question: What are Trudy's damages?
+answer: $45,000
+
+question: What is Trudy's limit of liability coverage?
+answer: $100,000
+
+question: How much will Truckers Insurance Company pay to Courtney?
+answer: $100,000
+
+question: How much is Trudy responsible for?
+answer: $35,000
+
+question: How much coverage does Trudy have for medical payments?
+answer: $5,000
+
+question: How much will Trudy receive for medical payments?
+answer: $5,000Question: What is the amount of Third Party Liability Coverage that Truckers Insurance will pay to Trudy and Courtney?
+Answer: $100,000
+
+Question: What is the amount of Medical Payments Coverage that Truckers Insurance will pay to Trudy?
+Answer: $5,000
+
+Question: What is the amount of Uninsured/Underinsured Motorists Coverage that Truckers Insurance will pay to Trudy and Courtney?
+Answer: -
+
+Question: What is the amount of Collision Coverage for Damage to Auto that Truckers Insurance will pay to Trudy?
+Answer: $10,000
+
+Question: What is the total amount that Truckers Insurance will pay to Trudy and Courtney?
+Answer: $115,000

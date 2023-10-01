@@ -1,0 +1,29 @@
+How do you calculate the indicated overall average rate or rate change?;Let's go back to the fundamental insurance equation and solve for the indicated premium.
+What does the indicated premium include?;The indicated premium includes both losses and loss adjustment expenses (LAE).
+How do you solve the equation for the indicated premium?;You can solve the equation by dividing the indicated premium by the permissible loss ratio.
+What are the two ways to proceed from this point depending on the available data?;The two ways to proceed are the loss ratio method 1 and the loss ratio method 2.Question
+Why is it called the loss ratio method?;This formula uses , or the loss ratio, which is why this is called the loss ratio method.
+What is the formula used for the pure premium method?;Let  be the number of exposures. If we divide  by , we will have
+Why is it called the pure premium method?;This method is called the pure premium method because  is the pure premium, or loss per exposure.Question
+Is the indicated average rate change associated with a specific rating variable?;No, it is the overall average rate change across all rating variables.
+What are the given values for the calculation?;Premium at current rate level = 120,000; Projected loss and loss adjustment expenses = 74,000; Projected number of exposures = 1,000; Variable expense ratio = 20%; Fixed expenses per exposure unit = 25; Target profit and contingencies = 5%; Current average rate = 120.
+What is the indicated average rate change under the loss ratio method?;9/30/23, 6
+What is the indicated average rate under the pure premium method?;The indicated average rate is not provided in the given information.question;Apply under the pure premium method. The indicated average rate is
+What are the on-level factors for each calendar year?;2015 - 1.0775; 2016 - 1.0538; 2017 - 1.0244
+What are the earned premiums at the current rate level for each calendar year?;2015 - $1,209; 2016 - $1,217; 2017 - $1,312
+What are the loss ratios for each calendar year?;2015 - 0.9098; 2016 - 0.8746; 2017 - 0.7786
+What is the projected loss ratio for the forecast period?;Average of the loss ratios
+What is the equation used to calculate the average rate using the pure premium method?;The equation used to calculate the average rate is given by
+What is the first step in calculating the projected pure premium?;The first step is to calculate the average loss occurrence date for every experience period and the forecast period.
+What is the average loss occurrence date for AY2016?;The average loss occurrence date for AY2016 is July 1, 2016.
+What is the average loss occurrence date for AY2017?;The average loss occurrence date for AY2017 is July 1, 2017.
+What is the average loss occurrence date for the forecast period?;The average loss occurrence date for the forecast period is April 1, 2020.
+How do you calculate the trended ultimate losses?;The trended ultimate losses can be calculated by multiplying the ultimate losses by the trend factor.
+What is the trend factor for AY2016?;The trend factor for AY2016 is
+What is the trend factor for AY2017?;The trend factor for AY2017 is
+What is the trended pure premium for AY2016?;For AY2016, the trended pure premium is 427.79.
+What is the trended pure premium for AY2017?;For AY2017, the trended pure premium is [answer not provided].
+What is Step 4 in the process?;Then, the projected pure premium is the weighted average of the trended pure premiums.
+What is Step 5 in the process?;Finally, the indicated premium per exposure is [answer not provided].
+How can we calculate the trended pure premiums?;Instead of trending the ultimate losses and then calculating the pure premiums, we can also calculate and then trend the pure premiums. Divide the ultimate losses by the earned exposures to calculate the pure premium. Then, calculate the trended pure premium by applying the trend factor. The results will be identical.
+What is the pure premium for AY2016?;For AY2016, the pure premium is 404.39.

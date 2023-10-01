@@ -1,0 +1,15 @@
+What are the two most important functions that property/casualty (P&C) actuaries perform?;Loss reserving and ratemaking.
+What is a case reserve?;An estimate of the remaining amount of money needed to ultimately settle a claim.
+What is incurred loss?;The sum of paid losses and the current case reserve.
+What are paid losses?;Loss amounts that have already been paid to claimants.
+When did the claim occur in the example given?;On 11/2/CY1.
+When was the claim reported to the agent in the example given?;On 3/14/CY2.
+When did the insurer become aware of the claim in the example given?;Almost 8 months after it occurred, on 6/27/CY2.1. What was the initial case reserve for the claim?
+What is the total of these four components called?;Gross IBNR reserve or bulk reserve
+What does the approach to estimating reserves aim to illustrate?;The concept of loss reserves and what should go into them
+How are loss reserves calculated in these methods?;By projecting ultimate losses and subtracting losses paid-to-date
+What is the ultimate loss?;The total amount the insurer eventually pays to close a claim
+What was the ultimate loss in the previous example?;285,000
+How is the loss reserve set?;As the projected ultimate losses minus losses paid-to-dateQuestion
+What is the case reserve?;The reserve set for claims that have been reported.
+What are the three basic methods of loss reserving?;Expected loss ratio method, Chain-ladder method, Bornhuetter-Ferguson method.

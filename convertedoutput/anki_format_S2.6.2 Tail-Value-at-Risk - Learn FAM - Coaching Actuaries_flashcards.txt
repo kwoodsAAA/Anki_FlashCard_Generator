@@ -1,0 +1,23 @@
+What is the Tail-Value-at-Risk (TVaR) or the conditional tail expectation (CTE) of a continuous random variable at the 100 % security level?;The TVaR or CTE is the conditional expected value given that the random variable exceeds its VaR at the 100 % level.
+How can we express the TVaR in terms of the mean excess loss?;To avoid integration, we can express the TVaR in terms of the mean excess loss introduced in Section S2.3.
+Why is the mean excess loss useful?;It is useful because the VaR formula for most distributions is already included in the exam table.
+How does the TVaR help actuaries study extreme losses?;Similar to VaR, the TVaR helps actuaries study extreme losses by providing information about the average loss amount for losses greater than a certain VaR.
+Can you provide an example of TVaR?;Sure! For example, if the TVaR at the 95% security level is 5,000, it means that for losses greater than its 95% VaR, the average loss amount is 5,000.
+What is the purpose of working on examples?;Working on examples helps to better understand and apply the concepts discussed.
+Can you provide an example for further practice?;Certainly! Let's consider an example of a random variable with a given density function.Loss amount;Solution to (2)
+Why can't we use the CDF to calculate the TVaR?;The question does not provide the full distribution function, so the CDF cannot be used because it requires the PDF.
+What should we use instead of the CDF?;Apply the concept of limited expected values.
+What is the definition of TVaR?;TVaR is the value of a random variable that produces a specific probability level.
+How can we compute the TVaR using limited expected values?;Compute the expected value of the random variable beyond the desired probability level.
+What is the shortcut for calculating TVaR for a lognormal distribution?;The exam tables do not provide the formula for TVaR of a lognormal distribution, but we can derive a shortcut using limited expected values.question
+The advantage of using  is that this formula does not require the calculation of . Therefore, while  can still be used, we recommend memorizing  to speed up calculations.;9/30/23, 7
+If  is normal with parameters  and , then;where  is the PDF of a standard normal distribution. Do not confuse  with , which is the CDF of a standard normal. The derivation is provided in the appendix at the end of this section.
+Example S2.6.2.3 follows a distribution with the density function;Calculate .Question
+What are the parameters of the lognormal distribution?;mu and sigma.
+What formula is used to calculate the Tail-Value-at-Risk (TVaR)?;The formula is not mentioned.
+How can the problem be solved?;It can be solved using an alternative solution.
+What should be solved for first in the alternative solution?;Solve for mu.
+What is the goal of the problem?;The goal is to compute each component using the exam table formulas.
+What is the value of mu as calculated in the first solution?;The value is not provided.
+How is the value of sigma calculated?;The calculation method is not mentioned.
+What is the value of the 85th percentile of the random variable?;The value is 165.553.

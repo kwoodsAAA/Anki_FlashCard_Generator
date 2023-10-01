@@ -1,0 +1,28 @@
+What distribution does the aggregate loss follow when using the normal approximation?;The aggregate loss follows a normal distribution with mean 1,500 and variance 450,000.
+How do we calculate the desired probability?;Calculate the desired probability using the normal distribution.
+When using a continuous distribution to approximate a discrete distribution, what correction do we need to apply?;We need to apply continuity correction.
+Why should we always use continuity correction when approximating a discrete quantity with a continuous distribution?;We should always use continuity correction to ensure accurate results.Q
+When is the aggregate loss model considered discrete?;The aggregate loss model is considered discrete when both the frequency and severity models are discrete.
+What is the example provided in the text?;The example provided in the text is about determining the probability that a certain variable equals 5 using the normal approximation.
+Why is approximating with the normal distribution an issue?;Approximating with the normal distribution can be an issue when the actual value of the variable is non-zero.
+How is the variable approximated?;The variable is approximated as .
+How can we derive other normal-approximated probabilities?;We can use the above approximation to derive other normal-approximated probabilities.
+What range should be included when approximating ?;When approximating , the range 4.5 to 5.5 should be included.
+How is approximated?;is approximated by .Question
+What is the probability distribution for the number of deaths in each road crash?;The probability distribution for the number of deaths in each road crash is as follows
+Are the number of road crashes and the number of deaths for each road crash independent?;Yes, the number of road crashes and the number of deaths for each road crash are mutually independent.
+What is the probability of having more than 15 road deaths in Town ABC in a year?;Using the normal approximation with continuity correction, the probability of having more than 15 road deaths in Town ABC in a year can be calculated.For aggregate loss, the number of road deaths in a year is denoted by X.
+Calculate the aggregate mean of X.;μ = E(X)
+Calculate the aggregate variance of X.;σ^2 = Var(X)
+How is X approximated by a normal distribution?;X is approximated by a normal distribution.
+Why do we need to use the continuity correction for X?;Because X is discrete, we need to use the continuity correction.
+What is the final answer after applying continuity correction?;The final answer is obtained after applying continuity correction.
+When is X discrete but does not assume the value of every integer?;X is discrete but does not assume the value of every integer when the possible values of X are not consecutive integers.
+How do we apply continuity correction in this case?;We apply continuity correction using the midpoints between possible values of X.
+What is an example that illustrates this idea?;An example illustrating the idea of continuity correction is provided in Example S2.5.3.3.
+What is the approximate value of  is?;0.66732
+What is another way to calculate the aggregate mean and variance?;Lognormal ApproximationQ
+What are the steps for normal approximation?;The steps are
+Is there any additional calculation needed to determine the parameters?;No, there is no additional calculation needed to determine the parameters.
+Can you provide an example of normal approximation?;Example S2.5.3.4
+What is the solution to (1)?;The solution is to use the lognormal approximation. Equate the lognormal's mean and variance to the aggregate mean and variance.1. What formulas are provided on the exam table?; The moment formulas

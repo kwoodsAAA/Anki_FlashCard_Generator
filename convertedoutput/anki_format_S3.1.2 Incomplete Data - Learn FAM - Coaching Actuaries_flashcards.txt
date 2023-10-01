@@ -1,0 +1,33 @@
+What is incomplete data?;Incomplete data refers to not having the exact values of the full dataset or only having a partial dataset.
+What are some examples of incomplete data?;Some examples of incomplete data include truncation, censoring, and grouping.
+What is truncated data?;Truncated data is an example of an incomplete dataset.
+What does it mean if a dataset is left-truncated?;If a dataset is left-truncated, it means that the dataset does not include data at or below a certain value.
+How do we condition the likelihood of every observation in a left-truncated dataset?;We condition the likelihood of every observation in a left-truncated dataset on being above a certain value.
+What does it mean if a dataset is right-truncated?;If a dataset is right-truncated, it means that the dataset does not include data at or above a certain value.
+How do we condition the likelihood of every observation in a right-truncated dataset?;We condition the likelihood of every observation in a right-truncated dataset on being below a certain value.
+What is a common example of a left-truncated case?;A common example of a left-truncated case is often seen in survival analysis.question;What is the purpose of a deductible in insurance?
+How many payments were observed at the policy limit?;Two
+What is the likelihood for each payment at the policy limit?;9/30/23
+What is the range of claim sizes?;From 1 to infinity
+What distribution is used to model the claim sizes?;Single-parameter Pareto
+What are the parameters of the Pareto distribution?;Unknownquestion;answer
+What is the log-likelihood function?;The log-likelihood function is the natural logarithm of the likelihood function.
+What is an example of incomplete data?;An example of incomplete data is when not all the information about a group of policies is provided.
+What information is given about a group of policies?;The given information about a group of policies includes the claim payment, deductible, and policy limit for each policy.
+What is the assumption made about payments at the policy limit?;The assumption is that payments at the policy limit resulted from losses above the maximum covered loss.
+How can you fit a continuous distribution to the losses using the maximum likelihood method?;By using the maximum likelihood method, a continuous distribution can be fitted to the losses by estimating the parameters that maximize the likelihood function.
+What is the task in this scenario?;The task is to determine the likelihood function for the given group of policies.
+What is the solution to the task?;The solution to the task is not provided in the given text.question;answer
+What is the parameter of the geometric distribution?;The parameter is represented by .
+How many cars were observed in the past year?;A sample of 20 cars were observed in the past year.
+How many cars had 0 accidents?;9 cars had 0 accidents.
+How many cars had 1 to 2 accidents?;6 cars had 1 to 2 accidents.
+How many cars had 3 to 4 accidents?;5 cars had 3 to 4 accidents.
+What is the maximum likelihood estimate of ?;The maximum likelihood estimate of is .
+What is the likelihood of a car having 0 accidents?;The likelihood of a car having 0 accidents is .
+What is the likelihood of a car having 1 to 2 accidents?;The likelihood of a car having 1 to 2 accidents is .
+What is the likelihood of a car having 3 to 4 accidents?;The likelihood of a car having 3 to 4 accidents is .
+What is the likelihood function?;The likelihood function is .
+What is the log-likelihood function?;The log-likelihood function is .
+How do you find the maximum likelihood estimate using the log-likelihood function?;Take the derivative of the log-likelihood function with respect to , set it equal to 0, and solve for using the quadratic formula.
+What is the value of ?;The value of can be found by solving the quadratic equation.question

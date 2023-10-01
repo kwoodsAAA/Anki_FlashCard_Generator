@@ -1,0 +1,13 @@
+How do you calculate the maximum likelihood estimate?;Step 1
+How do you construct the likelihood function for continuous random variables?;For continuous random variables, the likelihood is the probability density function (PDF) evaluated at the observations.
+What is the purpose of calculating the log-likelihood function?;The log-likelihood function is used to maximize the likelihood function directly.
+How do you calculate the maximum likelihood estimate?;Step 1
+Is dropping multiplicative constants allowed in a likelihood function?;Yes, it does not affect the maximum likelihood estimator (MLE) of the parameter(s).
+Why do we drop constants in the likelihood function?;Dropping constants simplifies the computation.
+How do we estimate two parameters in a likelihood function?;Take partial derivatives with respect to each parameter, set them both equal to zero, then solve for the two parameters.Q
+What is the likelihood function?;The likelihood function is the product of the probability density functions (PDFs) of the observed values.
+What is the PDF used in this problem?;The PDF used in this problem is not provided.
+How do you calculate the log-likelihood function?;The log-likelihood function can be calculated by taking the natural logarithm of the likelihood function.
+What is the next step after calculating the log-likelihood function?;The next step is to take partial derivatives of the log-likelihood function with respect to each parameter.
+Which parameter do you start with when taking partial derivatives?;The parameter to start with when taking partial derivatives is not specified.
+What do you do after taking the partial derivatives?;After taking the partial derivatives, you set them equal to zero to find the values of the parameters that maximize the function.1. What is the first equation to solve?

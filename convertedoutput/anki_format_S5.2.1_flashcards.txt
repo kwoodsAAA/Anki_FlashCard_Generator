@@ -1,0 +1,44 @@
+What is the period considered for calendar year aggregation?;The period considered for calendar year aggregation is the calendar year.
+How are calendar year paid losses calculated?;Calendar year paid losses are calculated as the sum of losses paid throughout the year.
+How are calendar year incurred losses calculated?;Calendar year incurred losses are calculated as the sum of calendar year paid losses and the change in reserves during the year.
+What is the period considered for accident year aggregation?;The period considered for accident year aggregation is the twelve-month period regardless of the accident occurrence date or the claim report date.
+How are accident year paid losses calculated?;Accident year paid losses are calculated as the sum of losses paid for policies issued within a twelve-month period.
+How are accident year incurred losses calculated?;Accident year incurred losses are calculated as the sum of accident year paid losses and the change in reserves during the year.
+What is the period considered for policy year aggregation?;The period considered for policy year aggregation is the twelve-month period regardless of the policy issuance date or the claim report date.
+How are policy year paid losses calculated?;Policy year paid losses are calculated as the sum of losses paid for policies issued within a twelve-month period.
+How are policy year incurred losses calculated?;Policy year incurred losses are calculated as the sum of policy year paid losses and the change in reserves during the year.
+What is the formula for calculating accident year incurred losses?;Accident year incurred losses = accident year paid losses + reserves as of the valuation date.
+What is the role of the valuation date in accident year aggregation?;The valuation date plays the role of the development year introduced in the chain-ladder method.
+How are policy year paid losses calculated?;Policy year paid losses are calculated like accident year paid losses.
+How are policy year incurred losses calculated?;Policy year incurred losses are calculated like accident year incurred losses.question
+What is the given information in the example?;Sigma Insurance Company issued an auto policy on July 1, 2015. A claim on this policy was reported for an accident that occurred on February 2, 2016.
+What are the transactions for this claim?;
+What type of insurance policies does Sigma Insurance Company write?;Sigma Insurance Company only writes annual insurance policies.
+What is the objective?;Calculate the incurred loss for this claim for the specified calendar year.1. What are the case reserves at the end of CY2016 and CY2017?
+What is the incurred loss for PY2016 as of 12/31/2017?;0
+What is the policy effective date for Policy A?;1/1/2017
+What is the policy expiration date for Policy A?;12/31/2017
+What is the policy effective date for Policy B?;4/1/2017
+What is the policy expiration date for Policy B?;3/31/2018
+What is the policy effective date for Policy C?;2/1/2018
+What is the policy expiration date for Policy C?;1/31/2019
+What is the accident date for Claim #1?;6/28/2017
+What is the accident date for Claim #2?;12/20/2017
+What is the accident date for Claim #3?;7/14/2018
+What is the transaction date for Claim #1?;7/2/2017
+What is the incremental paid loss for Claim #1 on 7/20/2017?;2,300
+What is the case reserve for Claim #1 on 7/20/2017?;1,700
+What is the incremental paid loss for Claim #1 on 8/15/2017?;1,700
+What is the case reserve for Claim #1 on 8/15/2017?;0
+What is the transaction date for Claim #2?;12/28/2017
+What is the incremental paid loss for Claim #2 on 1/3/2018?;0
+What is the case reserve for Claim #2 on 1/3/2018?;5,000
+What is the transaction date for Claim #3?;7/30/2018
+What is the incremental paid loss for Claim #3 on 8/15/2018?;1,400
+What is the case reserve for Claim #3 on 8/15/2018?;1,100Q
+What are the incurred losses for CY2018?;To calculate incurred losses for CY2018, we need the paid losses for CY2018 and the change in reserves during the year.
+What are the paid losses in 2018?;Unknown.
+What are the reserves at the end of CY2017 for each claim?;At the end of CY2017, claims #1 and #3 do not have case reserves. Claim #2 has a case reserve of 3,000.
+What are the reserves at the end of CY2018 for each claim?;At the end of CY2018, claim #1 does not have a case reserve. Claim #2 has a case reserve of 1,000. Claim #3 has a case reserve of 1,100.
+What are the incurred losses for CY2018?;Unknown.
+What are the incurred losses for AY2017?;To calculate the incurred losses for AY2017, we only consider loss transactions from accidents that occurred in 2017.1. What is the status of claim #1 as of 12/31/2017?

@@ -1,0 +1,30 @@
+When is there a maximum covered loss?;There is a maximum covered loss only when there is a policy limit.
+What happens if a policy only has a policy limit?;The limited expectation is evaluated at the maximum covered loss.
+What happens if a policy has a policy limit and a deductible?;The limited expectation is evaluated at the maximum covered loss.
+What happens if a policy has a policy limit, a deductible, and coinsurance?;The limited expectation is evaluated at the maximum covered loss.question;answer
+What is the formula to calculate the expected payment per loss?;The formula is
+What is the value of A in the formula?;The value of A is
+What is the value of B in the formula?;The value of B is
+What is the value of C in the formula?;The value of C is
+How do we compute the limited expected values?;We substitute the limited expected values into the formula to calculate the final answer.
+What is the expression for losses below 200?;For losses below 200, the expression is
+What is the expression for losses between [200, 1000]?;The expression for losses between [200, 1000] is
+What is the expression for losses above 1000?;For losses above 1000, the expression is
+How do we calculate the final answer?;We substitute the limited expected values into the formula to calculate the final answer.Question
+What is the maximum value for  for losses greater than 2,700?;is capped at the policy limit of 2,000.
+How is the last column calculated?;Subtracting column 3 from column 2 produces the last column.
+What is the distribution of losses in the given example?;Losses follow a gamma distribution with parameters  and .
+What is the policy limit for the insurance coverage?;The policy limit is 250.
+What is coinsurance in the given context?;Coinsurance is the proportion of the loss paid by the insurance company.
+What is the goal in the alternative coverage with coinsurance?;The goal is to make the expected insurance cost remain the same.
+How is  modified for the coverage with a policy limit of 250?;is modified by setting ,  and
+How is  modified for the alternative coverage with coinsurance?;is modified by setting ,  and
+What is the equation used to equate the two expected payments?;Equate the two expected payments. The goal is to solve for .
+What is the first step in solving for ?;First, calculate thQuestion
+How do you evaluate incomplete gamma functions?;To evaluate incomplete gamma functions, you can use the shortcut introduced in Section S2.2.4.
+What is the shortcut for evaluating incomplete gamma functions?;The shortcut for evaluating incomplete gamma functions is to start by defining a Poisson variable.
+How can the incomplete gamma functions be evaluated using integration?;The incomplete gamma functions can also be evaluated by integrating the gamma PDF, which requires integration by parts.
+What is the example number for the given text?;The example number for the given text is S2.3.3.4.question
+What happens if the total incurred losses are greater than 500?;No bonus is paid.
+How is the bonus variable defined?;Bonus = 15% * (500 - total incurred losses)
+How can the expected bonus be calculated?;The expected bonus can be calculated by finding the expected value of the bonus variable.1. What is the key to successfully calculating the expected payment?

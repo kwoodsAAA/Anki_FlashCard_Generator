@@ -1,0 +1,16 @@
+What is the conditional mean for a continuous random variable?;Conditional mean
+What should be replaced in the equations if the random variable is discrete?;If the random variable is discrete, replace the integrals and the PDFs in the equations above with sums and PMFs, respectively.
+What is the Law of Total Probability?;The Law of Total Probability states that if events , , ..., and  are mutually exclusive and form a partition of a sample space, then
+What can the concept of conditional distributions be applied to?;The concept of conditional distributions can be applied to determine the unconditional PMF of a discrete random variable.question
+How is a random variable indicated in the formula?;The subscript X indicates that X is the random variable for the "averaging".
+What is the formula for a discrete random variable?;If X is discrete, then P(X|Y) = Sum(P(X=x|Y) * P(X=x))
+What is the formula for a continuous random variable?;If X is continuous, then P(X|Y) = Integral(P(x|Y) * f(x) dx)
+Is the random variable X discrete in both cases above?;Yes, the random variable X is discrete in both cases above.
+What can the Law of Total Probability be used to determine?;The Law of Total Probability can be used to determine the unconditional CDF and survival function of a random variable.
+What does the Law of Total Expectation state?;The Law of Total Expectation states that E(X) = E(E(X|Y))Question
+Why is it incorrect to assume that the unconditional variance equals the average of the conditional variances?;It is incorrect because the variance of the conditional mean also needs to be included in the calculation.
+What is Example S2.1.5.1 about?;Example S2.1.5.1 is about a health insurance policy that classifies insureds into two classes
+How does independence apply to random variables?;If two random variables X and Y are independent, then the joint probability distribution of X and Y is equal to the product of their marginal probability distributions.
+What is the relationship between independence and conditional probability distributions for discrete random variables?;If two discrete random variables X and Y are independent, then the conditional probability distribution of X given Y is equal to the marginal probability distribution of X.
+What is the relationship between independence and conditional probability distributions for continuous random variables?;If two continuous random variables X and Y are independent, then the conditional probability density function of X given Y is equal to the marginal probability density function of X.
+What is the relationship between independence and joint probability distributions?;If two random variables X and Y are independent, then the joint probability distribution of X and Y is equal to the product of their marginal probability distributions.

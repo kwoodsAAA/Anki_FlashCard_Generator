@@ -1,0 +1,15 @@
+What is the notation term for reserve?;Reserve
+What is the notation term for ultimate losses?;Ultimate Losses
+What is the notation term for losses paid-to-date?;Losses Paid-to-date
+What is the notation term for earned premium?;Earned Premium
+What is the notation term for expected loss ratio?;Expected Loss Ratio
+What is the notation term for age-to-age factor?;Age-to-Age Factor
+What is the notation term for age of claims at valuation?;Age of Claims at Valuation
+What is the notation term for index for accident year?;Index for Accident Year
+What is the notation term for index for development year?;Index for Development Year
+What is the notation term for expected loss ratio method?;Expected Loss Ratio Method
+What is the notation term for chain-ladder method?;Chain-Ladder Method
+What is another name for the chain-ladder method?;Loss Development Method or Loss Triangle Method
+How do you estimate ultimate losses using the expected loss ratio method?;Multiply the earned premium by the expected loss ratio.
+How do you estimate reserves using the expected loss ratio method?;Subtract the losses paid-to-date.
+What is the Bornhuetter-Ferguson method used for?;Calculate reserves.1. What is the Huetter-Ferguson estimate of ultimate losses?

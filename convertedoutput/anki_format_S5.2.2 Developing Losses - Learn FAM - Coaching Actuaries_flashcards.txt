@@ -1,0 +1,8 @@
+What is the purpose of developing losses?;To calculate and select age-to-age loss development factors and apply them to loss data to obtain ultimate losses.
+Why is developing losses useful for estimating reserves?;It allows for estimating reserves by applying age-to-age loss development factors to loss data.
+When developing losses, who should pricing actuaries consult?;Reserving actuaries.
+What is one method for developing losses?;The chain-ladder method.
+What is an example of developing losses using the chain-ladder method?;Example S5.2.2.1.
+In Example S5.2.2.1, what is given?;Incurred losses at different dates for multiple accident years.
+What is the purpose of the chain-ladder method?;To develop losses by incorporating a data aggregation step.Question
+What is the ultimate loss for AY4 using the average factor model?;540,0001. What is the atomic symbol for the element hydrogen?; H

@@ -1,0 +1,296 @@
+ Question: What is the chain-ladder method also known as?
+Answer: The loss development method or loss triangle method.
+
+Question: What does the chain-ladder method observe?
+Answer: The method observes patterns in historical loss development.
+
+Question: What does the chain-ladder method assume about future losses?
+Answer: The method assumes that future losses will continue to develop in a similar manner.
+
+Question: Can you provide an example of incremental paid loss data?
+Answer: Accident Year 2011: 590, 490, 380, 200, 70, 70, 30
+Accident Year 2012: 590, 370, 260, 90, 40, 20
+Accident Year 2013: 690, 750, 430, 270, 170
+Accident Year 2014: 790, 610, 440, 170
+Accident Year 2015: 750, 660, 450
+Accident Year 2016: 770, 800
+Accident Year 2017: 870
+
+Question: What does the chain-ladder method estimate?
+Answer: The method estimates the loss reserve as of a specific date.
+
+Question: What is the alternative model used in the chain-ladder method?
+Answer: The average factor model.
+
+Question: How is the data arranged in the chain-ladder method?
+Answer: The data is arranged in a triangle format, hence the name "loss triangle method".What is the name of the triangle formed by the historical data?
+
+Answer: Run-off triangle
+
+What is the goal of the chain-ladder method?
+
+Answer: To project values for the empty cells in the lower triangle, representing the reserve.
+
+How are the incremental losses denoted?
+
+Answer: By accident year and development year, for example, 2013, Development Year 2.
+
+What does each row in the table represent?
+
+Answer: Each row represents one accident year (AY), recording payments made on claims from that year.
+
+What does each column in the table represent?
+
+Answer: Each column represents one development year, showing the payments made on claims from each development year.question;What does each upward-sloping diagonal represent?
+answer;Each upward-sloping diagonal represents one calendar year (CY).
+question;Give an example of a payment made in DY2 on claims from AY2011.
+answer;The payment took place in calendar year .
+question;When did the payments and take place?
+answer;Payments and took place in 2013.
+question;What is the total payment made in CY2013?
+answer;The total payment made in CY2013 is .
+question;What is the goal of the chain-ladder method?
+answer;The goal of the chain-ladder method is to calculate the reserve by projecting ultimate losses and then subtracting losses paid-to-date.
+question;How does the chain-ladder method estimate future losses?
+answer;The chain-ladder method estimates future losses by observing the development of past losses and projecting it into the future.Q: What is the chain-ladder method used for?
+A: To estimate cumulative losses in insurance claims.
+
+Q: How do we transform incremental losses to cumulative losses in the chain-ladder method?
+A: By summing the payments for claims in a given accident year up to each development year.
+
+Q: What is the cumulative payment made by the end of DY3, or CY2014, on claims occurring in AY2011?
+A: 
+
+Q: How do we calculate cumulative losses in the chain-ladder method?
+A: By summing the incremental losses for each development year.
+
+Q: What does the symbol "CY" stand for in the chain-ladder method?
+A: It stands for calendar year.
+
+Q: What does the symbol "AY" stand for in the chain-ladder method?
+A: It stands for accident year.
+
+Q: How do we project ultimate losses in the chain-ladder method?
+A: By using the cumulative losses and applying projection methods.question;answer
+What is the purpose of the chain-ladder method?;To estimate the ultimate losses by the end of the development year.
+When do we start estimating the losses using the chain-ladder method?;We start with the claims of the accident year 2012, as the claims of accident year 2011 have fully matured.
+What does the chain-ladder method assume?;It assumes that historical loss developments are indicative of the future.
+What is a loss development factor?;A loss development factor is the ratio of cumulative losses recorded at a later development year to those recorded at an earlier development year.
+How do we use the loss development factor to estimate losses?;We multiply the losses up to the earlier development year by the loss development factor to estimate losses up to the later development year.question;answer
+What is needed to estimate the loss development factors from DY4 to DY5?;Data
+What is the purpose of calculating the loss development factors?;To project future losses
+What factors are available for projection?;Two possible factors
+Which factor should be used for projection?;Actuarial judgment is needed
+What does a factor of 1.028 mean?;Cumulative losses expected to grow roughly 2.8%
+What should be multiplied by the factor of 1.028 to estimate ?;Losses from DY4 to DY5
+What should be multiplied by the loss development factor from DY5 to DY6 to estimate the ultimate losses?;Losses from DY5 to DY6Q: What are the steps to apply the chain-ladder method to the entire data set?
+A: First, calculate the loss development factors.
+Q: What are loss development factors also known as?
+A: They are also known as age-to-age factors or link ratios.
+Q: How is the age-to-age factor calculated for each accident year?
+A: For each accident year, the ( )-to- factor is calculated.
+Q: What values do we have for the example accident years?
+A: For the example accident years, we have the following values: 
+2011 1.831 1.352 1.137 1.042 1.040 1.017
+2012 1.627 1.271 1.074 1.031 1.015
+2013 2.087 1.299 1.144 1.079
+2014 1.772 1.314 1.092
+2015 1.880 1.319
+2016 2.039
+Q: What is the next step after calculating the loss development factors?
+A: The next step is to select the age-to-age factors.
+Q: What are the three common models for selecting age-to-age factors?
+A: The three common models are: average,  mos-year average, and ultimate.Question: What is the definition of a mean, or volume-weighted average, in the context of loss development factors?
+Answer: The mean, or volume-weighted average, is calculated by dividing the sum of the cumulative losses in a given development year by the sum of the corresponding cumulative losses from the previous development year.
+
+Question: What are the selected age-to-age factors obtained using a 3-year average model?
+Answer: 1.897, 1.311, 1.104, 1.051, 1.028, 1.017
+
+Question: How are the cumulative losses estimated using the selected age-to-age factors?
+Answer: The cumulative losses at any age are estimated by multiplying the cumulative losses at age by the product of the factors from age to age.
+
+Question: What are the selected age-to-age factors obtained using the average factor model?
+Answer: 1.873, 1.311, 1.112, 1.051, 1.028, 1.017Question: What is the most recent cumulative paid losses recorded for claims of accident year 2011?
+Answer: 1,830
+
+Question: What is the estimated ultimate losses for accident year 2012?
+Answer: 1,393
+
+Question: What is the estimated ultimate losses for accident year 2013?
+Answer: 2,413
+
+Question: What is the estimated ultimate losses for accident year 2014?
+Answer: 2,206
+
+Question: What is the estimated ultimate losses for accident year 2015?
+Answer: 2,270
+
+Question: What is the estimated ultimate losses for accident year 2016?
+Answer: 2,512
+
+Question: What is the estimated ultimate losses for accident year 2017?
+Answer: 2,607Question: What are the development years for accident year 2011?
+Answer: 0 1 2 3 4 5 6
+
+Question: What are the development years for accident year 2012?
+Answer: 1,393
+
+Question: What are the development years for accident year 2013?
+Answer: 2,374 2,413
+
+Question: What are the development years for accident year 2014?
+Answer: 2,112 2,170 2,206
+
+Question: What are the development years for accident year 2015?
+Answer: 2,068 2,173 2,233 2,270
+
+Question: What are the development years for accident year 2016?
+Answer: 2,058 2,288 2,405 2,471 2,512
+
+Question: What are the development years for accident year 2017?
+Answer: 1,629 2,136 2,375 2,495 2,564 2,607
+
+Question: What is the loss reserve for accident year 2012?
+Answer: 23
+
+Question: What is the loss reserve for accident year 2013?
+Answer: 103
+
+Question: What is the loss reserve for accident year 2014?
+Answer: 196
+
+Question: What is the loss reserve for accident year 2015?
+Answer: 410
+
+Question: What is the loss reserve for accident year 2016?
+Answer: 942
+
+Question: What is the loss reserve for accident year 2017?
+Answer: 590Q: What is the loss reserve for 2017?
+A: 2,607
+
+Q: What is the losses paid-to-date for 2017?
+A: 870
+
+Q: What is the losses paid-to-date for the ultimate age?
+A: 1,737
+
+Q: What is the total loss reserve?
+A: The sum of the Loss Reserve column
+
+Q: What are the steps for the chain-ladder method?
+A: 1. Calculate and select the age-to-age factors
+2. Project the ultimate losses
+3. Subtract the losses paid-to-date to estimate reserves
+
+Q: What are age-to-ultimate factors used for?
+A: To directly develop current losses to ultimate losses
+
+Q: How is the age-to-ultimate factor calculated?
+A: As the product of all age-to-age factors beyond current age
+
+Q: How can the estimated ultimate losses be calculated?
+A: By multiplying the losses paid-to-date with the age-to-ultimate factor
+
+Q: What is assumed in the chain-ladder method after DY6?
+A: No loss development after DY6Question: What is the chain-ladder estimate of the unpaid losses of AY4 claims as of 12/31/AY7?
+Answer: The chain-ladder estimate of the unpaid losses of AY4 claims as of 12/31/AY7 is not provided in the text.
+
+Question: What is the reserve for AY4 claims?
+Answer: The reserve for AY4 claims is an estimate of the outstanding payments.
+
+Question: What are the estimated ultimate losses for AY4 claims?
+Answer: The estimated ultimate losses for AY4 claims are not provided in the text.
+
+Question: What are the estimated unpaid losses for AY4 claims?
+Answer: The estimated unpaid losses for AY4 claims are not provided in the text.
+
+Question: What is the loss reserve beyond Development Year 3?
+Answer: The loss reserve beyond Development Year 3 is not provided in the text.
+
+Question: What is the cumulative paid loss for AY1, Development Year 1?
+Answer: The cumulative paid loss for AY1, Development Year 1 is 340.
+
+Question: What is the cumulative paid loss for AY1, Development Year 2?
+Answer: The cumulative paid loss for AY1, Development Year 2 is 570.
+
+Question: What is the cumulative paid loss for AY1, Development Year 3?
+Answer: The cumulative paid loss for AY1, Development Year 3 is 670.
+
+Question: What is the cumulative paid loss for AY1, Development Year 4?
+Answer: The cumulative paid loss for AY1, Development Year 4 is 810.
+
+Question: What is the cumulative paid loss for AY2, Development Year 1?
+Answer: The cumulative paid loss for AY2, Development Year 1 is 360.
+
+Question: What is the cumulative paid loss for AY2, Development Year 2?
+Answer: The cumulative paid loss for AY2, Development Year 2 is 580.
+
+Question: What is the cumulative paid loss for AY2, Development Year 3?
+Answer: The cumulative paid loss for AY2, Development Year 3 is 710.
+
+Question: What is the cumulative paid loss for AY3, Development Year 1?
+Answer: The cumulative paid loss for AY3, Development Year 1 is 360.
+
+Question: What is the cumulative paid loss for AY3, Development Year 2?
+Answer: The cumulative paid loss for AY3, Development Year 2 is 620.
+
+Question: What is the cumulative paid loss for AY4, Development Year 1?
+Answer: The cumulative paid loss for AY4, Development Year 1 is 410.
+
+Question: What is the average factor model used for?
+Answer: The average factor model is used for estimating losses in the chain-ladder method.question;answer
+What is the age-to-age factor for AY1?;1.676
+What is the age-to-age factor for AY2?;1.611
+What is the age-to-age factor for AY3?;1.722
+What is the average age-to-age factor for AY1?;1.670
+What is the average age-to-age factor for AY2?;1.200
+What is the average age-to-age factor for AY3?;1.209
+What is the estimated ultimate losses for AY2?;858
+What is the estimated ultimate losses for AY3?;899
+What is the estimated ultimate losses for AY4?;993
+What is the losses paid-to-date for AY2?;710
+What is the losses paid-to-date for AY3?;620
+What is the losses paid-to-date for AY4?;410
+What is the reserve for AY2?;148
+What is the reserve for AY3?;279
+What is the reserve for AY4?;583
+What is the total reserve?;1010Question: Why should we not assume that incurred losses will be equal to paid losses?
+Answer: Developing paid losses will likely yield a different estimate of the ultimate losses than developing incurred losses.
+
+Question: How should we develop paid losses and incurred losses?
+Answer: We should develop paid losses with paid loss development factors and develop incurred losses with incurred loss development factors.
+
+Question: How can we calculate the loss reserve?
+Answer: After estimating the ultimate losses, subtract losses paid-to-date.
+
+Question: How can we calculate the IBNR reserve?
+Answer: After estimating the ultimate losses, subtract losses incurred-to-date.Question: What is the selected 6-to-12-months factor?
+Answer: 9/30/23, 5:58 PM S5.1.2 Chain-Ladder Method - Learn F AM - Coaching Actuaries
+
+Question: What is the selected 12-to-18-months factor?
+Answer: [missing]
+
+Question: What is the selected 18-to-24-months factor?
+Answer: [missing]
+
+Question: What is the status of claims for 2014-1?
+Answer: Claims of 2014-1 are fully developed and paid.
+
+Question: What are the estimated ultimate losses for claims of 2014-2?
+Answer: [missing]
+
+Question: What are the estimated ultimate losses for claims of 2015-1?
+Answer: [missing]
+
+Question: What are the estimated ultimate losses for claims of 2015-2?
+Answer: [missing]
+
+Question: How do you calculate the loss reserve at the end of 2015?
+Answer: Subtract the losses paid-to-date from the estimated ultimate losses.question;answer
+What is the format for the flashcards?;question;answer
+What are the estimated ultimate losses?;4,340;3,627;713
+What are the paid-to-date losses?;4,340;3,379;961
+What are the reserves?;4,765;2,601;2,164
+What is the total reserve?;The sum of the Reserve column
+What are the disadvantages of the chain-ladder method?;Instability due to reliance on claims experience and outliers

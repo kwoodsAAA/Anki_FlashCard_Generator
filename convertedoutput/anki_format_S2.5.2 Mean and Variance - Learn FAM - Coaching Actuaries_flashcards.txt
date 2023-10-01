@@ -1,0 +1,8 @@
+Are the number of claims and individual claim amounts independent?;Yes.
+What is the formula to calculate the standard deviation of the aggregate loss?;The standard deviation of the aggregate loss is
+What is the distribution of dental expenses for each family member in the example?;The distribution is not provided in the text.Question
+What are the possible values of the total dental expenses for each family member?;The possible values are 0 (when there are no visits), 25 (when there is a visit with payment 25), 150 (when there is a visit with payment 150), 100 (when there are two visits with payment 50 per visit), 250 (when there are two visits with payments 50 and 200), and 400 (when there are two visits with payment 200 per visit).
+What are the probabilities associated with each possible value of the total dental expenses?;The probabilities are as follows
+What does the distribution of payment per visit depend on?;The number of visits.
+What is the purpose of using a mean and variance in this context?;To analyze the distribution of claim sizes.
+Where can I find more information about this topic?;Visit https

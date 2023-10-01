@@ -1,0 +1,13 @@
+How do you calculate the expected aggregate loss?;The expected aggregate loss is calculated by multiplying the loss amounts by their respective probabilities and summing them up.
+How do you calculate the aggregate loss limited expected value?;The aggregate loss limited expected value is calculated by multiplying the aggregate loss amounts by their respective probabilities and summing them up.
+How do you calculate the net stop-loss premium?;The net stop-loss premium is calculated by subtracting the deductible from the expected aggregate loss.Question
+Example S2.5.4.2 The number of claims follows a logarithmic distribution with the following probability function;The amount of each claim is 80. Reinsurance covers 80% of the aggregate claims in excess of 200. Calculate the reinsurance net premium.
+Solution The reinsurance net premium is;9/30/23, 7
+Look up the logarithmic PMF in the exam tables, and compare it to the PMF provided by the question. The parameter has a value of 9. Therefore,;The claim amount is a constant of 80 per claim. Multiply them together to get the aggregate mean.
+Construct the following table t;(no answer provided)Question
+What is the time stamp of the calculation?;The time stamp of the calculation is 7
+What is the topic of the resource?;The topic of the resource is Stop-Loss Insurance.
+What is the source of the resource?;The source of the resource is Coaching Actuaries.
+What is the URL of the resource?;The URL of the resource is https
+What is the formula for calculating the aggregate limited expected value?;The aggregate limited expected value is calculated as follows.
+What is the next step after calculating the aggregate limited expected value?;Finally, the reinsurance net premium is calculated.

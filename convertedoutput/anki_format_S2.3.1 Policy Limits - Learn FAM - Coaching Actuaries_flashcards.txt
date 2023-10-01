@@ -1,0 +1,8 @@
+What is the policy limit?;The policy limit is the maximum amount the insurer will pay for a single loss.
+How is the insurance payment calculated for a loss with a policy limit?;The insurance payment is the lesser of the loss amount or the policy limit.
+What is the limited expected value?;The average payment amount for losses below the policy limit.
+What is the average payment amount for losses below the policy limit?;The payment amount is equal to the loss amount.
+What is the average payment amount for losses above the policy limit?;The payment amount is equal to the policy limit.1. What is the average payment amount?
+How do you calculate the expected insurance payment for a claim?;Let represent the claim size. The Pareto distribution's limited expected value formula is given in the exam table. Look up the formula and plug in the parameters and policy limit to calculate the answer.
+What is the policy limit of the auto insurance?;200
+How do you calculate the insurance company's expected payment for one claim?;Use the increased limit factor (ILF) to measure how much more the insurer expects to pay by increasing the policy limit. The ILF is calculated as

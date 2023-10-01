@@ -1,0 +1,9 @@
+How does insurance operate?;Insurance operates by pooling risk together across policies.
+What are the two concepts related to insurance losses?;The two concepts related to insurance losses are loss count (frequency) and individual loss sizes (severity).
+How is aggregate loss calculated?;Aggregate loss is calculated by summing all of the individual losses.
+What is the frequency random variable?;The frequency random variable describes the number of losses.
+What is the severity random variable?;The severity random variable describes the size of the loss.
+What are the assumptions of the collective risk model?;The assumptions of the collective risk model are that all existing losses are independent and identically distributed (i.i.d.) random variables, and any existing frequency and severity variables are independent.
+What are the primary distribution and secondary distribution in the collective risk model?;The primary distribution and secondary distribution refer to the distribution of the frequency and severity variables, respectively.
+What does it mean when the frequency random variable is 0?;When the frequency random variable is 0, it means that there are no losses.
+How many types of aggregate loss models are there?;There are two types of aggregate loss models.question;And the distribution of is called the compound distribution.

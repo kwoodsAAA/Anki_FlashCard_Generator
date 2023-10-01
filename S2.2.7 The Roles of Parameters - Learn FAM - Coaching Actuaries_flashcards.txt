@@ -1,0 +1,118 @@
+ 1. What are parametric distributions?
+A set of distribution functions determined by specifying one or more values called parameters.
+
+2. Give an example of a parametric distribution.
+The Pareto distribution.
+
+3. What is a parametric distribution family?
+A set of parametric distributions that are related to each other.What are the two main parametric distribution families included in the exam tables?
+- Beta distribution
+- Linear exponential family
+
+What is a beta distribution?
+- A generalized beta distribution
+
+What is the form of a distribution that belongs to the linear exponential family?
+- Any distribution with a probability function that can be expressed in a certain form
+
+What does the notation "" in " " signify?
+- It signifies that  is the natural parameterQuestion: What is the role of other parameters in a distribution in the linear exponential family?
+Answer: They do not play any explicit role.
+
+Question: How can the mean and variance of distributions in the linear exponential family be expressed?
+Answer: They can be expressed as functions.
+
+Question: What is the goal of the proof mentioned in the text?
+Answer: To prove that a distribution belongs to the linear exponential family.
+
+Question: How can the probability function of a distribution be rearranged to show that it belongs to the linear exponential family?
+Answer: By rearranging the probability function using a specific formula.
+
+Question: Does the table provided classify the Poisson distribution as belonging to the linear exponential family?
+Answer: Yes.Question: What are some remarks about the listed distributions?
+Answer: Note that some of the listed distributions are discrete, which we will discuss in a future section.
+
+Question: What distribution was used in the motivating example?
+Answer: The distribution used in the motivating example is a Poisson distribution.
+
+Question: What are the mean and variance of the Poisson distribution?
+Answer: The mean and variance of the Poisson distribution are both .
+
+Question: What is a scale distribution in terms of a parametric distribution?
+Answer: A scale distribution is a parametric distribution where multiplying a random variable by a positive constant still results in a random variable from the same set of distributions.
+
+Question: What is a scale parameter in relation to a scale distribution?
+Answer: A scale parameter is a parameter for a scale distribution that satisfies two conditions for random variables with nonnegative support.
+
+Question: What is the scale parameter of the Pareto distribution?
+Answer: The scale parameter of the Pareto distribution is .1. What is a positive constant that resembles the CDF of a Pareto distribution with parameters and? 
+Answer: is a positive constant
+
+2. What type of parameter affects the general shape of the distribution? 
+Answer: shape parameter
+
+3. What does the following graph show? 
+Answer: PDF curves of the beta distribution assuming a fixed and different values for and, which are the shape parameters.
+
+4. What happens to the scale parameter when a member of the scale distribution is multiplied by a positive constant? 
+Answer: It is multiplied by the same constant.
+
+5. What happens to the other parameters when a member of the scale distribution is multiplied by a positive constant? 
+Answer: They remain unchanged.
+
+6. What does the table below list? 
+Answer: Shape and scale parameters of all relevant continuous distributions in the exam tables.
+
+7. What are the shape and scale parameters for the distribution? 
+Answer: Shape parameter(s) and Scale parameter.question;answer
+What are the distributions listed in the provided text?
+Pareto;Burr;Inverse Burr;Pareto Inverse;Loglogistic;Paralogistic;Inverse Paralogistic;Gamma;Inverse Gamma;Weibull;Inverse Weibull;Exponential;Inverse Exponential;S-P Pareto;Beta
+What is the key takeaway from the table?
+All distributions listed in the exam tables that have a parameter (except inverse Gaussian) are parameterized such that the scale parameter is denoted by the symbol "lambda."
+What is the arbitrary choice of symbols representing the parameters?
+The choice of symbols representing the parameters is arbitrary and may not match the ones used in the exam tables.
+How can a Pareto PDF be given?
+A Pareto PDF can be given with the shape parameter denoted as "alpha" and the scale parameter denoted as "lambda."1. What is the shape parameter for a gamma distribution?
+Answer: The shape parameter is represented by α.
+
+2. What is the scale parameter for a gamma distribution?
+Answer: The scale parameter is represented by β.
+
+3. In our learning materials, which parameter is listed first for a gamma distribution?
+Answer: The shape parameter (α) is listed first, followed by the scale parameter (β).
+
+4. What is an alternative way to parameterize the exponential distribution?
+Answer: The exponential distribution can be parameterized with the rate parameter (λ) rather than the mean parameter.
+
+5. What source is used for the exam tables in this exam?
+Answer: The Loss Models textbook is the source of the exam tables that students have access to on the exam.Question: What is the probability that a loss does not exceed 55 next year?
+
+Answer: The probability can be calculated by determining the distribution of losses next year.
+
+Question: What is the relationship between losses in the current year and losses next year?
+
+Answer: Losses next year are 10% larger than losses in the current year due to inflation.
+
+Question: How can we determine the distribution of losses next year?
+
+Answer: We can scale the distribution of losses in the current year using the scale parameter of the paralogistic distribution.
+
+Question: What is the paralogistic distribution?
+
+Answer: The paralogistic distribution is a scale distribution.
+
+Question: What is the scale parameter of the paralogistic distribution?
+
+Answer: The scale parameter is denoted as .
+
+Question: How can we calculate the desired probability?
+
+Answer: Finally, we can calculate the desired probability using the determined distribution of losses next year.
+
+Question: Is there an alternative solution to calculate the desired probability?
+
+Answer: Yes, an alternative solution is to calculate the probability using first principles.1. Which continuous distributions listed on the exam tables should not be scaled by multiplying the parameter by the scaling factor?
+lognormal, inverse Gaussian, and log- distributions.
+
+2. How should a normal distribution be scaled?
+Multiply the mean and the standard deviation by the scaling factor.

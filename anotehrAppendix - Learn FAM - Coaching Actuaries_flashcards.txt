@@ -1,0 +1,9 @@
+ question;answer
+What is the special property of Pareto distributions?;Pareto distributions have a CDF that resembles the CDF of another Pareto distribution with different parameters.
+What is the CDF transformation method used for?;The CDF transformation method is used to transform a distribution into another distribution with a similar CDF.
+What is the relationship between a Pareto distribution and an inverse Pareto distribution?;A Pareto distribution with parameters (α, β) resembles the CDF of an inverse Pareto distribution with parameters (β, α).
+What is the CDF transformation method used for in the context of Pareto and Single-Parameter Pareto distributions?;The CDF transformation method is used to transform a distribution into another distribution with a similar CDF, specifically in the context of Pareto and Single-Parameter Pareto distributions.question;answer
+What is a single-parameter Pareto distribution with parameters?;The single-parameter Pareto distribution has a domain that shifts from 0 to infinity, and is defined by the inequality x > x0, where x0 is a positive constant.
+What is the Poisson Shortcut for Incomplete Gamma Function?;For k is a positive integer, the Poisson Shortcut for Incomplete Gamma Function is given by the formula P(X ≤ k) = 1 - e^(-λ) * ∑(i=0 to k) (λ^i / i!)
+What is the relationship between a gamma distribution and an inverse gamma distribution?;For X following a gamma distribution with parameters α and β, the CDF of X resembles the CDF of an inverse gamma distribution with parameters β and α.
+What is the Exponential and Inverse Exponential?;For X following an exponential distribution with mean μ, the PDF of X is given by f(x) = (1/μ) * e^(-x/μ). The inverse exponential distribution is the reciprocal of the exponential distribution.

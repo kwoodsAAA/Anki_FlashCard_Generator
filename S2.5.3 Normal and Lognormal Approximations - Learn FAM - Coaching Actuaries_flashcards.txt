@@ -1,0 +1,123 @@
+ question;answer
+When do we need to approximate the distribution of the aggregate loss?;When calculating exact probabilities from the aggregate loss distribution is time-consuming.
+What is a good approximation for the sum of i.i.d. random variables?;The normal distribution.
+What improves as the number of random variables increases?;The approximation of the sum of i.i.d. random variables with a normal distribution.
+What is the aggregate loss?;The sum of i.i.d. random variables.
+What distribution do we approximate the aggregate loss with?;A normal distribution.
+What are the mean and variance of the number of losses reported per year in the example?;Mean: 50, Variance: 300.
+What are the mean and standard deviation of the individual losses in the example?;Mean: 30, Standard Deviation: 60.
+Are the number of losses and individual loss amounts independent in the example?;Yes.
+What is used to approximate the distribution in the example?;The normal approximation.Question: What is the probability that the annual aggregate loss is greater than 1,700?
+Answer: Apply the compound mean and variance formulas.
+
+Question: What distribution does the aggregate loss follow when using the normal approximation?
+Answer: The aggregate loss follows a normal distribution with mean 1,500 and variance 450,000.
+
+Question: How do we calculate the desired probability?
+Answer: Calculate the desired probability using the normal distribution.
+
+Question: When using a continuous distribution to approximate a discrete distribution, what correction do we need to apply?
+Answer: We need to apply continuity correction.
+
+Question: Why should we always use continuity correction when approximating a discrete quantity with a continuous distribution?
+Answer: We should always use continuity correction to ensure accurate results.Q: How can you model the frequency and severity using a continuous distribution?
+A: By using a continuous distribution, you can model the frequency and severity of a certain event.
+
+Q: When is the aggregate loss model considered discrete?
+A: The aggregate loss model is considered discrete when both the frequency and severity models are discrete.
+
+Q: What is the example provided in the text?
+A: The example provided in the text is about determining the probability that a certain variable equals 5 using the normal approximation.
+
+Q: Why is approximating with the normal distribution an issue?
+A: Approximating with the normal distribution can be an issue when the actual value of the variable is non-zero.
+
+Q: How is the variable approximated?
+A: The variable is approximated as .
+
+Q: How can we derive other normal-approximated probabilities?
+A: We can use the above approximation to derive other normal-approximated probabilities.
+
+Q: What range should be included when approximating ?
+A: When approximating , the range 4.5 to 5.5 should be included.
+
+Q: How is approximated?
+A: is approximated by .Question: What is the normal approximation used for?
+Answer: The normal approximation is used to approximate the complement of the Poisson distribution.
+
+Question: What is the probability distribution for the number of deaths in each road crash?
+Answer: The probability distribution for the number of deaths in each road crash is as follows:
+0 deaths: 80%
+1 death: 10%
+2 deaths: 5%
+3 deaths: 2.5%
+4 deaths: 2.5%
+
+Question: Are the number of road crashes and the number of deaths for each road crash independent?
+Answer: Yes, the number of road crashes and the number of deaths for each road crash are mutually independent.
+
+Question: What is the probability of having more than 15 road deaths in Town ABC in a year?
+Answer: Using the normal approximation with continuity correction, the probability of having more than 15 road deaths in Town ABC in a year can be calculated.For aggregate loss, the number of road deaths in a year is denoted by X.
+
+Question: Calculate the aggregate mean of X.
+Answer: μ = E(X)
+
+Question: Calculate the aggregate variance of X.
+Answer: σ^2 = Var(X)
+
+Question: How is X approximated by a normal distribution?
+Answer: X is approximated by a normal distribution.
+
+Question: Why do we need to use the continuity correction for X?
+Answer: Because X is discrete, we need to use the continuity correction.
+
+Question: What is the final answer after applying continuity correction?
+Answer: The final answer is obtained after applying continuity correction.
+
+Question: When is X discrete but does not assume the value of every integer?
+Answer: X is discrete but does not assume the value of every integer when the possible values of X are not consecutive integers.
+
+Question: How do we apply continuity correction in this case?
+Answer: We apply continuity correction using the midpoints between possible values of X.
+
+Question: What is an example that illustrates this idea?
+Answer: An example illustrating the idea of continuity correction is provided in Example S2.5.3.3.
+
+Note: The remaining part of the text is cut off and cannot be included in the flashcards.question;answer
+What is the distribution of the number of losses?;Binomial distribution
+What is the distribution of the individual loss amount?;Unknown (not specified)
+Are the number of losses and the individual loss amount mutually independent?;Yes
+What is the probability that the number of losses is at most 400?;Unknown (not enough information)
+What is the probability that the number of losses is greater than 800?;Unknown (not enough information)
+What is the mean and variance of the frequency?;Unknown (not specified)
+What is the mean and variance of the severity?;Unknown (not specified)
+What is the mean and variance of the aggregate?;Unknown (not specified)
+What is the question asking for?;The probability of a certain event
+How can continuity correction be applied?;By including the probability of a range of values around a specific point
+What are the possible values of the variable?;Unknown (not specified)Question: What is the approximate value of  is?
+Answer: 9/30/23, 7:18 PM
+
+Question: What is the approximate value of  is?
+Answer: 0.66732
+
+Question: What is another way to calculate the aggregate mean and variance?
+Answer: Lognormal ApproximationQ: What is the process for normal approximation?
+A: The process is similar to normal approximation, except we will need to determine the distribution parameters by equating the means and variances.
+
+Q: What are the steps for normal approximation?
+A: The steps are:
+1. Calculate the aggregate mean and variance.
+2. Equate the lognormal mean and variance to solve for the parameters of the approximating distribution.
+3. Calculate the desired quantity based on the approximating distribution.
+
+Q: Is there any additional calculation needed to determine the parameters?
+A: No, there is no additional calculation needed to determine the parameters.
+
+Q: Can you provide an example of normal approximation?
+A: Example S2.5.3.4: The aggregate loss has a mean of 5 and a variance of 1. Determine the mode of the aggregate loss distribution.
+
+Q: What is the solution to (1)?
+A: The solution is to use the lognormal approximation. Equate the lognormal's mean and variance to the aggregate mean and variance.1. What formulas are provided on the exam table?; The moment formulas
+2. How do you solve for the lognormal's parameters using the lognormal approximation?; Using the lognormal approximation
+3. How do you solve for the lognormal's parameters using the normal approximation?; Using the normal approximation
+4. What is the mode of the lognormal distribution?; The mode of the lognormal distribution is unknown as it does not have a simple closed-form expression

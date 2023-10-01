@@ -1,0 +1,59 @@
+ Q: What is the importance of liability insurance?
+A: Liability insurance protects insureds against third-party injuries.
+
+Q: How does liability insurance protect insureds?
+A: Liability insurance protects insureds in two ways.
+
+Q: What are the two distinctive characteristics of liability coverages?
+A: They are categorized as having low frequency, but high severity claims, and they have a potential for high litigation cost.
+
+Q: How long does it usually take for liability claims to be settled?
+A: Once a claim is reported, it usually takes a long time for these claims to be settled.
+
+Q: What is the difference between claims-made basis and occurrence basis for liability coverages?
+A: On a claims-made basis, insureds are only covered for losses if the claims are reported during the policy period. On an occurrence basis, incidents or events that occur during the policy period are covered irrespective of the report date.
+
+Q: Which basis makes liability claims more predictable?
+A: To make these claims more predictable, most liability coverages are on a claims-made basis, instead of an occurrence basis.1. What is tail coverage?
+Answer: Tail coverage is an endorsement offered by some insurers that allows for extended coverage after the policy end date.
+
+2. Why do liability coverages sometimes include defense costs in the policy limit?
+Answer: Including defense costs in the policy limit reduces the insurer's risk as liability coverages have a potential for high payout.
+
+3. Name a few liability coverages that can be purchased.
+Answer: - Product liability insurance
+- Errors and omissions insurance
+- Medical malpractice insurance
+- Professional liability insurance
+- Directors and officers liability insurance
+
+4. What does product liability insurance provide?
+Answer: Product liability insurance provides defense in cases where the policyholder is alleged to be responsible for injuring and/or damaging property of a third party, as the insurer will represent the insured in court.
+
+5. What happens if the policyholder is found guilty in a liability case?
+Answer: If the policyholder is found guilty, the insurer will be responsible for the damages up to the policy limit.1. What is the topic of the resource provided?
+Liability - Learn F AM
+
+2. Where can the resource be found?
+https://account.coachingactuaries.com/fam/learn/491
+
+3. What is the title of the resource?
+S1.1.6 Liability - Learn F AM - Coaching Actuaries
+
+4. What is the date and time provided?
+9/30/23, 7:30 PM
+
+5. What is the topic of section 1.1.6?
+Liability
+
+6. What is the abbreviation for the Coaching Actuaries website?
+F AM
+
+7. What is the topic of section 1.1.6 on the Coaching Actuaries website?
+Liability
+
+8. What is the title of the resource on the Coaching Actuaries website?
+S1.1.6 Liability - Learn F AM
+
+9. What is the topic of the resource provided in the text?
+Cyberliability insurance

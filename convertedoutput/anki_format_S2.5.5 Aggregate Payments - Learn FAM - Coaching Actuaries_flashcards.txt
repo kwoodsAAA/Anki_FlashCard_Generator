@@ -1,0 +1,20 @@
+How can we model the aggregate payment?;There are two ways to model the aggregate payment.
+What is the first way to model the aggregate payment?;The first way is to consider all losses and sum the resulting payment amounts, even if the payment amounts are 0.
+What is the notation for the aggregate model?;The notation for the aggregate model is "S".
+What is the second way to model the aggregate payment?;The second way is to only consider losses that result in positive payments and sum the payment amounts.
+What is the key to ensuring consistency in frequency and severity?;The key is to make sure the frequency and severity are consistent, either both in terms of losses or both in terms of payments.Question
+Give an example of the aggregate payment model.;A policyholder has a 30% chance to incur a loss each year. In the event of a loss, the amount has the following distribution
+How do we calculate the variance of the amount the insurer pays the policyholder in a year?;We can calculate the mean and variance of the aggregate payments using the number of losses and payment per loss approach.question;answer
+What is the alternative approach to calculate the mean and variance of aggregate payments?;We can also calculate the mean and variance of the aggregate payments using the number of payment and payment per payment approach.
+What can be split into two independent categories in the example?;The claims can be split into two independent categories
+What is the property of the sum of independent Poisson random variables?;The sum of independent Poisson random variables is a Poisson random variable.
+What is the reverse property of the sum of independent Poisson random variables?;The reverse is also true.Question
+What distribution does the number of claims that exceed the deductible follow?;Poisson distribution with mean.
+What distribution does the payment per payment follow?;Uniform distribution.
+How do you calculate the mean and variance of the payment per payment?;Using the formulas for mean and variance.
+How do you calculate the mean and variance of the aggregate payment?;Substitute the values into the formulas.
+Are the mean and variance of the aggregate payment the same as those calculated using the previous approach?;Yes.
+How do you calculate the desired probability?;Calculate it using the appropriate method.
+What is the coach's remark?;The coach's remark is not provided.1. What concept is not applicable to the other class distributions?;The concept of splitting the Poisson distribution
+What is the expected insurance payment in a year?;The expected insurance payment in a year is the aggregate insurance payment.
+Where can I find more information about aggregate payments in the Coaching Actuaries course?;You can find more information about aggregate payments in the Coaching Actuaries course under the section "S2.5.5 Aggregate Payments" in the "F AM" module.

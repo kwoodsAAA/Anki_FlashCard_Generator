@@ -1,0 +1,7 @@
+Define two i.i.d. random variables X and Y.;X and Y are independent and identically distributed random variables.
+Evaluate the probability function of X + Y.;The probability function of X + Y is the sum of the probability functions of X and Y.
+Does subadditivity hold for all conditions?;No, subadditivity does not hold under all conditions.
+What property does VaR fail to satisfy?;VaR fails to satisfy the subadditivity property.
+What is the key to the first two tests?;The key is to realize that shifting or scaling a random variable will also shift or scale its percentiles.
+What is translation invariance?;Translation invariance is the property that shifting a random variable by a constant does not change its VaR.
+What is positive homogeneity?;Positive homogeneity is the property that scaling a random variable by a positive constant multiplies its VaR by the same constant.If \(x > t\), then \(TVaR_t(x) \geq TVaR_t(x + c)\) for any positive constant \(c\).

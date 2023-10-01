@@ -1,0 +1,23 @@
+ Question: What is Value-at-Risk (VaR)?
+Answer: For a continuous random variable, its VaR at the 100% level is.
+
+Question: Where can the VaR formula for most distributions be found?
+Answer: The VaR formula for most distributions can be found on the exam table.
+
+Question: What is Tail-Value-at-Risk (TVaR)?
+Answer: For a continuous random variable, its TVaR at the 100% level is.
+
+Question: What are the TVaR formulas for normal and lognormal distributions?
+Answer: The TVaR formulas for normal and lognormal distributions are: Normal, Lognormal.
+
+Question: What properties should a coherent risk measure satisfy?
+Answer: A risk measure is coherent if it satisfies all properties below: Translation invariance, Positive homogeneity, Subadditivity, Monotonicity.
+
+Question: Is VaR coherent?
+Answer: No, VaR is not coherent because it fails to satisfy the subadditivity property.
+
+Question: Is TVaR coherent?
+Answer: Yes, TVaR is coherent.
+
+Question: What is the relation between the existence of positive raw moments and tail weight?
+Answer: The fewer positive raw moments that exist, the greater the tail weight.

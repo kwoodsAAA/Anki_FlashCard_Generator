@@ -1,0 +1,103 @@
+ What is an appropriate estimate of lambda?;The mean of the Poisson distribution
+How can we estimate lambda using the sample?;We can either match the sample moments to the fitted moments or match the sample percentiles to the fitted percentiles
+What does MLE stand for?;Maximum likelihood estimation
+What does MLE find?;The set of parameters that maximizes the likelihood of the observations
+What is the goal of MLE in this example?;To select the value of lambda that maximizes the likelihood of the observations {3, 1, 2}
+How is likelihood defined?;The probability of observing the given set of dataWhat is the likelihood function used interchangeably with?;probability
+What is the likelihood for year 1?;The likelihood for year 1 is
+What is the likelihood for year 2?;The likelihood for year 2 is
+What is the likelihood for year 3?;The likelihood for year 3 is
+What is the likelihood of the observations assuming i.i.d. annual number of claims?;The likelihood of the observations assuming i.i.d. annual number of claims is the product of the likelihood of each observation.
+What is the likelihood function denoted by?;The likelihood function is denoted by 
+What is the idea behind the likelihood function?;The idea is to find the value of  that maximizes the likelihood function.
+What is the likelihood function equivalent to?;The likelihood function appears to be equivalent to a joint probability function evaluated at all of the observations.What is a joint probability function?;A joint probability function is a function of the random variable outcomes.
+What is a handy trick to maximize a likelihood function more efficiently?;If we take the natural logarithm of a function, the result will be positively proportional to the function.
+When will the logarithm of a function achieve its maximum value?;The logarithm of a function will achieve its maximum value at the same critical point as the function itself.
+What is the equivalent of maximizing the logarithm of a function?;Maximizing the logarithm of a function is equivalent to maximizing the function itself.
+Why is the logarithm of the likelihood function easier to take the derivative of?;The logarithm of the likelihood function is easier to take the derivative of because it is a sum, whereas the likelihood function is a product whose derivative will require the product rule.
+What is the log-likelihood function?;The log-likelihood function is the natural logarithm of the likelihood function.
+What do you need to set equal to 0 in order to maximize a function?;To maximize a function, you need to set its first derivative equal to 0.
+What does the "hat" symbol represent in this context?;The "hat" symbol represents the maximum value obtained for a parameter.- Question: Let's try the same example without the log-likelihood function step. Calculate the first derivative of the likelihood function.
+Answer: Set the first derivative equal to zero and solve for .
+
+- Question: Note that although  is a valid solution to the equation, since the Poisson mean, , must be greater than zero,  is not a valid answer. Additionally,  does not maximize .
+Answer: 
+
+- Question: In conclusion, the steps to calculate the MLE of the parameter of a distribution ( in this case) are:
+Answer: Construct the likelihood function. Calculate the log-likelihood function.
+
+- Question: Recall from Section S2.1.1 that alt1. What does evaluating a PDF at a single point describe?
+- The relative likelihood at that given value.
+
+2. What is used as a proxy for the probability of a set of observations?
+- The product of PDFs.
+
+3. What is the example given in S3.1.1.1?
+- Observing 4 claims with claim amounts following an exponential distribution with mean.
+
+4. How do you calculate the maximum likelihood estimate of ?
+- Calculate the first derivative of the log-likelihood function and set it equal to zero, then solve for .
+
+5. What is the first step in calculating the maximum likelihood estimate?
+- Construct the likelihood function.
+
+6. What is the second step in calculating the maximum likelihood estimate?
+- Calculate the log-likelihood function.
+
+7. What is the third step in calculating the maximum likelihood estimate?
+- Calculate the first derivative of the log-likelihood function.
+
+8. What is the fourth step in calculating the maximum likelihood estimate?
+- Set the first derivative equal to zero and solve for .Question: What is the purpose of calculating the log-likelihood function? 
+Answer: The log-likelihood function is used to maximize the likelihood function directly.
+
+Question: How do you calculate the maximum likelihood estimate? 
+Answer: Step 1: Construct the likelihood function. 
+Step 2: Calculate the log-likelihood function. 
+Step 3: Calculate the first derivative of the log-likelihood function. 
+Step 4: Set the first derivative equal to zero. Then, solve for the parameter.
+
+Question: How do you construct the likelihood function for continuous random variables? 
+Answer: For continuous random variables, the likelihood is the probability density function (PDF) evaluated at the observations.
+
+Question: What is the purpose of calculating the log-likelihood function? 
+Answer: The log-likelihood function is used to maximize the likelihood function directly.
+
+Question: How do you calculate the maximum likelihood estimate? 
+Answer: Step 1: Construct the likelihood function. 
+Step 2: Calculate the log-likelihood function. 
+Step 3: Calculate the first derivative of the log-likelihood function. 
+Step 4: Set the first derivative equal to zero. Then, solve for the parameter.Q: What is a "constant" in the context of a likelihood function?
+A: Something that does not depend on the parameter and can be factored out of the likelihood.
+
+Q: Is dropping multiplicative constants allowed in a likelihood function?
+A: Yes, it does not affect the maximum likelihood estimator (MLE) of the parameter(s).
+
+Q: Why do we drop constants in the likelihood function?
+A: Dropping constants simplifies the computation.
+
+Q: How do we estimate two parameters in a likelihood function?
+A: Take partial derivatives with respect to each parameter, set them both equal to zero, then solve for the two parameters.Q: Calculate the maximum likelihood estimators of  and .
+A: The maximum likelihood estimators of  and  can be calculated by finding the values that maximize the likelihood function.
+
+Q: What is the likelihood function?
+A: The likelihood function is the product of the probability density functions (PDFs) of the observed values.
+
+Q: What is the PDF used in this problem?
+A: The PDF used in this problem is not provided.
+
+Q: How do you calculate the log-likelihood function?
+A: The log-likelihood function can be calculated by taking the natural logarithm of the likelihood function.
+
+Q: What is the next step after calculating the log-likelihood function?
+A: The next step is to take partial derivatives of the log-likelihood function with respect to each parameter.
+
+Q: Which parameter do you start with when taking partial derivatives?
+A: The parameter to start with when taking partial derivatives is not specified.
+
+Q: What do you do after taking the partial derivatives?
+A: After taking the partial derivatives, you set them equal to zero to find the values of the parameters that maximize the function.1. What is the first equation to solve?
+Now, we have two equations to solve for two parameters.
+
+2. What is the second equation to solve?
+Multiply [parameter 1] by [parameter 2].

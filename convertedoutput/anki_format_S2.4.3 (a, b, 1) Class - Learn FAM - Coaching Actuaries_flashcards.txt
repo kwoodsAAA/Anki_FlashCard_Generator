@@ -1,0 +1,11 @@
+What is the purpose of adjusting class distributions?;To give the desired treatment to the probability of zero occurrences.
+What is the core difference between the class and class distributions?;The core difference is how they handle zero occurrences.
+What is a zero-truncated distribution?;A distribution where the probability of zero occurrences is removed.
+What is a zero-modified distribution?;A distribution where the probability of zero occurrences is replaced by an arbitrary probability.
+Do zero-truncated and zero-modified distributions have the same parameters?;Yes, they share the same parameters.question
+What do zero-truncated distributions assume?;Zero-truncated distributions assume that the data does not include zero values.
+What happens to the remaining probabilities when a distribution is zero-truncated?;When a distribution is zero-truncated, the remaining probabilities do not sum to 1.
+How do we scale the probabilities in a zero-truncated distribution to make them sum to 1?;We divide each probability by the sum of all probabilities to scale them up.
+What is the formula for scaling the probabilities in a zero-truncated distribution?;Each probability starting from  equals the original PMF scaled by .
+What is the mean of a zero-truncated distribution?;The mean of a zero-truncated distribution is .
+How can we calculate the th raw moment of a zero-truncated distribution?;The th raw moment of a zero-truncated distribution can be easily calculated from the th raw moment of its original distribution.question;answer

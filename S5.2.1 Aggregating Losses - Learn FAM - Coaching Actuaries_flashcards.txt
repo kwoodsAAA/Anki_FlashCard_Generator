@@ -1,0 +1,177 @@
+ question;What is one main component of ratemaking?
+answer;Losses
+question;Why is it important to understand losses for pricing actuaries?
+answer;To accurately estimate the rates that need to be charged for an insurance policy
+question;What are the three steps involved in ratemaking for losses?
+answer;Aggregating, developing, and trending
+question;What are the four common methods for aggregating loss data?
+answer;Calendar year, accident year, policy year, and report year
+question;Which method of loss data aggregation is not covered on this exam?
+answer;Report year aggregationQuestion: What is accident year aggregation?
+Answer: Accident year aggregation considers all loss transactions for accidents that occur within a twelve-month period regardless of the policy issuance date or the claim report date.
+
+Question: What is policy year aggregation?
+Answer: Policy year aggregation considers all loss transactions for policies that are issued within a twelve-month period regardless of the accident occurrence date or the claim report date.
+
+Question: What is the default period for accident year and policy year aggregation?
+Answer: The default period is January 1 to December 31.
+
+Question: Can the twelve-month period for aggregation be any period?
+Answer: Yes, the twelve-month period can be any period that is twelve months long, e.g. May 1 to April 30.
+
+Question: What are the paid losses and incurred losses represented by?
+Answer: The paid losses are represented by  and the incurred losses are represented by  .
+
+Question: What is the calculation for calendar year paid losses?
+Answer: The calendar year paid losses equal the sum of losses paid throughout the year.Q: What are calendar year incurred losses?
+A: Calendar year incurred losses equal the sum of the calendar year paid losses and the change in reserves during the year.
+
+Q: How can calendar year incurred losses be expressed?
+A: Calendar year incurred losses can be expressed as the sum of the calendar year paid losses and the change in reserves during the year.
+
+Q: What are calendar year incurred losses used for?
+A: Calendar year incurred losses are used to calculate the total losses for a specific calendar year.
+
+Q: What is the formula for calendar year incurred losses?
+A: The formula for calendar year incurred losses is: 
+
+Q: What is the role of reserves in the calculation of calendar year incurred losses?
+A: Reserves play a role in the calculation of calendar year incurred losses as they represent the estimated amount of unpaid claims.
+
+Q: When are calendar year incurred losses considered final?
+A: Calendar year incurred losses are considered final at the end of a calendar year because any further development will be recorded in the following calendar year.
+
+Q: What are accident year incurred losses?
+A: Accident year incurred losses are losses that are not fixed and often change as claims are paid and reserves are adjusted.
+
+Q: What is the role of a valuation date in accident year aggregation?
+A: The valuation date plays the role of the development year introduced in the chain-ladder method for accident year aggregation.
+
+Q: What is the formula for accident year paid losses?
+A: The formula for accident year paid losses is the sum of losses paid as of the valuation date on accidents that occurred in that accident year.
+
+Q: How are accident year incurred losses calculated?
+A: Accident year incurred losses are calculated by summing the losses paid as of the valuation date on accidents that occurred in that accident year.
+
+Q: What is the purpose of accident year incurred losses?
+A: The purpose of accident year incurred losses is to measure the total losses for a specific accident year.
+
+Q: What is the relationship between accident year incurred losses and accident year paid losses?
+A: Accident year incurred losses are equal to accident year paid losses plus any changes in reserves.
+
+Q: What is the relationship between calendar year incurred losses and calendar year paid losses?
+A: Calendar year incurred losses are equal to calendar year paid losses plus any changes in reserves.
+
+Q: How are calendar year incurred losses different from accident year incurred losses?
+A: Calendar year incurred losses represent losses for a specific calendar year, while accident year incurred losses represent losses for a specific accident year.
+
+Q: What is the significance of reserves in accident year incurred losses?
+A: Reserves represent the estimated amount of unpaid claims and play a role in the calculation of accident year incurred losses.
+
+Q: What is the role of a valuation date in accident year incurred losses?
+A: The valuation date is used to determine the losses paid as of that date on accidents that occurred in a specific accident year.1. What is the formula to calculate the sum of accident year paid losses and reserves as of the valuation date?
+Answer: The sum of accident year paid losses and reserves = accident year paid losses + reserves as of the valuation date.
+
+2. How are policy year paid losses and incurred losses calculated?
+Answer: Policy year paid losses and incurred losses are calculated by aggregating losses based on the twelve-month period during which the policies were issued.
+
+3. What is the example given in the text?
+Answer: Sigma Insurance Company issued an auto policy on July 1, 2015, and a claim was reported for an accident that occurred on February 2, 2016.
+
+4. What are the transactions for this claim?
+Answer: Transaction Date: 2/15/2016, Incremental Paid Loss: $0, Case Reserve: $1,000.1. What is the incurred loss for CY2016?
+Answer: 2,600
+2. What is the incurred loss for CY2017?
+Answer: 500
+3. What is the AY2016 as of 12/31/2016?
+Answer: 2,600
+4. What is the AY2016 as of 12/31/2017?
+Answer: 2,100
+5. What is the PY2015 as of 12/31/2017?
+Answer: 0
+6. What is the PY2016 as of 12/31/2017?
+Answer: 3,0001. What is the incurred loss for CY2016?
+Answer: The incurred loss for CY2016 is zero.
+2. What is the incurred loss for CY2017?
+Answer: The incurred loss for CY2017 is 3,000.
+3. What is the accident year?
+Answer: The accident year is 2016.
+4. What is the case reserve as of 12/31/2016?
+Answer: The case reserve as of 12/31/2016 is 2,600.
+5. What is the incurred loss for AY2016 as of 12/31/2017?
+Answer: The incurred loss for AY2016 as of 12/31/2017 is 3,000.
+6. What is the policy year?
+Answer: The policy year is PY2015.
+7. What is the incurred loss for PY2015 as of 12/31/2017?
+Answer: The incurred loss for PY2015 as of 12/31/2017 is 3,000.question;answer
+What is the policy effective date for policy A?;1/1/2017
+What is the policy expiration date for policy A?;12/31/2017
+What is the policy effective date for policy B?;4/1/2017
+What is the policy expiration date for policy B?;3/31/2018
+What is the policy effective date for policy C?;2/1/2018
+What is the policy expiration date for policy C?;1/31/2019
+What is the accident date for claim #1?;6/28/2017
+What is the policy associated with claim #1?;B
+What is the accident date for claim #2?;12/20/2017
+What is the policy associated with claim #2?;A
+What is the accident date for claim #3?;7/14/2018
+What is the policy associated with claim #3?;C
+What is the transaction date for claim #1, transaction #1?;7/2/2017
+What is the incremental paid loss for claim #1, transaction #1?;0
+What is the case reserve for claim #1, transaction #1?;4,000
+What is the transaction date for claim #1, transaction #2?;7/20/2017
+What is the incremental paid loss for claim #1, transaction #2?;2,300
+What is the case reserve for claim #1, transaction #2?;1,700
+What is the transaction date for claim #1, transaction #3?;8/15/2017
+What is the incremental paid loss for claim #1, transaction #3?;1,700
+What is the case reserve for claim #1, transaction #3?;0
+What is the transaction date for claim #2, transaction #1?;12/28/2017
+What is the incremental paid loss for claim #2, transaction #1?;0
+What is the case reserve for claim #2, transaction #1?;3,000
+What is the transaction date for claim #2, transaction #2?;1/3/2018
+What is the incremental paid loss for claim #2, transaction #2?;0
+What is the case reserve for claim #2, transaction #2?;5,000
+What is the transaction date for claim #2, transaction #3?;6/6/2018
+What is the incremental paid loss for claim #2, transaction #3?;3,200
+What is the case reserve for claim #2, transaction #3?;1,800
+What is the transaction date for claim #3, transaction #1?;7/30/2018
+What is the incremental paid loss for claim #3, transaction #1?;0
+What is the case reserve for claim #3, transaction #1?;2,500
+What is the transaction date for claim #3, transaction #2?;8/15/2018
+What is the incremental paid loss for claim #3, transaction #2?;1,400
+What is the case reserve for claim #3, transaction #2?;1,100
+What is the transaction date for claim #2, transaction #4?;9/10/2018
+What is the incremental paid loss for claim #2, transaction #4?;1,500
+What is the case reserve for claim #2, transaction #4?;1,000Question: What information do we need to calculate incurred losses for CY2018?
+Answer: We need the paid losses for CY2018 and the change in reserves during the year.
+
+Question: What are the paid losses in 2018?
+Answer: The paid losses in 2018 are [insert paid losses for CY2018].
+
+Question: How do we calculate the reserves at the end of CY2017 for each claim?
+Answer: At the end of CY2017, claims #1 and #3 do not have case reserves. Claim #2 has a case reserve of 3,000.
+
+Question: How do we calculate the reserves at the end of CY2018 for each claim?
+Answer: At the end of CY2018, claim #1 does not have a case reserve. Claim #2 has a case reserve of 1,000. Claim #3 has a case reserve of 1,100.
+
+Question: What are the incurred losses for CY2018?
+Answer: The incurred losses for CY2018 are [insert calculated incurred losses for CY2018].
+
+Question: What information do we need to calculate incurred losses for AY2017?
+Answer: We only consider loss transactions from accidents that occurred in [insert AY2017].question;answer
+As of 12/31/2017, what is the status of claim #1?;fully paid
+As of 12/31/2017, what is the status of claim #2?;no payments made
+What is the case reserve for claim #2 as of 12/31/2017?;3,000
+What are the incurred losses for AY2017 as of 12/31/2017?;9/30/23, 5:59 PM S5.2.1 Aggregating Losses - Learn F AM - Coaching Actuaries
+What policies are considered for calculating losses for PY2018?;Only Policy C
+What is the status of claim #3 as of 12/31/2018?;1,400 paid and a case reserve of 1,1001. What is the advantage of using earned year data in ratemaking?
+Answer: It reflects a more responsive loss experience, as the data tends to be more recent.
+
+2. Why is policy year data typically used in ratemaking?
+Answer: It reflects a more complete experience.
+
+3. What is a disadvantage of using calendar year data in ratemaking?
+Answer: There is often a mismatch in timing between the premiums and losses.
+
+4. Why is calendar year data generally not used in ratemaking?
+Answer: The data will likely be outdated.

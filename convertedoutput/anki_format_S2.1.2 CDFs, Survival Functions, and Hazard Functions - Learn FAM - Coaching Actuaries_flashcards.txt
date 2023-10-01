@@ -1,0 +1,13 @@
+What does the first derivative of the CDF return for continuous random variables?;The first derivative of the CDF returns the PDF.
+What properties do all CDFs satisfy?;All CDFs, discrete or continuous, satisfy certain properties.
+What is the survival function?;The survival function is the complement of the CDF.
+How is the survival function commonly denoted?;The survival function is commonly denoted by one of the following.S2.1.2 CDFs, Survival Functions, and Hazard Functions - Learn F AM - Coaching Actuaries
+What is the relationship between survival function and CDF?;Survival function has a complementary relationship with the CDF.
+Do we need to pay attention to the inequality sign when using survival function?;Yes, we need to pay attention to its inequality sign.
+Do both inequality signs produce the same continuous event?;Yes, both inequality signs produce the same continuous event.
+Is the same true for discrete distributions?;No, the same is not true for discrete distributions.
+Why is it important to use the correct inequality sign for discrete random variables?;Using the correct inequality sign is important for discrete random variables.
+What are the survival function formulas for discrete and continuous random variables?;If the random variable is continuous, we can use the relationship between CDF and survival function to derive a relationship between the PDF and survival function.
+What properties do all survival functions satisfy?;All survival functions satisfy properties that mirror the CDF properties.
+What is the hazard function?;The hazard function is the ratio of the PDF of a random variable to its survival function.
+What are some other names for the hazard function?;Some other names for the hazard function are hazard rate and force of mortality.random variable; is usually denoted by

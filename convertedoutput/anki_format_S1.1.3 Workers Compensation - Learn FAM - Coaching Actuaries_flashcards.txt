@@ -1,0 +1,22 @@
+What is an example of an early adoption of no-fault insurance?;Workers compensation.
+Under the current law, who is responsible for occupational accidents or injuries?;Employers.
+Are employers required to provide compensation to their employees regardless of who is at fault?;Yes.
+In the past, what did workers have to do to receive compensation for occupational injuries or illnesses?;Sue their employers and provide proof of negligence.
+What were the three main reasons it was tough for employees to prove negligence?;Doctrine of Contributory Negligence, Fellow-Servant Doctrine, and Assumption of Risk Doctrine.1. What is the Assumption-of-Risk Doctrine?
+Which workers are typically not covered by workers compensation?;Farm laborers, domestic servants, and employees of very small firms.
+What must a worker do to receive indemnification for an injury or disease under workers compensation?;The conditions must arise from constant exposure over time in relation to employment.
+Give examples of possible conditions that may be covered under workers compensation.;Carpal tunnel syndrome, hearing loss, and asbestosis.
+Give examples of situations that are not covered under workers compensation.;Injuries or illnesses arising from driving to and from work, employee intoxication, and intentional self-inflicted injuries.
+What are some benefits typically provided by workers compensation?;Medical care benefits.
+Is there a limit to the medical care benefits provided by workers compensation?;No, workers compensation usually has unlimited medical care benefits.Question
+How are disability benefits determined?;Disability benefits are determined based on the worker's average weekly salary and the degree of disability. It is usually a percentage of the worker's average weekly salary.
+What are the categories of disability?;Temporary but total, permanent and total, temporary and partial, or permanent but partial.
+Are there any limits on medical care benefits?;There are no limits on the dollar amount or duration of medical care benefits.
+Are workers' compensation benefits taxable income?;Typically, workers' compensation benefits are non-taxable income.
+Who mostly pays for rehabilitation services and benefits in the U.S.?;In the U.S., rehabilitation services and benefits are mostly paid by private insurers or self-insured employers.
+How are premiums for workers' compensation insurance determined for large companies insured by private insurers?;Premiums for large companies insured by private insurers are determined based on factors such as payroll and industry class.
+How are premiums for workers' compensation insurance determined for small companies?;Premiums for small companies are usually set at the same rate as companies with a similar industry classification.Question
+In some states, who covers the administrative costs related to workers compensation?;A government agency.
+What are the requirements for workers to be eligible for workers compensation?;They must work in a covered occupation and have an injury or disease that was a result of the course of employment.
+How is workers compensation administered in Canada?;It is administered separately in each province by a Workers Compensation Board.
+How are workers compensation programs administered in most of the rest of the world?;They are administered by a government agency.

@@ -1,0 +1,7 @@
+What is the purpose of transforming random variables?;To determine the distribution of a random variable that is a function of another random variable.
+What are the steps to determine the PDF of a transformed random variable?;1. Determine the CDF of the original random variable.
+What is the random variable Y?;Y is another random variable.
+What is the PDF of Y?;To find the PDF of Y, we need to follow the steps mentioned in the solution.
+What is Step 1?;Skip Step 1 because we already have the CDF of Y.
+What is Step 2?;Restate the CDF of Y using the CDF of X.
+What is Step 3?;Determine the PDF of Y.

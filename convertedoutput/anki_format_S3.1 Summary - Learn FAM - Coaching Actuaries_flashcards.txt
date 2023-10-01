@@ -1,0 +1,24 @@
+What is complete data?;Complete data describes data where we know the exact value of each observation and have a full dataset.
+What are the steps to calculate the MLE of a parameter?;To estimate two parameters, take the first partial derivative of the likelihood/log-likelihood function with respect to each parameter. Then, set them both equal to zero and solve.
+What is left-truncation?;Left-truncation at [value] means the data below [value] was not recorded.
+What is right-truncation?;Right-truncation at [value] means the data above [value] was not recorded.
+What is left-censoring?;Left-censoring at [value] means the data below [value] is recorded as [value].
+What is right-censoring?;Right-censoring at [value] means the data above [value] is recorded as [value].Special Cases
+How can the MLE of certain parameters be calculated?;By matching the fitted moment to the sample moment.
+What are the distribution shortcuts for complete data?;Gamma, Exponential, Normal, Lognormal, Poisson, Binomial.
+What are the distribution shortcuts for fixed data?;Gamma, Exponential, Binomial, Negative binomial.
+What are the distribution shortcuts for incomplete data?;Geometric, Uniform.
+What does the symbol "n" represent in the table?;The number of uncensored data points.
+What does the symbol "m" represent in the table?;The number of censored data points.
+What does the symbol "x" represent in the table?;The observed value, or the censoring point for censored data.
+What does the symbol "t" represent in the table?;The truncation point.
+What is the distribution shortcut for Pareto?;Pareto.
+What is the distribution shortcut for S-P Pareto?;S-P Pareto.
+What is the distribution shortcut for Inverse exponential?;Exponential.
+What is the distribution shortcut for Weibull?;Weibull.
+What is the distribution shortcut for Beta with fixed parameters?;Beta.
+What is the distribution shortcut for Beta with variable parameters?;Beta.
+What is the distribution shortcut for Uniform with grouped data?;Uniform.Question
+What is Beta in statistics?;Beta in statistics refers to the Beta distribution, which is a continuous probability distribution defined on the interval [0, 1].
+What does "fixed" mean in the context of Beta distribution?;In the context of the Beta distribution, "fixed" means that the parameters of the distribution are predetermined and do not change.
+What is left-truncation in statistics?;Left-truncation refers to a situation where the data is only observed if it exceeds a certain threshold or lower bound. It is a form of censoring in survival analysis.

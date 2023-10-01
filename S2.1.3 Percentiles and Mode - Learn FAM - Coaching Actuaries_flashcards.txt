@@ -1,0 +1,77 @@
+ Question: What is the definition of the 100th percentile of a random variable?
+Answer: The value that satisfies both of these inequalities:
+Question: How can the definition of the 100th percentile be simplified for continuous distributions?
+Answer: By restating the two inequalities as:
+Question: What is the 100th percentile of a continuous random variable?
+Answer: The value that satisfies the equation: 
+Question: What are the special names for certain percentiles?
+Answer: The 25th percentile is the 1st quartile, the 50th percentile is the median or the 2nd quartile, and the 75th percentile is the 3rd quartile.Question: What is the median of the random variable?
+Answer: The median is the 50th percentile of the random variable.
+
+Question: What is the 3rd quartile of the random variable?
+Answer: The 3rd quartile is the 75th percentile of the random variable.
+
+Question: How do you determine the CDF of a random variable to compute its percentiles?
+Answer: For a continuous random variable, the CDF is the value of the random variable such that the probability is equal to the desired percentile. For example, the CDF evaluated at the median must produce a probability of 0.5, and the CDF evaluated at the 3rd quartile must produce a probability of 0.75.
+
+Question: What is the full definition of a percentile for a discrete random variable?
+Answer: For a discrete random variable, the full definition of a percentile must be used. It cannot use the shortcut formula. The percentile can be determined by sketching a graph of the cumulative distribution function (CDF).question: How do we determine the 100th percentile?
+answer: Draw a horizontal line and find the x-coordinate of the point where it intersects the CDF.
+
+question: What happens if there are multiple points of intersection?
+answer: All the x-coordinates of the points of intersection will count as the percentile.
+
+question: What does the line represent in the graph?
+answer: The line represents the percentile.
+
+question: How can we verify if our answer is correct?
+answer: Check if the percentile satisfies the two inequalities.
+
+question: What does it mean if the line intersects the CDF at a certain x-coordinate?
+answer: It means that the x-coordinate is the percentile.
+
+question: Is 2 only the 50th percentile?
+answer: No, 2 is any percentile between the 40th and the 60th.
+
+question: Does the line intersect the CDF in the last mentioned scenario?
+answer: The text does not provide information about the intersection in that scenario.Question: What does the CDF intersect at every point from [5,8]?
+Answer: The CDF intersects at every point from 5 to 8 (including 5 and 8).
+
+Question: How can the 75th percentile be confirmed?
+Answer: The 75th percentile can be confirmed by checking if both inequalities are satisfied for any value in the interval [5,8].
+
+Question: What can be tricky when determining the percentiles of a discrete distribution?
+Answer: Determining the percentiles of a discrete distribution can be tricky because multiple percentiles can have the same value and multiple values can correspond to the same percentile.
+
+Question: What conclusion can be made about computing percentiles for continuous random variables?
+Answer: If a continuous random variable is strictly increasing (except when it equals 0 or 1), it is easy to compute its percentiles.
+
+Question: What does the CDF plot for a continuous example show?
+Answer: The CDF plot for a continuous example shows that the CDF is strictly increasing, except when it equals 0 or 1.What does it mean if a function is one-to-one?;A function is one-to-one if each element in the domain is mapped to a unique element in the range.
+What is the inverse function of a one-to-one function?;The inverse function of a one-to-one function is a function that undoes the action of the original function.
+What does it mean if a CDF plot is a step graph?;If a CDF plot is a step graph, it means that the random variable is discrete.
+How are percentiles calculated for discrete distributions?;For discrete distributions, percentiles have to be calculated using the full definition of percentile.
+How are percentiles calculated for both discrete and continuous distributions?;For both discrete and continuous distributions, percentiles are calculated using the CDF (Cumulative Distribution Function).
+What is the mode of a random variable?;The mode is the value of the random variable that occurs most frequently.Question: What is the mode of a random variable for discrete distributions?
+Answer: The mode of a random variable for discrete distributions is the value that maximizes the probability mass function (PMF).
+
+Question: How is the mode calculated for continuous random variables?
+Answer: For continuous random variables, the mode is calculated by maximizing the probability density function (PDF). This is done by taking the first derivative of the PDF, setting it equal to zero, and solving for the mode.
+
+Question: What does the second derivative test verify for critical points?
+Answer: The second derivative test can be used to verify if a critical point corresponds to a local maximum or minimum of the probability function.
+
+Question: Do most distributions have one local maximum that coincides with the global maximum?
+Answer: Yes, most distributions have one local maximum that coincides with the global maximum. Therefore, for most exam questions, the simple approach of finding the mode using the first derivative of the PDF will be sufficient for continuous distributions.
+
+Question: Can the global maximum exceed the local maxima found by the simple approach?
+Answer: Yes, it is possible for the global maximum to exceed the local maxima found by the simple approach, especially when the mode is an endpoint of the domain. In such cases, evaluating the density function at the endpoints may be necessary for a thorough analysis.question;What is a mode in statistics?
+answer;The mode in statistics refers to the value or values that occur most frequently in a dataset.
+question;Can a random variable have multiple modes?
+answer;Yes, it is possible for a random variable to have multiple modes. This occurs when more than one value of the random variable produces the maximum probability mass function (PMF) or probability density function (PDF).
+question;How do you calculate the mode of a distribution?
+answer;For both discrete and continuous distributions, the mode(s) can be calculated by maximizing the PMF or PDF. This can be done by finding the value(s) of the random variable where the derivative of the PMF or PDF is equal to zero and solving for those value(s).
+question;What is the mode of a continuous random variable with a given PDF?
+answer;To determine the mode of a continuous random variable with a given PDF, you can find the derivative of the PDF, equate it to zero, and solve for the value(s) of the random variable where the derivative is zero. These value(s) represent the mode(s) of the continuous random variable.What is the second derivative test used for?;It is used to determine whether a critical point corresponds to a local minimum or a local maximum.
+What does a negative second derivative indicate?;A negative second derivative indicates that the critical point corresponds to a local maximum.
+What does a positive second derivative indicate?;A positive second derivative indicates that the critical point corresponds to a local minimum.

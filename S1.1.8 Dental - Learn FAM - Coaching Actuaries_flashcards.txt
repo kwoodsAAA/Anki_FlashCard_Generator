@@ -1,0 +1,28 @@
+ Question: Why is dental insurance usually issued under group policies instead of individual policies?
+Answer: Dental claims are smaller and occur more frequently, making individual policies less valuable for sharing costs among a group of insureds. Additionally, group policies receive a tax subsidy under the U.S. tax code.
+
+Question: How are dental coverages categorized?
+Answer: Dental coverages are categorized into four types: Type I, Type II, Type III, and Type IV.
+
+Question: Which type of dental coverage typically has the highest benefit?
+Answer: Type I coverage typically has the highest benefit.
+
+Question: Why is Type IV coverage often excluded from dental policies?
+Answer: Type IV coverage is often excluded from dental policies due to its elective nature and proneness to anti-selection.I Diagnostic and Preventive Oral Examination; Cleaning
+II Basic Services Extractions; Restorations; Endodontics; Periodontics
+III Prosthetic Coverage Inlays; Crowns
+IV Orthodontia Braces; Retainer
+
+In general, the proportion of a dental insurer’s benefit costs for Coverages I, II, and III are approximately 40%, 45%, and 15%, respectively.
+
+Multiple Options for Treatment
+Typically, a person can address their dental needs in numerous ways. It is common to even defer treatment if the need is not urgent. However, a policyholder’s decision would be highly influenced by the presence of insurance coverage. They may choose to over-utilize their benefits. This is called induced utilization, and it can be addressed using at least one of two ways.Preauthorization;Requiring approval from an insurance company before services can be performed.
+Accumulated Untreated Conditions;Patients have the ability to postpone treatment until insurance is present.
+External Anti-Selection;Most individuals are well aware of their dental health and tend to choose dental coverages that will benefit them the most.
+Pediatric Dental Coverage under ACA;Beginning in 2014, pediatric services, including oral and vision, were required to be covered in all non-grandfathered individual and small group health plans as essential health benefits.To help insurance companies, the government has allowed carriers to offer health policies without dental coverage as long as standalone dental plans are made available to prospective insureds.
+
+Question: What has the government allowed insurance carriers to do?
+Answer: The government has allowed insurance carriers to offer health policies without dental coverage.
+
+Question: What condition must be met for insurance carriers to offer health policies without dental coverage?
+Answer: Standalone dental plans must be made available to prospective insureds.

@@ -1,0 +1,32 @@
+What is the purpose of ratemaking?;To determine premium rates for the future.
+What adjustments need to be made to historical information in ratemaking?;Adjustments for changes like inflation or underwriting procedures.
+What is the experience period?;The historical period used in ratemaking.
+What is the forecast period?;The expected effective period for premium rates.
+What is loss trending?;The process of adjusting historical information for changes in ratemaking.Question
+What is the trend factor in loss trending?;The trend factor is used to adjust the ultimate values from the experience period to the expected effective period.
+What is the overlap fallacy?;The overlap fallacy is a misconception that developing and trending losses will double-count the effect of inflation and other possible changes.
+Are development and trending steps independent of each other?;Yes, development and trending are two independent steps in ratemaking.
+What are the two components of loss trending?;The two components of loss trending are the trend period and the trend factor.What is the trend period calculation based on?
+How is the length of the expected effective period determined?;The length of the expected effective period is determined as the sum of two quantities
+Why is the expected effective period longer than the policy term?;The expected effective period is longer than the policy term because policies will be sold at the new rate for as long as the rates are in effect and because the last policy sold will be in effect for the length of the policy term.
+How is the expected effective period calculated for annual policies with rates effective for one year?;If the rates are calculated for annual policies and are effective for one year, then the expected effective period is a two-year time period starting from the effective date.Question
+What is the midpoint of the forecast period if the effective date is October 1, 2018?;October 1, 2019
+If rates are calculated for annual policies and are effective for six months, what is the expected effective period?;18-month time period starting from the effective date
+What is the forecast period if the effective date is October 1, 2018 and policies are assumed to be written/issued uniformly throughout the year?;October 1, 2018 to March 31, 2020
+What is the midpoint of the forecast period if the effective date is October 1, 2018 and policies are assumed to be written/issued uniformly throughout the year?;July 1, 2019
+What is the length of the trend period?;Not provided in the textQuestion
+What is the expected effective period for the first example?;October 1, 2018 to September 30, 2020
+What is the trend period for the first example?;July 1, 2015 to October 1, 2019, or 4 years and 3 months (4.25 years)
+What is the experience period for the second example?;January 1, 2015 to December 31, 2016
+What is the expected effective period for the second example?;October 1, 2018 to September 30, 2020
+What is the trend period for the second example?;January 1, 2016 to October 1, 2019, or 3 years and 9 months (3.75 years)
+What is the trend period for AY2015?;July 1, 2015 to October 1, 2019, or 4.25 years
+What is the trend period for PY2015?;January 1, 2016 to October 1, 2019, or 3.75 yearsquestion;What is a trend factor used for?
+What is the method used to predict losses for the forecast period?;Assigning weights to each year and calculating the weighted average of the trended ultimate losses.
+What is the responsibility of the pricing actuary when choosing a methodology to trend losses?;Justify the methodology chosen.
+Besides trending losses, what else can be done?;Projecting losses directly using regression.Question
+What is the loss experience of Garnier Insurance?;The loss experience is as follows
+What is the trend chosen by Actuary Jon for the forecast period?;Actuary Jon chose a trend of 6% per year compounded continuously.
+What are the weights assigned to each accident year's loss experience?;The weights assigned are as follows
+What type of policies does Garnier Insurance write?;Garnier Insurance only writes annual policies.
+How can the projected ultimate losses be calculated for the forecast period?;The projected ultimate losses can be calculated by applying the trend to each accident year's loss experience, multiplying it by the corresponding weight, and summing them up.question;answer

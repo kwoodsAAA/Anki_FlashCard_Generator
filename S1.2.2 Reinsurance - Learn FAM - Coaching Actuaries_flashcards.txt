@@ -1,0 +1,145 @@
+ question;answer
+What is reinsurance?;Reinsurance is essentially insurance for insurance companies.
+Who is the primary insurer in a reinsurance contract?;The primary insurer, also known as the cedant.
+What is retrocession in reinsurance?;Retrocession is the process of a reinsurance company ceding the risk to another reinsurance company.
+Why is reinsurance important?;Reinsurance is important for capital relief and managing risk.
+Do insurance companies need reserves for reinsured risk?;No, insurance companies are not required to have reserves for reinsured risk.Q: What is one benefit of reinsurance for insurance companies?
+A: Insurance companies can free up capital for other purposes.
+
+Q: How does reinsurance increase underwriting capacity?
+A: Reinsurance allows insurance companies to assume risk greater than their risk appetite by ceding a portion of the risk to reinsurance companies.
+
+Q: What is one purpose of reinsurance for insurance companies?
+A: Reinsurance provides catastrophe protection against catastrophic losses.
+
+Q: How does reinsurance stabilize loss experience for insurance companies?
+A: Reinsurance protects insurance companies against fluctuations in losses from non-catastrophic claims.
+
+Q: What is one advantage of reinsurance for insurance companies in terms of risk diversification?
+A: Reinsurance allows insurance companies to diversify their portfolio and avoid having a high concentration of risk in one geographical area or of one specific type of risk.
+
+Q: Why is technical expertise a benefit of reinsurance for insurance companies?
+A: Reinsurance companies usually have more experience handling claims with large losses, which insurance companies can leverage.Q: What is the purpose of reinsurance?
+A: To transfer risk to reinsurance companies and benefit from their expertise.
+
+Q: How can insurance companies exit the market?
+A: By ceding all their risk through reinsurance.
+
+Q: What are the two types of reinsurance?
+A: Treaty and facultative.
+
+Q: What is treaty reinsurance?
+A: It is an agreement where all risks in a specific line or class of business will be ceded to the reinsurer.
+
+Q: What is facultative reinsurance?
+A: It is used for ceding individual risks, where the primary insurer determines which risks to cede.
+
+Q: What are the two categories of reinsurance based on how the risk is shared?
+A: Pro rata and excess of loss.
+
+Q: What is pro rata reinsurance?
+A: It is an agreement where both the cedant and reinsurer share the risk.
+
+Q: What is excess of loss reinsurance?
+A: It is an agreement where the reinsurer covers losses that exceed a certain threshold.Q: What is pro rata reinsurance?
+A: The agreement where losses are shared proportionally between the primary insurer and the reinsurer.
+
+Q: What are the two types of pro rata reinsurance?
+A: Quota share and surplus share.
+
+Q: How does quota share reinsurance work?
+A: Both parties share a percentage of the total risk, such as a 70%/30% agreement.
+
+Q: How does surplus share reinsurance work?
+A: Both parties share a percentage of the total risk above a specified amount, known as the retention limit or attachment point.
+
+Q: Can you give an example of quota share reinsurance?
+A: An example is a 70%/30% agreement, where the primary insurer pays 70% and the reinsurer pays 30% of any claims arising from covered risks.
+
+Q: Can you give an example of surplus share reinsurance?
+A: An example is an agreement where the primary insurer and reinsurer respectively pay 70% and 30% above a retention of 50,000.question: What is the sharing percentage for claims up to 50,000?
+answer: 70%/30%
+
+question: Are all surplus share contracts as simple as the example above?
+answer: No
+
+question: What can the sharing of risk above the retention limit be split into?
+answer: Multiple layers with varying percentages
+
+question: What is the similarity between quota share reinsurance and coinsurance?
+answer: Similar to the application of coinsurance
+
+question: What is the similarity between surplus share reinsurance and a deductible and coinsurance?
+answer: Similar to the combination of a deductible and coinsurance
+
+question: What does " be" represent in the context of reinsurance?
+answer: The insurer's claim payment without reinsurance
+
+question: What does " be" represent in the context of reinsurance?
+answer: The attachment point
+
+question: What does " and " represent in the context of reinsurance?
+answer: The shares of the total risk above any attachment point for the insurer and reinsurer, respectively
+
+question: What are the claim payments for the insurer and reinsurer under quota share reinsurance?
+answer: 9/30/23, 7:33 PM S1.2.2 Reinsurance - Learn F AM - Coaching Actuaries
+
+question: What is the source of this information?
+answer: https://account.coachingactuaries.com/fam/learn/491 1/4914/34801question;answer
+Living Right's payment amount for a claim of size 450,000.;450,000
+Stockholm's payment amount for a claim of size 650,000.;500,000question: What is Stockholm's share in the excess above 500,000?
+answer: Both parties share the excess above 500,000.
+
+question: What should be specified in exam questions on pro rata reinsurance?
+answer: The portion covered by each party should be specified.
+
+question: What should be assumed if an exam question does not specify the portion covered by the reinsurer?
+answer: Assume the percentage mentioned in the question is the portion covered by the reinsurer.
+
+question: What should be done if a question on the exam has ambiguity regarding the portion covered by each party?
+answer: Provide feedback to the SOA via the post-exam survey at your test center.Question: What is the structure of the reinsurance treaty in layers?
+Answer: Layer 1: 70% of 500,000 in excess of 1,000,000; Layer 2: 80% of 500,000 in excess of 1,500,000; Layer 3: 90% in excess of 2,000,000.
+
+Question: What are the percentages covered by the reinsurer for each layer?
+Answer: Layer 1: 70%; Layer 2: 80%; Layer 3: 90%.
+
+Question: What is the total loss incurred by the reinsurer for a loss of 2,750,000?
+Answer: The reinsurer does not pay anything up to the retention point. For the first layer, the reinsurer pays 70% of 500,000. For the second layer, the reinsurer pays 80% of 500,000. For the third layer, the reinsurer pays 90% of 750,000. Thus, the total loss is: (70% of 500,000) + (80% of 500,000) + (90% of 750,000).question: What is excess of loss reinsurance?
+answer: Under excess of loss reinsurance, the reinsurer is responsible for all claim amounts above the primary insurer's retention.
+
+question: How is excess of loss reinsurance similar to a deductible provision?
+answer: Excess of loss reinsurance is similar to a deductible provision because the reinsurer only covers claim amounts above the primary insurer's retention.
+
+question: What are the different bases for excess of loss reinsurance?
+answer: The different bases for excess of loss reinsurance are per risk, per occurrence, and aggregate (stop-loss).
+
+question: What does per-risk excess of loss reinsurance cover?
+answer: Per-risk excess of loss reinsurance covers claims for a single policy.
+
+question: What does per-occurrence excess of loss reinsurance cover?
+answer: Per-occurrence excess of loss reinsurance covers claims resulting from one occurrence or event that impacts multiple policies.
+
+question: What does aggregate excess of loss reinsurance cover?
+answer: Aggregate excess of loss reinsurance covers aggregate losses within a specific policy period.
+
+question: What is the claim payment for the insurer in a simple case of excess of loss reinsurance with an attachment point of (not provided)?
+answer: The claim payment for the insurer is not provided.
+
+question: What is the claim payment for the reinsurer in a simple case of excess of loss reinsurance with an attachment point of (not provided)?
+answer: The claim payment for the reinsurer is not provided.
+
+question: What is the claim information given for the insurer's earthquake claim?
+answer: Claim Number: 1001, Policy Number: A3001, Loss ($): 250,000.Question: What is the retention limit for the excess of loss reinsurance treaty?
+Answer: 500,000
+
+Question: What is the retained loss for Policy A3001?
+Answer: 500,000
+
+Question: What is the retained loss for Policy A2936?
+Answer: 236,500
+
+Question: What are the primary insurer's retained losses if the treaty is on a per-risk basis?
+Answer: The retained losses for the primary insurer if the treaty is on a per-risk basis.
+
+Question: What are the losses for the reinsurer if the treaty is on a per-occurrence basis?
+Answer: The losses for the reinsurer if the treaty is on a per-occurrence basis.

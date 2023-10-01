@@ -1,0 +1,8 @@
+How can we calculate percentiles of a normal distribution?;The same logic applies to percentiles. Let x be the 100th percentile of a normal distribution with mean mu and variance sigma^2.
+Consider the following example;Calculate the 97th percentile of X.
+Calculate the 97th percentile of X.;Reverse the standardization to get the percentile for X.Q
+What is the PDF of a lognormal distribution?;A lognormal distribution's PDF resembles a normal distribution's PDF, with the most prominent difference of  in the exponent in place of .
+Are the  and  of the lognormal distribution its mean and variance?;No, the  and  of the lognormal distribution are just parameters, not its mean and variance.
+How can the lognormal mean and variance be calculated?;The variance can be calculated from the first and second moments or using a shortcut formula.
+How can the CDF of a lognormal distribution be calculated?;The CDF of a lognormal distribution can be calculated by log-transforming the normal random variable.1. Calculate the 95th percentile of the standard normal random variable.
+Can you provide an example?;For example, assume X and Y are two independent normal random variables. Define Z as the sum. Z follows a normal distribution with the following mean and variance.

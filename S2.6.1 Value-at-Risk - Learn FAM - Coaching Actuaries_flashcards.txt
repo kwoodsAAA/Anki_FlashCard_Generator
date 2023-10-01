@@ -1,0 +1,25 @@
+ Q: What is the Value-at-Risk (VaR) of a random variable? 
+A: The VaR of a random variable is just a fancy name for its percentile.
+
+Q: What is the VaR at the 100% security level? 
+A: The VaR at the 100% security level is denoted as VaR(0.01) or VaR(1).
+
+Q: What is the difference between Variance and Value-at-risk? 
+A: Variance measures the dispersion of a random variable, while Value-at-risk measures the percentile of a random variable.
+
+Q: Can the VaR be calculated efficiently without inverting the CDF? 
+A: Yes, the VaR can be efficiently calculated using the VaR formulas provided in the exam table.
+
+Q: How can the 95th percentile of the annual loss be calculated for a Weibull distribution? 
+A: The 95th percentile of the annual loss can be calculated using the VaR formula provided in the exam table.1. What does VaR stand for?; Value-at-Risk
+2. What does VaR help actuaries understand?; The likelihood of extreme losses
+3. What is the formula for calculating VaR?; Take the inverse of the CDF
+4. What is the 95th percentile in the provided example?; 7,207.83
+5. What does a 5% chance of observing a loss greater than 7,207.83 mean?; The likelihood of observing a loss greater than 7,207.83 is 5%
+6. What is the mean and variance in the provided example?; Mean = 4, Variance = 0.25
+7. What is the VaR at the 99% level in this example?; The value such that the VaR of x at the 99% level is 1 (as per the formula)
+8. What is the relationship between a normal distribution and a lognormal distribution?; If x is normal, then e^x is lognormal with the same parametersQuestion: What is the alternative solution to (2)?
+Answer: Computing VaR using first principles.
+
+Question: When is the alternative solution explained?
+Answer: In Section S2.2.6.

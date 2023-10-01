@@ -1,0 +1,17 @@
+What are the two main categories of expenses in the ratemaking process?;loss adjustment expenses and other expenses
+What are loss adjustment expenses also known as?;LAE
+What are the two types of loss adjustment expenses?;allocated loss adjustment expenses (ALAE) and unallocated loss adjustment expenses (ULAE)
+What are ALAE expenses associated with?;a particular claim
+What are ULAE expenses not associated with?;a particular claim
+What is an example of ALAE expenses?;lawyer's fees
+What is an example of ULAE expenses?;salary of the claims department manager
+What categorization was introduced by the U.S. insurance industry for reporting expenses?;another categorization1. What are the two categories of loss adjustment expenses?
+What are examples of fixed expenses?;Salaries of employees not in the claims department
+What is the variable expense ratio?;
+What is the fixed expense ratio?;
+What is the formula for the amount of expenses for the ratemaking process?;
+How can profit be included in the ratemaking calculation?;Implicitly or explicitly
+What happens under the implicit method of including profit?;Actuaries make conservative estimates for each component, resulting in profit for the company.
+What happens under the explicit method of including profit?;Actuaries do not make conservative estimates but instead addQ
+What is the permissible loss ratio (PLR)?;The permissible loss ratio (PLR) is the target loss ratio to cover variable expenses and meet profitability goals.
+Are fixed expenses included in the calculation of the permissible loss ratio (PLR)?;No, fixed expenses are accounted for elsewhere and will be explained later.

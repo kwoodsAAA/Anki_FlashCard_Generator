@@ -1,0 +1,165 @@
+ 1. What are the two main sections of homeowners insurance?
+Answer: Section I - Property Coverages and Section II - Liability Coverages.
+
+2. What are the four coverages included in Section I?
+Answer: A Dwelling, B Other Structures, C Personal Property, D Loss of Use.
+
+3. What are the two coverages included in Section II?
+Answer: E Personal Liability, F Medical Payment to Others.
+
+4. What are some factors that affect premium rates for homeowners insurance?
+Answer: Geographic location, construction type, value of dwelling.
+
+5. What are some examples of factors related to geographic location that affect premium rates?
+Answer: Distance to nearest fire station, probability of natural disasters.
+
+6. What are some examples of factors related to construction that affect premium rates?
+Answer: Type of materials, presence of security or sprinkler system.Question: What does Coverage A insure against?
+Answer: Coverage A insures against damages to your house from specific perils or on an all-risks basis up to a specified limit.
+
+Question: Give examples of perils that are excluded from basic coverage.
+Answer: Examples of exclusions are natural disasters (such as earthquakes and floods), criminal or intentional acts by the insured, nuclear accidents, acts of war or terrorism.
+
+Question: What is the doctrine of proximate cause?
+Answer: The doctrine of proximate cause states that a loss is covered if and only if a covered peril is the proximate cause of a covered consequence. Both the peril and consequence have to be covered under the policy and the peril must be the proximate cause.
+
+Question: What does Coverage B protect against?
+Answer: Coverage B protects against damages or losses to the garage or other structures.Question: What does Coverage C provide insurance for?
+Answer: Coverage C provides insurance for the policyholder's personal property and the contents of the house.
+
+Question: What do most insurers cover for personal property?
+Answer: Most insurers cover the actual cash value.
+
+Question: What additional coverage option do some insurers offer for personal property?
+Answer: Some insurers offer replacement cost coverage for an additional premium.
+
+Question: Does Coverage C extend to borrowed property?
+Answer: Yes, Coverage C extends to borrowed property under the possession of the insured.
+
+Question: Does Coverage C also extend to personal property that is outside of the house?
+Answer: Yes, Coverage C also extends to personal property that is outside of the house.
+
+Question: What are inside limits under personal property coverage?
+Answer: Inside limits are specific limits on compensation for certain losses.
+
+Question: Can there be a limit on compensation for stolen cash?
+Answer: Yes, there may be a limit to the amount of compensation for stolen cash.
+
+Question: Are there inside limits on coverage for jewelry, silverware, and art?
+Answer: Yes, there are inside limits on coverage for jewelry, silverware, and art.
+
+Question: How can homeowners fully insure these items?
+Answer: Homeowners can attach a schedule of these items and their appraised values to the policy to fully insure them.
+
+Question: What values will the insurer pay if these items are damaged or stolen?
+Answer: If these items are damaged or stolen, the insurer will pay the appraised values, not the market values.Q: What does Coverage D provide compensation for? 
+A: Additional living expenses and loss of rental income.
+
+Q: What will Coverage D pay for while repairs are being done on the house? 
+A: Fair value for alternative accommodations.
+
+Q: What will Coverage D indemnify? 
+A: The loss of rental income if parts of the primary dwelling were rented out before the loss.
+
+Q: What does Coverage E provide? 
+A: Third-party liability coverage if a third party is injured or if a third party's property is damaged on the insured's premises.
+
+Q: What does the injured party need to prove in Coverage E? 
+A: That the insured is liable for the injury or loss.
+
+Q: What does Coverage F provide? 
+A: Medical benefits to any third party injured on the insured's premises.
+
+Q: Does the insured need to be sued for Coverage F to provide medical benefits? 
+A: No, the insured does not need to be sued.Question: What is a tenants package policy?
+Answer: A policy for those who rent instead of own a house, also known as renters insurance.
+
+Question: What does a tenants package policy mostly cover?
+Answer: Personal possessions.
+
+Question: What is the purpose of the coinsurance provision?
+Answer: To penalize the insured if the limit purchased is less than a specified percentage of the full value of the dwelling.
+
+Question: Why does the coinsurance provision exist?
+Answer: Because the distribution of homeowners insurance losses is heavily weighted toward smaller amounts and allowing insureds to purchase lower limits without penalty poses greater risk to the insurance pool.
+
+Question: How is the insurance benefit calculated with coinsurance?
+Answer: 9/30/23, 7:28 PM S1.1.2 Homeowners - Learn F AM - Coaching.Question: What is the compensation amount in homeowners insurance?
+Answer: Compensation amount
+
+Question: What is the limit, or insured amount in homeowners insurance?
+Answer: Limit, or insured amount
+
+Question: What is the full value of the house at the time of loss in homeowners insurance?
+Answer: Full value of the house at the time of loss
+
+Question: What is the coinsurance percentage in homeowners insurance?
+Answer: Coinsurance percentage
+
+Question: What is the loss amount in homeowners insurance?
+Answer: Loss amount
+
+Question: Calculate the amount Safe House will pay to compensate for this loss.
+Answer: Solution: Based on the question, we can deduce that the compensation amount is:
+
+Question: What is the compensation amount in Example S1.1.2.1?
+Answer: Compensation amount
+
+Question: What is the homeowners insurance policy of Jon?
+Answer: Jon has a homeowners insurance policy through Safe House Insurance.
+
+Question: What is the insured amount for Jon's house?
+Answer: Jon's house is insured for 150,000.
+
+Question: What is the coinsurance clause in Safe House's homeowners insurance policy?
+Answer: Safe House's homeowners insurance policy has an 80% coinsurance clause.
+
+Question: What is the requirement of the coinsurance clause?
+Answer: The coinsurance clause requires all policyholders to insure at least 80% of the full value of their house.
+
+Question: What is the estimated loss incurred by Jon?
+Answer: During the policy year, Jon incurs a loss estimated at 50,000.
+
+Question: What is the value of Jon's house at the time of loss?
+Answer: At the time of the loss, Jon's house is valued at 250,000.
+
+Question: What is the compensation amount in Example S1.1.2.1?
+Answer: The compensation amount in Example S1.1.2.1 is: [Calculation needed]
+
+Question: What is the homeowners insurance policy of Garrett?
+Answer: Garrett has a homeowners insurance policy throu [Incomplete question]Q: What is Protect House's homeowners insurance policy insured for?
+A: 175,000.
+
+Q: What is Protect House's homeowners insurance policy coinsurance clause?
+A: Unknown.
+
+Q: What was the loss experienced by Garrett due to a tropical storm?
+A: 100,000.
+
+Q: How much did Protect House pay Garrett for the loss?
+A: 80,000.
+
+Q: What was the value of Garrett's house at the time of the loss?
+A: 300,000.
+
+Q: Calculate the compensation amount.
+A: Unknown.
+
+Q: What is the equation to calculate the compensation amount?
+A: Unknown.
+
+Q: Solve for the compensation amount.
+A: Unknown.
+
+Q: What is the limit of Quinn's commercial insurance policy?
+A: 90,000.
+
+Q: What is the coinsurance clause of Quinn's commercial insurance policy?
+A: 70%.
+
+Q: What is the deductible of Quinn's commercial insurance policy?
+A: 1,000.
+
+Q: How much damages were caused by the hurricane for Quinn?
+A: 10,000.question;Calculate the actual value of the property at the time of the loss.
+answer;Solve the following equation for the property value

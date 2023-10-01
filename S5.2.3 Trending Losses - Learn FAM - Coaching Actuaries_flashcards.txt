@@ -1,0 +1,184 @@
+ Q: What is the purpose of ratemaking?
+A: To determine premium rates for the future.
+
+Q: What adjustments need to be made to historical information in ratemaking?
+A: Adjustments for changes like inflation or underwriting procedures.
+
+Q: What is the experience period?
+A: The historical period used in ratemaking.
+
+Q: What is the forecast period?
+A: The expected effective period for premium rates.
+
+Q: What is loss trending?
+A: The process of adjusting historical information for changes in ratemaking.Question: What is the trend period in loss trending?
+Answer: The trend period is the period of time between the experience period and the calculation date.
+
+Question: What is the trend factor in loss trending?
+Answer: The trend factor is used to adjust the ultimate values from the experience period to the expected effective period.
+
+Question: What is the overlap fallacy?
+Answer: The overlap fallacy is a misconception that developing and trending losses will double-count the effect of inflation and other possible changes.
+
+Question: Are development and trending steps independent of each other?
+Answer: Yes, development and trending are two independent steps in ratemaking.
+
+Question: What are the two components of loss trending?
+Answer: The two components of loss trending are the trend period and the trend factor.What is the trend period calculation based on?
+
+The trend period calculation is based on the average loss occurrence date of the experience period and the expected effective period.
+
+What is the experience period?
+
+The experience period is the period in which losses from historical claims could occur.
+
+What are the two types of data that can be used for the experience period?
+
+The two types of data that can be used for the experience period are accident year data and policy year data.
+
+What is accident year data?
+
+Accident year data contain loss data for all losses occurring in a specific one-year period.
+
+What is the average loss occurrence date for accident year data?
+
+The average loss occurrence date for accident year data is the midpoint of the one-year period.
+
+What is an example of an accident year data?
+
+An example of an accident year data is AY2015, with the experience period ranging from January 1, 2015 to December 31, 2015. The midpoint is July 1, 2015.
+
+What is policy year data?
+
+Policy year data contain loss data for all losses associated with policies written in a specific one-year period.question;Under policy year aggregation, what do we need to account for?
+answer;We need to account for when the last policy written in the policy year will expire.
+question;What is the length of the experience period for policy year data?
+answer;The experience period has a length of  years, where  is the policy term.
+question;Give an example of annual policies and PY2015 loss data.
+answer;All losses for policies written in 2015 are included in PY2015. An annual policy written on December 31, 2015 would not expire until December 31, 2016.
+question;Give an example of 6-month policies and PY2015 loss data.
+answer;All losses for policies written in 2015 are included in PY2015. A 6-month policy written on December 31, 2015 would not expire until June 30, 2016.question: What is the expected effective period?
+answer: The expected effective period is the period in which losses can occur for policies written using the new rates.
+
+question: How is the length of the expected effective period determined?
+answer: The length of the expected effective period is determined as the sum of two quantities: the policy term and the length of time for which the new rates are in effect.
+
+question: Why is the expected effective period longer than the policy term?
+answer: The expected effective period is longer than the policy term because policies will be sold at the new rate for as long as the rates are in effect and because the last policy sold will be in effect for the length of the policy term.
+
+question: How is the expected effective period calculated for annual policies with rates effective for one year?
+answer: If the rates are calculated for annual policies and are effective for one year, then the expected effective period is a two-year time period starting from the effective date.Question: What is the forecast period if the effective date is October 1, 2018?
+Answer: October 1, 2018 to September 30, 2020
+
+Question: What is the midpoint of the forecast period if the effective date is October 1, 2018?
+Answer: October 1, 2019
+
+Question: If rates are calculated for annual policies and are effective for six months, what is the expected effective period?
+Answer: 18-month time period starting from the effective date
+
+Question: What is the forecast period if the effective date is October 1, 2018 and policies are assumed to be written/issued uniformly throughout the year?
+Answer: October 1, 2018 to March 31, 2020
+
+Question: What is the midpoint of the forecast period if the effective date is October 1, 2018 and policies are assumed to be written/issued uniformly throughout the year?
+Answer: July 1, 2019
+
+Question: What is the length of the trend period?
+Answer: Not provided in the textQuestion: What is the experience period for the first example?
+Answer: January 1, 2015 to December 31, 2015
+
+Question: What is the expected effective period for the first example?
+Answer: October 1, 2018 to September 30, 2020
+
+Question: What is the trend period for the first example?
+Answer: July 1, 2015 to October 1, 2019, or 4 years and 3 months (4.25 years)
+
+Question: What is the experience period for the second example?
+Answer: January 1, 2015 to December 31, 2016
+
+Question: What is the expected effective period for the second example?
+Answer: October 1, 2018 to September 30, 2020
+
+Question: What is the trend period for the second example?
+Answer: January 1, 2016 to October 1, 2019, or 3 years and 9 months (3.75 years)
+
+Question: What is the trend period for AY2015?
+Answer: July 1, 2015 to October 1, 2019, or 4.25 years
+
+Question: What is the trend period for PY2015?
+Answer: January 1, 2016 to October 1, 2019, or 3.75 yearsquestion;What is a trend factor used for?
+answer;A trend factor is used to adjust losses from the experience period to a cost level applicable to the expected effective period.
+question;What are some factors that drive loss trends?
+answer;Monetary inflation, increasing medical costs, and technological advances are some factors that drive loss trends.
+question;Why is selecting a trend factor important in the ratemaking process?
+answer;Selecting a trend factor is important in the ratemaking process because it can significantly impact the final cost level.
+question;What are some methods to decide on the numerical value of a trend factor?
+answer;Regression analysis is one method used to decide on the numerical value of a trend factor.
+question;In the given example, what are the ultimate losses for the accident years?
+answer;The ultimate losses for the accident years are as follows:
+2012 - $1,393,000
+2013 - $2,413,000
+2014 - $2,206,000
+2015 - $2,270,0001. What is the annual effective rate?
+Answer: 5%
+2. When are the rates calculated for?
+Answer: A one-year period effective March 1, 2018.
+3. How are annual policies assumed to be written?
+Answer: Uniformly throughout the year.
+4. How do we calculate the projected ultimate losses?
+Answer: Using AY2014 loss data.
+5. What is the trend factor given?
+Answer: 1.05
+6. What is the midpoint of AY2014?
+Answer: July 1, 2014.
+7. What is the midpoint of the forecast period?
+Answer: March 1, 2019.
+8. How many years and months are there from July 1, 2014 to March 1, 2019?
+Answer: 4 years and 8 months.
+9. What are the projected ultimate losses for the forecast period? (answer not provided)Question: What is the purpose of linear extrapolation?
+Answer: To get the trended losses.
+
+Question: What is the method used to predict losses for the forecast period?
+Answer: Assigning weights to each year and calculating the weighted average of the trended ultimate losses.
+
+Question: What is the responsibility of the pricing actuary when choosing a methodology to trend losses?
+Answer: Justify the methodology chosen.
+
+Question: Besides trending losses, what else can be done?
+Answer: Projecting losses directly using regression.Question: What is the trended pure premium (loss per unit exposure)?
+Answer: The trended pure premium is the projected ultimate losses divided by the number of exposures.
+
+Question: What is the loss experience of Garnier Insurance?
+Answer: The loss experience is as follows:
+2015: Estimated ultimate losses of 3,188 (in thousands)
+2016: Estimated ultimate losses of 3,242 (in thousands)
+2017: Estimated ultimate losses of 3,427 (in thousands)
+
+Question: What is the trend chosen by Actuary Jon for the forecast period?
+Answer: Actuary Jon chose a trend of 6% per year compounded continuously.
+
+Question: What are the weights assigned to each accident year's loss experience?
+Answer: The weights assigned are as follows:
+2015: 20%
+2016: 30%
+2017: 50%
+
+Question: What type of policies does Garnier Insurance write?
+Answer: Garnier Insurance only writes annual policies.
+
+Question: How can the projected ultimate losses be calculated for the forecast period?
+Answer: The projected ultimate losses can be calculated by applying the trend to each accident year's loss experience, multiplying it by the corresponding weight, and summing them up.question;answer
+What is the reference date for AY2015?;July 1, 2015
+What is the average loss occurrence date for the forecast period?;June 1, 2019
+What is the trend period in years?;3.9167 years
+What are the trended ultimate losses for AY2015?;4,032.53
+What is the trended ultimate loss for AY2016?;3,862.02
+What is the trended ultimate loss for AY2017?;3,844.66
+What is the projected ultimate losses for the forecast period?;Weighted average of trended ultimate losses using assigned weights.forecast period has the same length as the policy term. Hence, the average loss occurrence date is the midpoint of a one-year period.;The average loss occurrence date is the midpoint of a one-year period.
+Since policies are written only on June 1, 2018,  the average loss occurrence date of the forecast period is December 1, 2018,  which is the midpoint of the period from June 1, 2018 to June 1, 2019.;The average loss occurrence date of the forecast period is December 1, 2018.
+Note that the average loss occurrence dates are the same for the historical periods.;The average loss occurrence dates are the same for the historical periods.
+Then, the trended ultimate losses for each accident year are as follows:;The trended ultimate losses for each accident year are as follows:
+Accident Year: 2015;Weight: 20%;Trend Period: 3.4167;Trended Ultimate Losses: 3,913.35
+Accident Year: 2016;Weight: 30%;Trend Period: 2.4167;Trended Ultimate Losses: 3,747.88
+Accident Year: 2017;Weight: 50%;Trend Period: 1.4167;Trended Ultimate Losses: 3,731.03
+Finally, the projected ultimate losses for the forecast period is: 9/30/23, 6:08 PM S5.2.3 Trending Losses - Learn F AM - Coaching Actuaries
+https://account.coachingactuaries.com/fam/learn/4924/4926/34858 10/10;The projected ultimate losses for the forecast period is 9/30/23, 6:08 PM S5.2.3 Trending Losses - Learn F AM - Coaching Actuaries.

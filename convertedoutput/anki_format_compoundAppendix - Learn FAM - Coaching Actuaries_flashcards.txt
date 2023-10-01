@@ -1,0 +1,1 @@
+How can the compound mean and variance be calculated for a collective risk model?;Using Law of Total Expectation and Law of Total Variance.

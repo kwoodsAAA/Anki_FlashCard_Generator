@@ -1,0 +1,9 @@
+What is ratemaking?;Ratemaking is the determination of rates or premiums to be charged for insurance.
+Why is it difficult to determine the cost of an insurance policy?;The cost of an insurance policy is not known at the time the policy is sold.
+What is the purpose of ratemaking?;Actuaries ensure that the premium charged is enough to cover future losses and expenses and to generate profit.
+What is the fundamental insurance equation?;The fundamental insurance equation states that premiums = expected losses + expenses + profit.
+Why is ratemaking important?;Ratemaking is important to insurance companies and society as it ensures coverage for unexpected events and encourages loss control.What types of discounts do insurance policyholders receive for loss prevention?; Policyholders receive different types of discounts for loss prevention.
+What is an example of a good exposure base for homeowner's insurance?;Home value.
+What is an example of a bad exposure base for homeowner's insurance?;Cubic millimeters of available closet space.
+Is the provided introduction to ratemaking comprehensive?;No, it only provides an introduction and insurance companies have more complex approaches.
+What will be covered in the section on ratemaking?;Preparing data to perform ratemaking.

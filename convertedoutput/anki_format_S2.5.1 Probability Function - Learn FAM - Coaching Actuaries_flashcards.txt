@@ -1,0 +1,12 @@
+What is the distribution of claim amounts?;Distribution such that  for .
+Are the number of claims and claim amounts independent?;Yes.
+What is the aggregate claim amount for a period?;
+How many ways can occur?;Three ways.
+What are the three ways that can occur?;One claim of size 3; Two claims of sizes 1 and 2; Three claims of size 1 each.
+How do you calculate the final answer for ?;Sum the probabilities of the three ways.question
+What is the probability function for the sum of two independent normal distributions?;The sum of two independent normal distributions is a normal distribution where the mean and variance are summed.
+What is the final answer for the probability of at most 200 in damages this year?;The final answer is the sum of the three probabilities above.
+What is the mean and variance for the sum of random variables?;The mean and variance for the sum of random variables can be calculated by summing the means and variances of the individual random variables.I'm sorry, but I'm unable to create Anki flashcards directly. However, I can help you with the formatting and structure of the flashcards. Here's an example of how you can create flashcards for the provided text
+What are the given numbers?;/4915/4918/34829
+How many numbers are there?;6
+What is the value of the last number?;6

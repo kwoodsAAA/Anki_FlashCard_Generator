@@ -1,0 +1,237 @@
+ According to classical credibility theory, a set of observations is said to have achieved the standard of full credibility when the sample size is sufficiently large to provide an accurate estimate without having to rely on data from a more general source. If this is the case, then the observations will be given full credibility.
+So what criteria will qualify the internal data as "large enough" for full credibility? In general, the sample is g1. What is the goal when determining full credibility?
+The goal is to determine a standard where the sample mean is within 100% of the theoretical mean at least 100% of the time.
+
+2. What inequality needs to hold for full credibility?
+The inequality is: |x̄ - μ| ≤ 100
+
+3. What does x̄ represent?
+x̄ represents the sample mean.
+
+4. What does μ represent?
+μ represents the true distribution mean of the annual aggregate claims per insured.
+
+5. What must be established to determine full credibility?
+A threshold must be established, usually a reasonably large sample size.Question: What is the inequality that needs to be satisfied for full credibility?
+Answer: The inequality that needs to be satisfied for full credibility is 
+
+Question: What is the definition of ?
+Answer:  is the amount of permitted fluctuation of the sample mean from the true mean; it is usually small (close to 0).
+
+Question: What is the definition of ?
+Answer:  is the minimum probability for  to hold; it is usually large (close to 1).
+
+Question: What is the minimum sample size needed for full credibility also referred to as?
+Answer: The minimum sample size needed for full credibility is also referred to as the number of exposures.
+
+Question: In addition to the number of exposures, what is another way to express the minimum sample size requirement for full credibility?
+Answer: Another way to express the minimum sample size requirement for full credibility is in terms of the expected number of claims.Question: What does one observation/data point from the sample represent in the Credibility section?
+Answer: An exposure.
+
+Question: What can exposures represent based on context?
+Answer: Exposures can represent different things based on context.
+
+Question: How many exposures does All-Care need to observe to model aggregate claims per insured per year?
+Answer: All-Care needs to observe one insured for one year.
+
+Question: How many exposures does All-Care need to observe if it wants to use two exposures instead?
+Answer: All-Care can either observe two insureds for one year or observe one insured for two years.
+
+Question: What can we apply if the number of exposures is large?
+Answer: We can apply the Central Limit Theorem.
+
+Question: How can the normal approximation be illustrated?
+Answer: The normal approximation can be illustrated as [missing answer].
+
+Question: What is the formula for the number of exposures required to assign full credibility for aggregate claims?
+Answer: The formula is [missing answer].
+
+Question: What does the coefficient of variation represent in the aggregate loss per exposure distribution?
+Answer: The coefficient of variation represents [missing answer].question:The proof is provided in the appendix at the end of this section.
+answer:The proof is provided in the appendix at the end of this section.
+question:When working with a collective risk model, what can be expressed in terms of the claim frequency and the claim severity?
+answer:When working with a collective risk model, the aggregate claims can be expressed in terms of the claim frequency and the claim severity.
+question:Let's work on the short example below using what?
+answer:Let's work on the short example below using gamma distribution.
+question:You are given that the annual total claim size for each policyholder of a company follows what distribution?
+answer:You are given that the annual total claim size for each policyholder of a company follows a gamma distribution.
+question:What is the mean and variance of the gamma distribution?
+answer:The mean of the gamma distribution is 4 and the variance is 9.
+question:If the full credibility standard is for the aggregate claims to be within 5% of the mean 95% of the time, what is the number of exposures required for full credibility?
+answer:The number of exposures required for full credibility is not mentioned in the provided text.
+question:What is the component required in the formula for determining the number of exposures required for full credibility?
+answer:The component required in the formula for determining the number of exposures required for full credibility is not mentioned in the provided text.
+question:Graphically, if there are 864.32 exposures, what is the range of the average annual claim size with 95% probability?
+answer:Graphically, if there are 864.32 exposures, the range of the average annual claim size with 95% probability is between 3.8 and 4.2.question;What distribution does Winson use to model the number of claims per week?
+answer;Winson uses a distribution with the following probabilities for the number of claims per week: 0 (0.3), 1 (0.25), 2 (0.35), and 3 (0.1).
+question;What is the size of each claim?
+answer;Each claim has a size of 10.
+question;What is the standard of full credibility set by Winson?
+answer;Winson sets a standard of full credibility so that the actual aggregate claims is within 6% of the expected number 95% of the time.
+question;What is the goal in determining the number of exposures needed for full credibility?
+answer;The goal is to determine the number of exposures needed for full credibility in order to meet the standard set by Winson.
+question;What do we need to calculate first in order to determine the number of exposures needed for full credibility?
+answer;We need to calculate the mean and variance of the aggregate claims per week.Question: What is the annual number of claims and loss severity in the given example?
+Answer: The annual number of claims is given to follow a Poisson distribution with mean 5. The loss severity follows a gamma distribution with parameters α and β.
+
+Question: Are the claim frequency and severity independent in this example?
+Answer: Yes, the claim frequency and severity are independent.
+
+Question: What is the requirement for the aggregate loss in this example?
+Answer: The aggregate loss has to be within 3% of the expected loss with a probability of 90%.
+
+Question: What theory is used to determine the number of exposures needed for full credibility?
+Answer: Limited fluctuation credibility theory is used to determine the number of exposures needed for full credibility.
+
+Question: What are the variables used in the solution?
+Answer: Let N and S be the annual number of claims and the loss severity, respectively.
+
+Question: How do we calculate the mean and variance of the aggregate loss per year?
+Answer: Since N and S are independent, we apply the compound mean and variance formulas, i.e., E[aggregate loss] = E[N] * E[S] and Var[aggregate loss] = E[N] * Var[S] + Var[N] * E[S].
+
+Question: What is the final step to determine the number of exposures needed for full credibility?
+Answer: The final step is to use limited fluctuation credibility theory to calculate the number of exposures needed for full credibility.r of claims for the 864.32 insureds is 864.32 multiplied by 5, which is equal to 4321.6 claims.1. What is the formula for the expected number of claims needed for full credibility?
+The formula is: expected number of claims = 4,321.62 * (mean frequency per exposure)
+
+2. What is the difference between the mean frequency per exposure and the expected number of claims required for full credibility?
+The mean frequency per exposure is the frequency mean of each exposure, while the expected number of claims required for full credibility is the expected number of claims needed by the entire sample to meet the full credibility standard.
+
+3. How can the expected number of claims be calculated directly?
+The expected number of claims can be calculated directly by combining the mean frequency per exposure and the claim severity. The formula is: expected number of claims = (mean frequency per exposure) * (claim severity)question: What is the full credibility standard based on aggregate claims?
+answer: The full credibility standard based on aggregate claims is discussed in the provided text.
+
+question: What does it mean for the full credibility standard to be based on frequency?
+answer: When the full credibility standard is based on frequency, it is met by satisfying certain conditions related to the frequency of claims.
+
+question: What does it mean for the full credibility standard to be based on severity?
+answer: When the full credibility standard is based on severity, it is met by satisfying certain conditions related to the severity of claims.
+
+question: How can we calculate the standard for full credibility in terms of frequency?
+answer: We can calculate the standard for full credibility in terms of frequency by modifying certain components.
+
+question: How can we calculate the standard for full credibility in terms of severity?
+answer: We can calculate the standard for full credibility in terms of severity by modifying certain components.
+
+question: What should we do if the standard is based on frequency only?
+answer: If the standard is based on frequency only, we should set the severity component to 0.
+
+question: What should we do if the standard is based on severity only?
+answer: If the standard is based on severity only, we should set the frequency component to 0.
+
+question: How can we express the standard for full credibility in terms of a different variable?
+answer: We can express the standard for full credibility in terms of a different variable by rearranging certain equations.
+
+question: What does the variable "𝜆" represent?
+answer: The variable "𝜆" represents the expected number of claims.question: When is it okay to drop the term "expected" and call it the "number of claims needed for full credibility"?
+
+answer: Sometimes, in practice when the observed claim frequency can be used to decide if the standard of full credibility is met.
+
+question: What is an example of assigning full credibility to observations?
+
+answer: When there are at least 200 observed claims and the expected number of claims needed for full credibility is 200.
+
+question: Are all formulas in the table required to be memorized?
+
+answer: No, not all formulas in the table need to be memorized.question: What is the basis for full credibility?
+answer: aggregate claims, frequency, or severity
+
+question: How can you determine the expected number of claims needed for full credibility?
+answer: Use the formula , modifying it appropriately based on Step 1.2
+
+question: What is the example given in S4.1.1.3?
+answer: The number of claims per year follows a Poisson distribution. The claim amount distribution has a mean of 100 and a variance of 600. The number of claims and claim sizes are independent.
+
+question: What is the solution to (1)?
+answer: Let  be the annual number of claims. Since it follows a Poisson distribution, we know that1. To find the number of exposures needed for full credibility, first calculate [answer: the expected number of claims needed for full credibility].
+2. If full credibility is for aggregate claims, consider using [answer: a different formula].
+3. The number of claims is within 2% of its estimate with a 95% chance. [answer: 1]
+4. The aggregate claim is within 8% of its estimate with a 99% chance. [answer: 2]
+5. Let [answer: "x"] be the annual number of claims and [answer: "y"] be the claim amount. [question: What are the variables used in the calculation?]
+6. To calculate the expected number of claims needed for full credibility, apply [answer: a formula] and determine each component. [question: How do you calculate the expected number of claims needed for full credibility?]
+7. Solution to (2) [answer: Calculate the solution to problem (2)]
+8. Again, to calculate the expected number of claims needed for full credibility, apply [answer: a formula] and determine each component. [question: How do you calculate the expected number of claims needed for full credibility?]
+9. Example S4.1.1.4 [answer: This is an example problem]
+10. You are given: [answer: Given information]Question: What is the expected number of claims needed to achieve the full credibility standard?
+
+Answer: To calculate the expected number of claims needed for full credibility, we need to apply the formula: Expected number of claims = (1 - credibility factor) / credibility factor.
+
+Question: What is the credibility factor?
+
+Answer: The credibility factor is a measure of how much weight is given to the observed data versus the expected data. It is calculated as the standard deviation of the aggregate claim divided by the standard deviation of the individual claim.
+
+Question: How do we determine the frequency distribution?
+
+Answer: The frequency distribution is given in the problem statement. It has the following distribution: 
+Number of Claims: Probability
+0: 0.3
+1: 0.4
+2: 0.1
+3: 0.2
+
+Question: What is the severity distribution?
+
+Answer: The severity distribution is described in the problem statement as a lognormal distribution with parameters mu and sigma.
+
+Question: What are the parameters mu and sigma?
+
+Answer: The parameters mu and sigma are the mean and standard deviation of the lognormal distribution, respectively.
+
+Question: How do we calculate the expected number of claims needed for full credibility?
+
+Answer: To calculate the expected number of claims needed for full credibility, we need to determine the credibility factor and then apply the formula: Expected number of claims = (1 - credibility factor) / credibility factor.
+
+Question: What is the formula for the credibility factor?
+
+Answer: The formula for the credibility factor is the standard deviation of the aggregate claim divided by the standard deviation of the individual claim.
+
+Question: How do we calculate the standard deviation of the aggregate claim?
+
+Answer: The standard deviation of the aggregate claim can be calculated using the frequency distribution and the severity distribution.
+
+Question: How do we calculate the standard deviation of the individual claim?
+
+Answer: The standard deviation of the individual claim can be calculated using the severity distribution.Question: Using the exam table, what is the solution to (2)?
+Answer: To calculate the number of exposures needed for full credibility, apply...
+
+Question: From Solution to (1), what do we have?
+Answer: We have...
+
+Question: What is the alternative solution to (2)?
+Answer: Alternatively, ... can be applied to answer this question. Since ... and ... are independent, we can use the compound mean and variance formulas to calculate ...
+
+Question: What is given in Example S4.1.1.5 for an insurance portfolio?
+Answer: For an insurance portfolio, you are given: The annual claim counts follow a negative binomial distribution with parameters ... and ... The claim sizes follow a gamma distribution...Question: Using classical credibility, how many expected claims are needed so that the aggregate claim is within 100% of the expected value with 90% probability?
+Answer: 1,691
+
+Question: What are the variables denoted as  and  in the problem?
+Answer:  and 
+
+Question: How do you calculate the expected number of claims needed for full credibility?
+Answer: Apply 
+
+Question: What is the frequency distribution component in this problem?
+Answer: 
+
+Question: What is the severity distribution component in this problem?
+Answer: 
+
+Question: What is the binomial distribution used for in this problem?
+Answer: Annual number of claims for each insured
+
+Question: What are the parameters of the binomial distribution used in this problem?
+Answer:  and 
+
+Question: Is claim severity independent of the annual claim count?
+Answer: Yesquestion;answer
+What is the purpose of classical credibility theory?;To determine the number of claims needed for full credibility.
+How many claims are needed to achieve the standard of full credibility?;3,000 claims.
+What is the full credibility standard set for?;To ensure that the claim severity or pure premium is within 5% of its mean 95% of the time.
+What is the formula used to calculate the expected number of claims needed for full credibility?;Not provided.
+What does the term "pure premium" represent?;The aggregate claim frequency per insured, and has a coefficient of variation.question: What is the purpose of calculating the expected number of claims needed for full credibility?
+answer: To determine the number of claims required for accurate estimation.
+
+question: How can the expected number of claims needed for full credibility be calculated?
+answer: By applying the formula .
+
+question: What is the significance of the observed pure premium being within 2% of the expected pure premium 90% of the time?
+answer: It indicates a level of accuracy and reliability in estimating the pure premium.

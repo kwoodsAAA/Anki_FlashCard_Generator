@@ -1,0 +1,41 @@
+What are coverage modifications in insurance?;Coverage modifications are changes made to insurance policies that include deductibles, policy limits, and coinsurances.
+What is a deductible in insurance?;A deductible is the amount of each claim that the policyholder is responsible for paying before the insurer will pay a claim.
+What are the different types of deductibles?;The different types of deductibles include fixed dollar deductibles, fixed percentage deductibles, disappearing deductibles, franchise deductibles, fixed dollar deductibles per calendar year, and elimination periods.
+What is a fixed dollar deductible?;A fixed dollar deductible has a set dollar amount, regardless of the size of the loss.
+What happens if a loss is below the fixed dollar deductible?;If a loss is below the fixed dollar deductible, the insurer pays nothing for the claim.
+What is a fixed percentage deductible?;A fixed percentage deductible is a deductible that is a percentage of the loss amount.
+What are disappearing deductibles?;Disappearing deductibles are deductibles that decrease over time if no claims are made.
+What are franchise deductibles?;Franchise deductibles are deductibles that apply only if the loss exceeds a certain amount.
+What are fixed dollar deductibles per calendar year?;Fixed dollar deductibles per calendar year are deductibles that apply once per calendar year, regardless of the number of claims made.
+What are elimination periods?;Elimination periods are a specified period of time that must pass before coverage begins for certain types of losses.Question
+How is a fixed percentage deductible usually paired?;A fixed percentage deductible is usually paired with a minimum dollar deductible.
+What is the effective deductible for a loss size of X with a fixed percentage deductible of Y% and a floor of Z?;The effective deductible for a loss size of X with a fixed percentage deductible of Y% and a floor of Z is X * Y% or Z, whichever is greater.
+What is the insurer's payment for a loss size of X with a fixed percentage deductible of Y% and a floor of Z?;The insurer's payment for a loss size of X with a fixed percentage deductible of Y% and a floor of Z is (1 - Y%) * X or 0, whichever is greater.
+What is a disappearing deductible?;A disappearing deductible decreases linearly within a specific loss range.
+What is the effective deductible for a policy with an initial deductible of A that decreases linearly to zero between the loss sizes of B and C?;The effective deductible for a policy with an initial deductible of A that decreases linearly to zero between the loss sizes of B and C is (A * (X - B)) / (C - B).
+How does a franchise deductible work?;For a policy that has a franchise deductible of X, the insurer pays nothing for a loss below X, and the full amount for a loss that exceeds X.
+Are franchise deductibles common in insurance nowadays?;No, franchise deductibles used to be common in ocean marine insurance, but they are not very common anymore.
+What are fixed dollar deductibles per calendar year?;Fixed dollar deductibles per calendar year are commonly used in health insurance policies.1. What is a fixed dollar deductible per calendar year?
+What happens during the elimination period?;The insured does not receive any disability benefits.
+When are benefits paid retroactively for the elimination period?;If the disability continues for a certain length of time.
+What is the period before benefits are paid retroactively called?;The retroactive qualification period.
+What happens if the retroactive qualification period is the same as the elimination period?;The policy will have a franchise deductible.
+What are the objectives of deductibles in insurance policies?;- Eliminate claims for small losses, reducing expenses.
+What is the claim payment when the loss exceeds the deductible?;The insurer pays the excess loss amount.
+What is the effective deductible when the loss does not exceed the deductible?;The effective deductible is  and the claim payment is
+What is the claim payment when applying the given equation?;The claim payment is
+What is the claim payment when the loss exceeds the deductible?;The insurer pays the entire loss amount.
+Calculate the payment for a claim of size 1,000.;Solution
+What is the claim amount, payment amount, and effective deductible for the second claim?;Claim amount
+What is the claim amount, payment amount, and effective deductible for the third claim?;Claim amount
+What is the claim amount, payment amount, and effective deductible for the fourth claim?;Claim amount
+What is the effective deductible for a claim amount of 200?;At least 200.
+How do we calculate the upper bound of the range for a disappearing deductible?;Using linear interpolation.
+Is a claim amount of 1,000 within the range of the disappearing deductible?;Yes.
+What is the effective deductible for a claim amount of 1,000?;The effective deductible for a claim amount of 1,000 is [not provided in the text].question;What is a policy limit?
+What does the term coinsurance clause refer to?;The coinsurance provision in homeowners insurance.
+What is the structure of claim payment when all three common coverage modifications are present?;The claim payment has the following structure
+What is the maximum covered loss?;The maximum covered loss is the loss above which no additional benefits are paid.
+How is the maximum covered loss determined?;The maximum covered loss is the smallest loss amount for which the insurer pays the policy limit.
+How can the formula for claim payment be modified for any combination of coverage modifications?;To modify the formula, set % of the loss if there is no deductible, set % of the loss if there is no policy limit, and set % of the loss if there is no coinsurance.question;The payment structure above assumes the coinsurance only kicks in after the deductible is met, which is the default.
+Calculate the insurance payment for a claim of 2,100.;The insurance policy has a franchise deductible of 500 and a policy limit of 1,500. Since the policy pays the full loss above the deductible, the maximum covered loss is 1,500, not 2,000. As the claim exceeds the maximum covered loss, the insurance payment is capped at the policy limit.
